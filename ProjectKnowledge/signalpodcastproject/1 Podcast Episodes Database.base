@@ -9,14 +9,15 @@ views:
       - episode_number
       - file.name
       - episode_title
-      - recording_date
+      - guest_name
       - status
       - project_phase
-      - episode_type
-      - guest_company
-      - theme
       - last_updated
     sort:
+      - property: file.name
+        direction: ASC
+      - property: guest_company
+        direction: DESC
       - property: episode_number
         direction: ASC
       - property: duration_target
@@ -25,8 +26,8 @@ views:
       note.episode_number: 23
       file.name: 221
       note.episode_title: 325
+      note.guest_name: 272
       note.status: 143
-      note.theme: 183
   - type: cards
     name: Cards
     filters:
