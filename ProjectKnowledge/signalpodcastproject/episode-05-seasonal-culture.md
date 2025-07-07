@@ -1,11 +1,15 @@
 ---
 episode_number: 5
 episode_title: Culture in a Seasonal World
-episode_type: Host-Only
+episode_type: Guest (Potential)
 recording_date: TBD
 status: Idea
 theme: Operational Excellence
-guest_required: false
+guest_required: true
+guest_name: Jayson Babel (Potential - Tim to reach out)
+guest_title: 
+guest_company: 
+guest_linkedin: https://www.linkedin.com/in/jayson-babel-78052441/
 duration_target: 30-35 minutes
 content_type: podcast-episode
 project_phase: concept

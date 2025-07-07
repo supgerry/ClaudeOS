@@ -27,3 +27,33 @@ views:
       note.episode_title: 325
       note.status: 143
       note.theme: 183
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.folder == "ClaudeOS/ProjectKnowledge/signalpodcastproject"
+        - content_type == "podcast-episode"
+    order:
+      - episode_number
+      - file.name
+      - episode_title
+      - recording_date
+      - status
+      - project_phase
+      - episode_type
+      - guest_company
+      - theme
+      - guest_confirmation
+      - guest_name
+    sort:
+      - property: episode_number
+        direction: ASC
+      - property: duration_target
+        direction: DESC
+    columnSize:
+      note.episode_number: 23
+      file.name: 221
+      note.episode_title: 325
+      note.status: 143
+      note.theme: 183
+    cardSize: 320
