@@ -1,0 +1,28 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "ClaudeOS/ProjectKnowledge/signalpodcastproject"
+        - content_type == "podcast-episode"
+    order:
+      - episode_number
+      - file.name
+      - episode_title
+      - recording_date
+      - project_phase
+      - status
+      - episode_type
+      - guest_company
+      - theme
+      - last_updated
+    sort:
+      - property: episode_number
+        direction: ASC
+      - property: duration_target
+        direction: DESC
+    columnSize:
+      file.name: 221
+      note.episode_title: 325
+      note.status: 143
+      note.theme: 183
