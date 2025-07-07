@@ -2,16 +2,19 @@
 episode_number: 3
 episode_title: From Story to Reality
 episode_type: Guest
-recording_date: TBD
-status: Planning
+recording_date: TBD (after July 15)
+status: Pre-Production
 theme: Experience Design
 guest_required: true
-guest_name: Sara Schiller
-guest_title: Co-founder
+guest_name: Sara Schiller & Karen Rausch
+guest_title: Co-founders
 guest_company: Sloomoo Institute
-duration_target: 30-35 minutes
+duration_target: 60-90 minutes
 content_type: podcast-episode
-project_phase: planning
+project_phase: pre-production
+interview_status: Pre-call completed July 3, 2025
+guest_availability: Flexible, coordinating schedules
+recording_format: Video + Audio (Riverside)
 last_updated: July 7, 2025
 ---
 
