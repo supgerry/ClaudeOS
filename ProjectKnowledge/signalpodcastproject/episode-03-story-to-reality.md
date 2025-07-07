@@ -23,15 +23,38 @@ last_updated: July 7, 2025
 
 ## Episode Overview
 
-**Description**: John & Tim dive into the power of theming and intellectual property in modern attractions with Sarah and Karen, the co-founders of Sloomoo Institute, exploring how strong narratives transform ordinary experiences into unforgettable journeys.
+**Description**: John & Tim dive into the power of theming and intellectual property in modern attractions with Sara Schiller, co-founder of Sloomoo Institute, exploring how strong narratives transform ordinary experiences into unforgettable journeys.
+
+## Comprehensive Research Insights
+
+### Business Performance Overview
+- **$30M annual revenue** (2023) across 5 locations  
+- **500,000+ annual visitors**
+- **$5.8M Series A** at $50M valuation (2022)
+- **80/20 revenue split**: tickets/retail (experience drives product sales)
+- **75% customer acquisition** through organic social media
+
+### Strategic Innovation Framework
+- **Original IP built around emotion** ("joy") vs. licensed franchises
+- **Experience-as-retail-funnel** model (every guest leaves with product)
+- **Digital trend to physical expression** (satisfying slime videos to immersive experience)
+- **Multi-sensory design philosophy** (60+ scents, ASMR stations, tactile experiences)
 
 ## Guest Information
 
-### Sara Schiller
-- **Title**: Co-founder
+### Sara Schiller - The Physical Experience Architect
+- **Title**: Co-founder & Co-CEO
 - **Company**: Sloomoo Institute
-- **Expertise**: Experience design, theming, intellectual property, immersive experiences
-- **Background**: Created unique slime-based interactive experience that became a viral sensation
+- **Background**: Serial entrepreneur who revolutionized corporate meetings with "Meet" (art-filled venues for Chanel, LEGO). Co-founded Wooster Collective, world's largest street art blog.
+- **Personal Connection**: Primary caregiver for disabled husband (stroke victim) and daughter with Angelman syndrome. Discovered slime's therapeutic benefits during family play sessions.
+- **Strategic Focus**: Physical space design, operations, guest experience curation, retail strategy
+- **Interview Status**: Confirmed as solo guest (Karen not participating)
+
+### Karen Robinovitz - The Digital Community Pioneer (Background Only)
+- **Title**: Co-founder & Co-CEO  
+- **Background**: Founded Digital Brand Architects (DBA), first talent management agency for social media influencers. Previously NY Times journalist, PR strategist for Tiffany & Co.
+- **Personal Connection**: Found slime during severe depression after losing husband to suicide and cousin in Parkland shooting. Four hours of slime play was first joy in over a year.
+- **Strategic Focus**: Digital community building, brand voice, PR, IP development
 
 ## Episode Focus Areas
 
