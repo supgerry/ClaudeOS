@@ -5,8 +5,8 @@ The following are to be pasted into the Project Instructions Field in the Claude
 
 Your instructions are located in three documents in project knowledge:
 1. Read "[PROJECT INSTRUCTION FILE]"
-2. Read "'/Users/geraldinelee/Dropbox/Apps/Obsidian/ClaudeOS/SystemCore/Claude Project Tool Usage Guide - Local File Operations.md'" 
-3. Read "'/Users/geraldinelee/Dropbox/Apps/Obsidian/ClaudeOS/SystemCore/ClaudeOS Personal Operating System - Universal Guide.md'"
+2. Read "'/Users/geraldinelee/Dropbox (Personal)/Apps/Obsidian/RR-ClaudeOS/ClaudeOS/SystemCore/Claude Project Tool Usage Guide - Local File Operations.md'" 
+3. Read "'/Users/geraldinelee/Dropbox (Personal)/Apps/Obsidian/RR-ClaudeOS/ClaudeOS/SystemCore/ClaudeOS Personal Operating System - Universal Guide.md'"
 Fully comprehend all three documents before any response.
 
 
