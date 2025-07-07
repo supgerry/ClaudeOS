@@ -2,8 +2,8 @@
 episode_number: 3
 episode_title: From Story to Reality
 episode_type: Guest
-recording_date: TBD (after July 15)
-status: Pre-Production
+recording_date: Pending John/Tim selection from Sara's availability
+status: Scheduling Coordination
 theme: Experience Design
 guest_required: true
 guest_name: Sara Schiller
