@@ -2,8 +2,8 @@
 episode_number: 3
 episode_title: From Story to Reality
 episode_type: Guest
-recording_date: Pending John/Tim selection from Sara's availability
-status: Scheduling Coordination
+recording_date: Likely July 18, Friday, 2-4 PM CT (pending Sara's confirmation)
+status: Awaiting Final Date Confirmation
 theme: Experience Design
 guest_required: true
 guest_name: Sara Schiller
@@ -13,9 +13,12 @@ duration_target: 60-90 minutes
 content_type: podcast-episode
 project_phase: pre-production
 interview_status: Pre-call completed July 3, 2025
-guest_availability: Confirmed - July 17 (3-6 PM), July 18 (2-5 PM), July 24 (12-2 PM)
+guest_availability: July 17 (3-6 PM), July 18 (2-5 PM), July 24 (12-2 PM)
+preferred_slot: July 18, Friday, 2-4 PM CT (best match with John/Tim availability) 
 recording_format: Video + Audio (Riverside)
 guest_confirmation: Sara only (Karen not participating)
+equipment_status: Purchased and shipped ($166.52 USD)
+equipment_details: OBSBOT Meet SE 1080P webcam, FIFINE USB Mic+Headphones, Zoom Lighting
 last_updated: July 7, 2025
 ---
 
