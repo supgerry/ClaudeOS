@@ -10,8 +10,8 @@ views:
       - file.name
       - episode_title
       - recording_date
-      - project_phase
       - status
+      - project_phase
       - episode_type
       - guest_company
       - theme
@@ -22,6 +22,7 @@ views:
       - property: duration_target
         direction: DESC
     columnSize:
+      note.episode_number: 23
       file.name: 221
       note.episode_title: 325
       note.status: 143
