@@ -54,9 +54,10 @@
 
 ### Guest Confirmation Progress
 **Status**: 🟢 Strong Pipeline
-**Confirmed Guests** (4): Sara Schiller ✅, Alex Ojeda ✅, Tyler ✅, Susan L. Storey ✅
+**Confirmed Guests** (4): Sara Schiller ✅, Alex Ojeda ✅ (pre-call scheduled), Tyler ✅, Susan L. Storey ✅
 **Pending Guests** (4): Denise (awaiting response), Jayson (Tim to reach out), April Dunford (need outreach), Blake Hess (Kari's connection)
 **Confirmation Rate**: 50% (4 of 8 contacted)
+**Latest Update**: Alex Ojeda outreach sent with Calendly link for pre-call scheduling
 
 **Episode Status Breakdown**:
 - Episode 1 (Signal On): ✅ Ready to Record (June 18, 2025)
