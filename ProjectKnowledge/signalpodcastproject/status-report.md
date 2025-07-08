@@ -20,6 +20,7 @@
 - Landing page built and pending review from hosts
 - **NEW**: Guest outreach emails sent to Alex Ojeda, Tyler Jacobs, and Susan L. Storey
 - **NEW**: Confirmed Evan Reese as guest (pending email coordination)
+- **NEW**: Episode 1 re-record scheduled for July 14, 2:45pm CT
 
 ---
 
