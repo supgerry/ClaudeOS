@@ -84,7 +84,7 @@ This aims to:
 - [ ] Develop launch promotion plan (social, email, website)
 - [x] Prepare website/landing page presence based on branding decision
 
-### Phase 4: Launch (TARGET: Mid-June 2025)
+### Phase 4: Launch (TARGET: September 2025)
 - [ ] Publish the first episode(s) across selected channels
 - [ ] Execute launch promotion plan
 
