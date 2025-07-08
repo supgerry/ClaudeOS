@@ -13,6 +13,7 @@ views:
       - status
       - project_phase
       - last_updated
+      - interview_status
     sort:
       - property: file.name
         direction: ASC
