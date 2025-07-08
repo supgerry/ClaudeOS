@@ -65,7 +65,7 @@
 **Latest Update**: Three guest outreach emails sent July 8 with Calendly scheduling links
 
 **Episode Status Breakdown**:
-- Episode 1 (Signal On): ✅ Ready to Record (June 18, 2025)
+- Episode 1 (Signal On): 🎬 **Re-record scheduled July 14, 2:45pm CT**
 - Episode 2 (Cross-Border Tourism): 🟡 Planning (Guest: Denise Beckson)
 - Episode 3 (Story to Reality): 🟡 Planning (Guest: Sara Schiller)
 - Episodes 4-10: 💡 Concepts documented with detailed frameworks
