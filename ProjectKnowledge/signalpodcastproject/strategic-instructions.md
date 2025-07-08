@@ -1,4 +1,4 @@
-**Version 1.0 | 2025-07-07**
+**Version 1.1 | 2025-07-08**
 **Project**: Signal Podcast Project
 **Owner**: Geraldine Lee
 **Purpose**: Strategic instructions for RocketRez's Signal podcast production, content strategy, and marketing management
@@ -125,10 +125,11 @@ This aims to:
 - Building a tech company
 - Adapting to seasonal employment challenges
 
-### Initial Guest Targets
-- Tyler
-- Kari
-- Daniel Pino
+### Guest Status Progress (Updated July 8, 2025)
+**Confirmed Guests**: Sara Schiller, Alex Ojeda, Tyler, Susan L. Storey
+**Pending Guests**: Denise (awaiting response), Jayson (Tim to reach out), April Dunford (need outreach), Blake Hess (Kari's connection)
+**Guest Outreach Infrastructure**: Standardized email templates and Calendly scheduling system established
+**Booking Link**: https://calendly.com/signal-rocketrez/30min
 
 ### Recurring Segments
 - Marketing team (Gerry, Chip, Pooja) developing recurring segment titles and branding elements
@@ -141,11 +142,12 @@ This aims to:
 **Content Documentation:**
 - Content doc: https://rocketrez-my.sharepoint.com/:w:/r/personal/tim_samson_rocketrez_com/Documents/Podcast%20Research.docx?d=w7f108ada58464122b1a62ee61c3c6b39&csf=1&web=1&e=fazwkj
 - Signal Podcast Landing Page Copy
-- Guest Invitation materials
+- Guest Email Templates (guest-email-templates.md)
 - Podcast Content planning
 - Podcast Name Ideas (archived)
 - Lighting References
 - Podcast Segment Ideas
+- Guest Booking System: https://calendly.com/signal-rocketrez/30min
 
 **Inspiration References:**
 - https://www.talkingadditive.com/ (Pooja's previous company)
