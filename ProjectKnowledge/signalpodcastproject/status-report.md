@@ -105,30 +105,47 @@
 
 ## Upcoming Milestones
 
-### Phase 3 Completion (Target: Mid-June 2025)
+### Phase 3 Completion (Target: July-August 2025)
 **Critical Path Items**:
 - [x] Episode planning and content strategy established ✅ July 7, 2025
 - [x] Knowledge management system implemented ✅ July 7, 2025
+- [x] Guest outreach templates standardized ✅ July 8, 2025
+- [x] Landing page development ✅ (pending review)
 - [ ] Complete first batch of episodes (3-5 episodes banked)
-- [ ] Finalize guest coordination for Episodes 2-3
-- [ ] Complete landing page development
+- [ ] Finalize guest coordination and recording schedule
 - [ ] Execute marketing campaign preparation
 
-### Phase 4 Launch Preparation
+**Current Blocking Issues**:
+- 🔴 **Host scheduling**: Need agreement on recording time from John and Tim
+- 🔴 **Guest coordination**: Scheduling all guest calls and recordings
+- 🟡 **Project lead absence**: Gerry away July 26 - August 18, 2025
+
+### Phase 4 Launch Preparation (Target: September 2025)
 **Launch Readiness Checklist**:
 - [x] Episode content framework established ✅
 - [x] Production workflow documented ✅
+- [x] Landing page built ✅ (pending review)
 - [ ] Episode bank completed and approved
 - [ ] Distribution channels configured
 - [ ] Marketing materials finalized
 - [ ] Social media promotion scheduled
 - [ ] Newsletter integration implemented
 
-### Immediate Next Actions (Next 2 Weeks)
-1. **Guest Outreach**: Tim to follow up with Jayson, John/team to reach out to April Dunford, Kari to continue Blake Hess connection
-2. **Episode 1 Recording**: Execute June 18 recording session
-3. **Content Production**: Begin Episode 2 and 3 preparation using established episode briefs
-4. **System Refinement**: Test and optimize episode tracking system in Obsidian
+### Immediate Next Actions (Before July 26)
+1. **Critical**: Secure agreement on recording schedule from John and Tim
+2. **Guest Coordination**: Continue pending outreach (Tim→Jayson, John/team→April Dunford, Kari→Blake Hess)
+3. **Landing Page**: Get review and approval from John and Tim
+4. **Pre-Absence Setup**: Establish recording schedule for post-August execution
+
+### Actions During Absence (July 26 - August 18)
+- Tim and John to continue guest outreach and scheduling
+- Landing page review and approval to proceed
+- Equipment and setup maintenance
+
+### Post-Absence Priorities (August 18+)
+1. **Episode Production**: Execute recording schedule with confirmed guests
+2. **Content Creation**: Complete first batch of episodes (3-5 banked)
+3. **Launch Preparation**: Finalize marketing campaign for September launch
 
 ---
 
@@ -178,10 +195,16 @@
 🟡 Guest coordination and scheduling
 🟡 Marketing campaign execution timing
 
+### High Risk Items
+🔴 Host scheduling agreement (blocking all recording)
+🔴 Project coordination during lead absence (July 26 - August 18)
+
 ### Mitigation Strategies
-- **Content Timeline**: Batch recording sessions to build episode bank
-- **Guest Coordination**: Early outreach and flexible scheduling
-- **Marketing Execution**: Parallel development of promotion materials
+- **Host Scheduling**: Priority focus on securing John and Tim agreement before July 26
+- **Absence Coordination**: Clear delegation and communication protocols for July 26 - August 18
+- **Content Timeline**: Batch recording sessions to build episode bank post-absence
+- **Guest Coordination**: Continue outreach during absence period through established templates
+- **Marketing Execution**: Parallel development of promotion materials for September launch
 
 ---
 
