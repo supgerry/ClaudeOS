@@ -134,5 +134,17 @@ Gerry
 ## Usage Tracking
 
 **Alex Ojeda**: Template 1 sent July 8, 2025 ✅  
-**[Next Guest]**: [Template used] [Date sent]  
+**Tyler Jacobs**: Template 2 sent July 8, 2025 ✅ (Loyalty episode)  
 **[Next Guest]**: [Template used] [Date sent]
+
+---
+
+## Guest Context Notes
+
+**Tyler Jacobs (Morey's Piers)**
+- Episode: "The Loyalty Revolution" 
+- Relationship: Former intern under Tim at Morey's Piers, now trusted operational advisor
+- Tim uses Tyler as litmus test for operational decisions and experience
+- Brought to Morey's Piers by one of the Morey co-founders (2 brothers)
+- Timing: Morey's loyalty program launching day after email sent
+- Strategic value: Strong operational expertise, trusted by Tim
