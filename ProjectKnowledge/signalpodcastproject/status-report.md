@@ -11,12 +11,13 @@
 **Phase Progress**: 75% Complete
 **Launch Target**: September 2025
 
-### Recent Update (July 7, 2025)
-**Knowledge Base Establishment**: ✅ Complete
-- Comprehensive episode planning system implemented in ClaudeOS
-- Individual episode files created with Obsidian properties for filtering
-- Content strategy documentation finalized
-- Episode brief template established for future production
+### Recent Update (July 8, 2025)
+**Guest Outreach & Project Updates**: ✅ Progress
+- Guest email templates standardized and documented
+- Calendly booking system established for guest coordination
+- Project timeline updated to September 2025 launch
+- Headshots completed for John and Tim (June 18, 2025)
+- Landing page built and pending review from hosts
 
 ---
 
@@ -40,6 +41,8 @@
 - Weekly podcast sync meetings implemented
 - John and Tim added to HubSpot for LinkedIn integration
 - Production workflow defined and tested
+- Headshots completed for hosts (June 18, 2025)
+- Landing page built (pending host review)
 
 ---
 
