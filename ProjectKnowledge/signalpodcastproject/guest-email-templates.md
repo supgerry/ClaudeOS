@@ -136,6 +136,7 @@ Gerry
 **Alex Ojeda**: Template 1 sent July 8, 2025 ✅  
 **Tyler Jacobs**: Template 2 sent July 8, 2025 ✅ (Loyalty episode)  
 **Susan L. Storey**: Template 2 sent July 8, 2025 ✅ (Communications episode)  
+**April Dunford**: Email available (april@aprildunford.com) - pending outreach decision  
 **[Next Guest]**: [Template used] [Date sent]
 
 ---

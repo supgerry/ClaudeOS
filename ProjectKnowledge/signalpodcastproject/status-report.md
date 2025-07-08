@@ -135,10 +135,15 @@
 - [ ] Newsletter integration implemented
 
 ### Immediate Next Actions (Before July 26)
-1. **Critical**: Secure agreement on recording schedule from John and Tim
-2. **Guest Coordination**: Continue pending outreach (Tim→Jayson, John/team→April Dunford, Kari→Blake Hess)
-3. **Landing Page**: Get review and approval from John and Tim
-4. **Pre-Absence Setup**: Establish recording schedule for post-August execution
+1. **Episode 1 Re-record**: July 14, 2:45pm CT - John and Tim
+2. **Sara Scheduling**: Confirm John and Tim availability for July 18, 2-4pm CT
+3. **Guest Coordination**: 
+   - Tim→Evan email needed
+   - Tim→Jayson outreach
+   - April Dunford outreach (april@aprildunford.com) - determine if Gerry or existing contact should reach out
+   - Kari→Blake Hess connection
+4. **Landing Page**: Get review and approval from John and Tim
+5. **Pre-Absence Setup**: Establish recording schedule for post-August execution
 
 ### Actions During Absence (July 26 - August 18)
 - Tim and John to continue guest outreach and scheduling
