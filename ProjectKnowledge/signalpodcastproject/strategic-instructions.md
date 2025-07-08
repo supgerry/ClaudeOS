@@ -77,18 +77,25 @@ This aims to:
 - [x] Develop podcast branding assets (logo, graphics, intro/outro) - Chip leading
 - [x] Select podcast hosting platform and distribution channels
 - [x] Schedule and conduct trial run/recording test with fake guest (Chip)
+- [x] Complete headshots for John and Tim (June 18, 2025)
+- [x] Build landing page (pending review from John and Tim)
 
-### Phase 3: Pre-Launch Content Creation (TARGET: Mid May-June 2025)
+### Phase 3: Pre-Launch Content Creation (TARGET: July-August 2025)
 - [x] Finalize initial topic list and guest outreach plan
 - [ ] Record and edit the first batch of episodes (aiming for ~3-5 episodes banked)
 - [ ] Develop launch promotion plan (social, email, website)
 - [x] Prepare website/landing page presence based on branding decision
 
+**Current Blocking Issues:**
+- Scheduling coordination: Getting agreement on filming time from John and Tim
+- Guest coordination: Scheduling all guest calls and recordings
+- Project lead absence: Gerry away July 26 - August 18, 2025
+
 ### Phase 4: Launch (TARGET: September 2025)
 - [ ] Publish the first episode(s) across selected channels
 - [ ] Execute launch promotion plan
 
-### Phase 5: Ongoing Production & Promotion (Mid-June 2025 onwards)
+### Phase 5: Ongoing Production & Promotion (September 2025 onwards)
 - [ ] Maintain consistent recording and publishing schedule
 - [ ] Systematically repurpose episode content (video clips, quotes, articles) for social media (especially LinkedIn for hosts) and RocketRez Academy
 - [ ] Regularly review KPIs and audience feedback
@@ -132,7 +139,7 @@ This aims to:
 **Booking Link**: https://calendly.com/signal-rocketrez/30min
 
 ### Recurring Segments
-- Marketing team (Gerry, Chip, Pooja) developing recurring segment titles and branding elements
+- Recurring segments discussed and established (documented in content-strategy.md)
 - Consistent listener experience focus
 
 ---
