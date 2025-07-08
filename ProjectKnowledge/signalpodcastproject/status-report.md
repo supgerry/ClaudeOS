@@ -12,12 +12,14 @@
 **Launch Target**: September 2025
 
 ### Recent Update (July 8, 2025)
-**Guest Outreach & Project Updates**: ✅ Progress
+**Guest Outreach & Project Updates**: ✅ Active Progress
 - Guest email templates standardized and documented
 - Calendly booking system established for guest coordination
 - Project timeline updated to September 2025 launch
 - Headshots completed for John and Tim (June 18, 2025)
 - Landing page built and pending review from hosts
+- **NEW**: Guest outreach emails sent to Alex Ojeda, Tyler Jacobs, and Susan L. Storey
+- **NEW**: Confirmed Evan Reese as guest (pending email coordination)
 
 ---
 
