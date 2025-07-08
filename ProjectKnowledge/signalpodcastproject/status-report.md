@@ -48,10 +48,15 @@
 ### Content Development
 **Status**: 🟢 Well-Structured
 - Episode topics documented with detailed briefs
-- Initial guest targets confirmed: Denise Beckson (Ep 2), Sara Schiller (Ep 3), April Dunford (Ep 9)
 - Episode planning system established with Obsidian properties for tracking
 - Content strategy framework completed
 - Episode brief template created for consistent production
+
+### Guest Confirmation Progress
+**Status**: 🟢 Strong Pipeline
+**Confirmed Guests** (4): Sara Schiller ✅, Alex Ojeda ✅, Tyler ✅, Susan L. Storey ✅
+**Pending Guests** (4): Denise (awaiting response), Jayson (Tim to reach out), April Dunford (need outreach), Blake Hess (Kari's connection)
+**Confirmation Rate**: 50% (4 of 8 contacted)
 
 **Episode Status Breakdown**:
 - Episode 1 (Signal On): ✅ Ready to Record (June 18, 2025)
@@ -116,7 +121,7 @@
 - [ ] Newsletter integration implemented
 
 ### Immediate Next Actions (Next 2 Weeks)
-1. **Guest Outreach**: Confirm recording dates with Denise Beckson and Sara Schiller
+1. **Guest Outreach**: Tim to follow up with Jayson, John/team to reach out to April Dunford, Kari to continue Blake Hess connection
 2. **Episode 1 Recording**: Execute June 18 recording session
 3. **Content Production**: Begin Episode 2 and 3 preparation using established episode briefs
 4. **System Refinement**: Test and optimize episode tracking system in Obsidian
