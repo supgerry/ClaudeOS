@@ -135,6 +135,7 @@ Gerry
 
 **Alex Ojeda**: Template 1 sent July 8, 2025 ✅  
 **Tyler Jacobs**: Template 2 sent July 8, 2025 ✅ (Loyalty episode)  
+**Susan L. Storey**: Template 2 sent July 8, 2025 ✅ (Communications episode)  
 **[Next Guest]**: [Template used] [Date sent]
 
 ---
@@ -148,3 +149,12 @@ Gerry
 - Brought to Morey's Piers by one of the Morey co-founders (2 brothers)
 - Timing: Morey's loyalty program launching day after email sent
 - Strategic value: Strong operational expertise, trusted by Tim
+
+**Susan L. Storey (Communications & PR Strategist)**
+- Episode: "Communications Strategy for Attractions"
+- Background: Extensive communications experience across major attractions companies
+- Career history: Director of Communications for IAAPA, SeaWorld Parks and Entertainment, Universal, Cedar Fair, Six Flags, Great Wolf Lodge, Give Kids the World, Oscar Meyer
+- Current role: Communications and PR strategist within attractions space
+- Tim's note: "Her experience is so vast" - flexible on topic angle
+- Potential topics: Brand storytelling, crisis communications, strategic PR, developing compelling stories, "war stories"
+- Strategic value: Deep industry communications expertise across multiple major brands
