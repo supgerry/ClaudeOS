@@ -30,7 +30,7 @@ last_updated: July 15, 2025
 
 **Description**: John & Tim dive into the power of theming and intellectual property in modern attractions with Sara Schiller, co-founder of Sloomoo Institute, exploring how strong narratives transform ordinary experiences into unforgettable journeys.
 
-[[Epsio]]
+**Host questions**: [[episode-03-host-questions]]
 
 ## Comprehensive Research Insights
 
