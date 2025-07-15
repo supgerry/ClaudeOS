@@ -39,7 +39,7 @@ last_updated: July 15, 2025
 - **80/20 revenue split**: tickets/retail (experience drives product sales)
 - **75% customer acquisition** through organic social media
 
-### Strategic Innovation Framework
+### Business Framework
 - **Original IP built around emotion** ("joy") vs. licensed franchises
 - **Experience-as-retail-funnel** model (every guest leaves with product)
 - **Digital trend to physical expression** (satisfying slime videos to immersive experience)
@@ -169,7 +169,7 @@ _Context: Both founders discovered slime during personal trauma - Karen after lo
 
 ### For Tim (Operations/Guest Experience Focus)  
 - **Managing experience + consumable product**: "What are the unique staffing, training, and supply chain complexities of managing both experience and consumable product?"
-- **Investment trade-offs**: "Sara mentioned investing in what's 'better, different, special.' Can you give us a concrete example of saying 'no' to save resources for something truly special?"
+- **Investment trade-offs**: "Sara mentioned investing in what's 'better, different, special.' Can you give us an example of saying 'no' to save resources for something truly special?"
 - **Accessibility as competitive advantage**: "You're 100% wheelchair accessible with 10% neurodiverse workforce. How does inclusion become a business differentiator?"
 
 ## Key Statistics & Talking Points
