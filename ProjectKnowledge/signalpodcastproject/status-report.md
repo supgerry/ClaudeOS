@@ -11,16 +11,15 @@
 **Phase Progress**: 75% Complete
 **Launch Target**: September 2025
 
-### Recent Update (July 8, 2025)
-**Guest Outreach & Project Updates**: ✅ Active Progress
-- Guest email templates standardized and documented
-- Calendly booking system established for guest coordination
-- Project timeline updated to September 2025 launch
-- Headshots completed for John and Tim (June 18, 2025)
-- Landing page built and pending review from hosts
-- **NEW**: Guest outreach emails sent to Alex Ojeda, Tyler Jacobs, and Susan L. Storey
-- **NEW**: Confirmed Evan Reese as guest (pending email coordination)
-- **NEW**: Episode 1 re-record scheduled for July 14, 2:45pm CT
+### Current Status Update (July 15, 2025)
+**Production & Guest Coordination**: ✅ Active Progress
+- **Episode 3 Recording**: Sara Schiller confirmed July 24, 12:00-1:30 PM EST
+- **Equipment Status**: Sara received webcam/headphones/lighting (Thursday), microphone arriving Wednesday
+- **Guest Follow-up**: Need to follow up with Alex Ojeda, Tyler Jacobs, Susan L. Storey (sent last week)
+- **New Guest**: Shaun McKeogh identified for outreach
+- **PR Coordination**: Charlotte and Gabby (JBC PR) identified for Sara's assets
+- **Production Needs**: Creative intro development required, calendar invite to Sara needed
+- **Team Coordination**: Weekly sync meetings with John and Tim ongoing
 
 ---
 
@@ -134,14 +133,21 @@
 - [ ] Social media promotion scheduled
 - [ ] Newsletter integration implemented
 
-### Immediate Next Actions (Before July 26)
-1. **Episode 1 Re-record**: July 14, 2:45pm CT - John and Tim
-2. **Sara Scheduling**: Confirm John and Tim availability for July 18, 2-4pm CT
-3. **Guest Coordination**: 
-   - Tim→Evan email needed
+### Immediate Next Actions (July 15-26)
+1. **Episode 3 Production**: 
+   - Send calendar invite to Sara for July 24, 12:00-1:30 PM EST with Riverside link
+   - Contact Charlotte and Gabby (JBC PR) for Sara's headshot, bio, and high-res Sloomoo media
+   - Prepare pre-recording materials and questions for Sara interview
+2. **Guest Follow-up**:
+   - Follow up with Alex Ojeda, Tyler Jacobs, Susan L. Storey (emails sent last week)
+   - Reach out to Shaun McKeogh for podcast booking
+   - Tim→Evan email coordination
    - Tim→Jayson outreach
-   - April Dunford outreach (april@aprildunford.com) - determine if Gerry or existing contact should reach out
+   - April Dunford outreach coordination
    - Kari→Blake Hess connection
+3. **Production Development**:
+   - Develop creative intro for the podcast
+   - Weekly sync with John and Tim
 4. **Landing Page**: Get review and approval from John and Tim
 5. **Pre-Absence Setup**: Establish recording schedule for post-August execution
 
