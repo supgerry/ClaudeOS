@@ -2,24 +2,26 @@
 episode_number: 3
 episode_title: From Story to Reality
 episode_type: Guest
-recording_date: Likely July 18, Friday, 2-4 PM CT (pending Sara's confirmation)
-status: Awaiting Final Date Confirmation
+recording_date: July 24, 2025, 12:00-1:30 PM EST
+status: Confirmed and Scheduled
 theme: Experience Design
 guest_required: true
 guest_name: Sara Schiller
 guest_title: Co-founder
 guest_company: Sloomoo Institute
-duration_target: 60-90 minutes
+duration_target: 90 minutes
 content_type: podcast-episode
 project_phase: pre-production
 interview_status: Pre-call completed July 3, 2025
-guest_availability: July 17 (3-6 PM), July 18 (2-5 PM), July 24 (12-2 PM)
-preferred_slot: July 18, Friday, 2-4 PM CT (best match with John/Tim availability) 
+guest_availability: Confirmed for July 24 (12-1:30 PM EST)
+preferred_slot: July 24, Thursday, 12:00-1:30 PM EST (CONFIRMED)
 recording_format: Video + Audio (Riverside)
 guest_confirmation: Sara only (Karen not participating)
-equipment_status: Purchased and shipped ($166.52 USD)
-equipment_details: OBSBOT Meet SE 1080P webcam, FIFINE USB Mic+Headphones, Zoom Lighting
-last_updated: July 7, 2025
+equipment_status: Partially delivered - mic arriving Wednesday
+equipment_details: OBSBOT Meet SE 1080P webcam, FIFINE USB Mic+Headphones, Zoom Lighting (webcam/headphones/lighting delivered Thursday to reception - Mess signed, microphone arriving Wednesday)
+backup_recording: Rooms in Descript (tested previously)
+pr_contact: Charlotte and Gabby at JBC PR for headshot, bio, and high-res Sloomoo media
+last_updated: July 15, 2025
 ---
 
 # Episode 3: From Story to Reality
