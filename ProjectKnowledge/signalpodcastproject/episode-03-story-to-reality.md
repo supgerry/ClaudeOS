@@ -131,7 +131,7 @@ Background on Sara's journey from concept to successful attraction
 _Context: Both founders discovered slime during personal trauma - Karen after losing husband to suicide, Sara while caring for disabled family members_
 
 **Key Questions**:
-- "Can you walk us through the moment slime stopped being a toy and became a tool for healing?"
+- "Can you walk us through the moment slime stopped being a toy and became a tool for healing? How did that transform into a business?"
 - "Your mission is to 'Deliver Joy.' How do you measure the ROI of joy in an industry obsessed with per-caps and turnstile counts?"
 - "From day one, you named it Sloomoo 'Institute,' not a 'museum' or 'playground.' What was the strategic thinking behind that choice?"
 
@@ -142,6 +142,7 @@ _Context: Both founders discovered slime during personal trauma - Karen after lo
 - "The 'satisfying slime' video trend was born on social media. How did you translate that digital phenomenon into a physical experience?"
 - "75% of your customer acquisition comes from organic social media. How do you balance creating analog experiences while optimizing for digital shareability?"
 - "What was the playbook for bridging that digital-to-physical chasm?"
+- "You launched just four months before COVID shut everything down. You not only survived but scaled rapidly. What was the single most important lesson that constraint taught you about your business model?"
 
 ### Pillar 3: The IP of Emotion
 **Focus**: Building original brand universe around feelings vs. licensing existing franchises.
