@@ -185,4 +185,5 @@ Background on Sara's journey from concept to successful attraction
 **Competitive Context**:
 - **Meow Wolf**: Art-as-destination (complex narrative, primarily tickets)
 - **CAMP**: Platform-for-franchise (licensed IP, temporary experiences)
-- **Sloomoo**: Concept-to-commerce (original emotion-based IP, hybrid retail)
+- **Sloomoo**: Concept-to-commerce (original emotion-based IP, hybrid retail)!
+
