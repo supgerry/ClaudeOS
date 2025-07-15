@@ -128,9 +128,11 @@ Background on Sara's journey from concept to successful attraction
 ### Pillar 1: The Authenticity Engine
 **Focus**: How personal trauma becomes defensible business moat through genuine mission-driven brand building.
 
+_Context: Both founders discovered slime during personal trauma - Karen after losing husband to suicide, Sara while caring for disabled family members_
+
 **Key Questions**:
 - "Can you walk us through the moment slime stopped being a toy and became a tool for healing?"
-- "How do you measure the ROI of joy in an industry obsessed with per-caps and turnstile counts?"
+- "Your mission is to 'Deliver Joy.' How do you measure the ROI of joy in an industry obsessed with per-caps and turnstile counts?"
 - "From day one, you named it Sloomoo 'Institute,' not a 'museum' or 'playground.' What was the strategic thinking behind that choice?"
 
 ### Pillar 2: Digital-to-Physical Bridge  
@@ -185,7 +187,7 @@ Background on Sara's journey from concept to successful attraction
 **Competitive Context**:
 - **Meow Wolf**: Art-as-destination (complex narrative, primarily tickets)
 - **CAMP**: Platform-for-franchise (licensed IP, temporary experiences)
-- **Sloomoo**: Concept-to-commerce (original emotion-based IP, hybrid retail)!
+- **Sloomoo**: Concept-to-commerce (original emotion-based IP, hybrid retail)
 
 ## Research
 
