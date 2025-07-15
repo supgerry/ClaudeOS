@@ -187,3 +187,6 @@ Background on Sara's journey from concept to successful attraction
 - **CAMP**: Platform-for-franchise (licensed IP, temporary experiences)
 - **Sloomoo**: Concept-to-commerce (original emotion-based IP, hybrid retail)!
 
+## Research
+
+![[Ep 3 Guest Research - Brief.pdf]]
