@@ -7,6 +7,16 @@
 
 ## Project Log - Signal Podcast Development
 
+### July 22, 2025
+**Weekly Sync & Recording Preparation**
+- **Alex Ojeda meeting**: TODAY 3pm CT with Tim confirmed
+- **Sara Schiller assets**: Already received from PR team
+- **Guest follow-ups completed**: Alex, Tyler, Susan all followed up
+- **New guest outreach**: Evan (pricing/revenue management) and Sean (culture/engagement) contacted
+- **Sean email recovery**: Found in junk folder, re-sent properly
+- **This week's recordings**: Sara Schiller episode (Thursday 7/24) + John/Tim re-recording (Thursday 7/24)
+- **Team sync**: Weekly sync with John and Tim scheduled today
+
 ### July 15, 2025
 **Episode 3 Production Milestone**
 - **Sara Schiller recording confirmed**: July 24, 12:00-1:30 PM EST
