@@ -132,9 +132,18 @@ This aims to:
 - Building a tech company
 - Adapting to seasonal employment challenges
 
-### Guest Status Progress (Updated July 8, 2025)
-**Confirmed Guests**: Sara Schiller, Alex Ojeda, Tyler, Susan L. Storey
-**Pending Guests**: Denise (awaiting response), Jayson (Tim to reach out), April Dunford (need outreach), Blake Hess (Kari's connection)
+### Guest Status Progress (Updated July 22, 2025)
+**Confirmed & Scheduled Guests**: 
+- Sara Schiller (Recording: Thursday, July 24, 2025)
+- Alex Ojeda (Meeting: TODAY 3pm CT - Tim confirmed)
+- Tyler (Follow-up sent)
+- Susan L. Storey (Follow-up sent)
+
+**New Outreach - Pending Response**: 
+- Evan (Topic: Pricing maturity curve, revenue management competency for attractions)
+- Sean (Topic: Culture & engagement, org development, talent management, DE&I initiatives) - Email found in junk, re-sent
+
+**Still Pending**: Denise (awaiting response), Jayson (Tim to reach out), April Dunford (need outreach), Blake Hess (Kari's connection)
 **Guest Outreach Infrastructure**: Standardized email templates and Calendly scheduling system established
 **Booking Link**: https://calendly.com/signal-rocketrez/30min
 
