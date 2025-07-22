@@ -11,15 +11,16 @@
 **Phase Progress**: 75% Complete
 **Launch Target**: September 2025
 
-### Current Status Update (July 15, 2025)
-**Production & Guest Coordination**: ✅ Active Progress
-- **Episode 3 Recording**: Sara Schiller confirmed July 24, 12:00-1:30 PM EST
-- **Equipment Status**: Sara received webcam/headphones/lighting (Thursday), microphone arriving Wednesday
-- **Guest Follow-up**: Need to follow up with Alex Ojeda, Tyler Jacobs, Susan L. Storey (sent last week)
-- **New Guest**: Shaun McKeogh identified for outreach
-- **PR Coordination**: Charlotte and Gabby (JBC PR) identified for Sara's assets
-- **Production Needs**: Creative intro development required, calendar invite to Sara needed
-- **Team Coordination**: Weekly sync meetings with John and Tim ongoing
+### Current Status Update (July 22, 2025)
+**Production & Guest Coordination**: ✅ Excellent Progress
+- **Episode 3 Recording**: Sara Schiller confirmed July 24, 11:00 AM-1:00 PM (assets received)
+- **Alex Ojeda**: Pre-call TODAY 3pm CT with Tim confirmed
+- **Guest Follow-ups Completed**: Alex, Tyler, Susan all contacted and followed up
+- **New Guest Outreach**: Evan (pricing/revenue management) & Sean (culture/engagement) contacted
+- **Sean Email Recovery**: Found in junk folder Sunday 7/20, properly re-sent
+- **This Week's Recordings**: Sara episode + John/Tim re-recording both Thursday 7/24
+- **Equipment Update**: Video lights sent to John & Tim (checking receipt status)
+- **Absence Handoff**: Pooja & Chip covering July 26-Aug 18
 
 ---
 
@@ -59,16 +60,17 @@
 
 ### Guest Confirmation Progress
 **Status**: 🟢 Strong Pipeline
-**Confirmed Guests** (5): Sara Schiller ✅, Alex Ojeda ✅ (outreach sent), Tyler Jacobs ✅ (outreach sent), Susan L. Storey ✅ (outreach sent), Evan Reese ✅ (confirmed, need email)
-**Pending Guests** (4): Denise (awaiting response), Jayson (Tim to reach out), April Dunford (need outreach), Blake Hess (Kari's connection)
-**Confirmation Rate**: 56% (5 of 9 identified)
-**Latest Update**: Three guest outreach emails sent July 8 with Calendly scheduling links
+**Confirmed & Active** (7): Sara Schiller ✅ (recording Thu 7/24), Alex Ojeda ✅ (pre-call today), Tyler ✅ (followed up), Susan L. Storey ✅ (followed up), Evan ✅ (pricing topics), Sean ✅ (culture topics), 
+**Pending Response**: Denise (awaiting response), Jayson (Tim to reach out), April Dunford (checking John's follow-up), Blake Hess (Kari's connection)
+**Confirmation Rate**: 70% (7 of 10 contacted)
+**Latest Update**: July 22 - New outreach to Evan & Sean with specific topic focus
 
 **Episode Status Breakdown**:
-- Episode 1 (Signal On): 🎬 **Re-record scheduled July 24, 1:30-3:00 PM CT**
+- Episode 1 (Signal On): 🎬 **Re-record scheduled July 24, 1:30-3:00 PM CT** (John & Tim only)
 - Episode 2 (Cross-Border Tourism): 🟡 Planning (Guest: Denise Beckson)
-- Episode 3 (Story to Reality): 🟢 **Recording confirmed July 24, 12:00-1:30 PM EST** (Guest: Sara Schiller)
-- Episodes 4-10: 💡 Concepts documented with detailed frameworks
+- Episode 3 (Story to Reality): 🎬 **Recording scheduled July 24, 11:00 AM-1:00 PM** (Guest: Sara Schiller - assets ready)
+- Episode 4+ (Alex, Tyler, Susan, Evan, Sean): 💡 Pipeline active with topic frameworks
+- Episodes 4-10: 💡 Additional concepts documented with detailed frameworks
 
 ### Production Pipeline
 **Status**: 🟢 Ready
@@ -133,23 +135,25 @@
 - [ ] Social media promotion scheduled
 - [ ] Newsletter integration implemented
 
-### Immediate Next Actions (July 15-26)
-1. **Episode 3 Production**: 
-   - Send calendar invite to Sara for July 24, 12:00-1:30 PM EST with Riverside link
-   - Contact Charlotte and Gabby (JBC PR) for Sara's headshot, bio, and high-res Sloomoo media
-   - Prepare pre-recording materials and questions for Sara interview
-2. **Guest Follow-up**:
-   - Follow up with Alex Ojeda, Tyler Jacobs, Susan L. Storey (emails sent last week)
-   - Reach out to Shaun McKeogh for podcast booking
-   - Tim→Evan email coordination
-   - Tim→Jayson outreach
-   - April Dunford outreach coordination
-   - Kari→Blake Hess connection
-3. **Production Development**:
-   - Develop creative intro for the podcast
-   - Weekly sync with John and Tim
-4. **Landing Page**: Get review and approval from John and Tim
-5. **Pre-Absence Setup**: Establish recording schedule for post-August execution
+### Immediate Next Actions (July 22-26)
+1. **Alex Ojeda Pre-call** (TODAY 3pm CT):
+   - Discuss topics and content themes
+   - Collect mailing address for equipment
+   - Schedule recording (likely post-August)
+   - Confirm Riverside access/setup
+2. **Thursday Double Recording** (July 24):
+   - Sara Schiller: 11:00 AM-1:00 PM (assets ready)
+   - John & Tim re-recording: 1:30-3:00 PM 
+3. **Equipment Check**:
+   - Confirm John received video light
+   - Confirm Tim received video light
+4. **Guest Pipeline Management**:
+   - Follow up on Evan & Sean responses
+   - Check with John on April Dunford outreach
+   - Continue coordination for remaining pending guests
+5. **Absence Handoff Planning**:
+   - Brief Pooja & Chip on current status
+   - Set coordination protocols for July 26-Aug 18
 
 ### Actions During Absence (July 26 - August 18)
 - Tim and John to continue guest outreach and scheduling
