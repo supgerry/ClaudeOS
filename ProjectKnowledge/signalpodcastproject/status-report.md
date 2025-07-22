@@ -156,9 +156,10 @@
    - Set coordination protocols for July 26-Aug 18
 
 ### Actions During Absence (July 26 - August 18)
-- Tim and John to continue guest outreach and scheduling
-- Landing page review and approval to proceed
-- Equipment and setup maintenance
+- **Pooja & Chip**: Project coordination and guest scheduling support
+- **Tim & John**: Continue guest outreach and coordination
+- **Equipment**: Available for any approved recordings during absence
+- **Recording Option**: Alex and other guests can record with Tim if scheduling permits
 
 ### Post-Absence Priorities (August 18+)
 1. **Episode Production**: Execute recording schedule with confirmed guests
