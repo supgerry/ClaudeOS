@@ -1,6 +1,6 @@
 ---
 episode_number: 6
-episode_title: The Price is Right: Dynamic Pricing Demystified
+episode_title: The Pricing Maturity Curve: How Attractions Can Build Revenue Management as a Core Competency
 episode_type: Guest
 recording_date: TBD
 status: Planning
@@ -16,7 +16,7 @@ project_phase: planning
 last_updated: July 22, 2025
 ---
 
-# Episode 6: The Price is Right: Dynamic Pricing Demystified
+# Episode 6: The Pricing Maturity Curve: How Attractions Can Build Revenue Management as a Core Competency
 
 ## Episode Overview
 
