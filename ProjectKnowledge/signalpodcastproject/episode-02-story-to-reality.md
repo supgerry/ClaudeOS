@@ -1,5 +1,5 @@
 ---
-episode_number: 3
+episode_number: 2
 episode_title: From Story to Reality
 episode_type: Guest
 recording_date: July 24, 2025, 12:00-1:30 PM EST
