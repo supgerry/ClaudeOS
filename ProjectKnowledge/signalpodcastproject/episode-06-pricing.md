@@ -71,18 +71,17 @@ Evan, welcome to Signal."
 
 **John** (Executive Leadership): "From a leadership perspective, how do you build confidence in pricing changes when everyone's afraid of alienating customers?"
 
-**Tim** (Front-Line Implementation): "Your pricing strategy is only as good as your front-line staff explaining it. How do you train staff to handle pricing questions confidently?"
+**Tim** (Front-Line Implementation): "Your pricing strategy is only as good as your staff explaining it. How should operators prepare front-line teams to handle tough guest questions?”
 
 **John** (Measurement and Optimization): "What metrics should operators be tracking beyond just revenue per visitor? How do you know if your pricing strategy is actually working?"
 
-**John** : "What's the role of AI and automation in pricing decisions? You mentioned earlier that operators should be cautious about just trusting AI – what should they be watching for?"
+**Tim**: "AI is creeping into pricing. Where do you see real potential — and where should operators be cautious?"
 
 
 ---
 
-## Part 4: The Maturity Curve in Action (8-10 minutes)
+## Part 4: The Pricing Maturity Curve  (8-10 minutes)
 
-### Implementation Questions
 
 **John** (Business Scalability): "You mentioned there isn't necessarily a sequential progression through pricing maturity stages. For an operator just getting started, where should they focus first? What's the highest-impact, lowest-risk move?"
 
