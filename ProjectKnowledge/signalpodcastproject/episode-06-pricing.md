@@ -1,52 +1,181 @@
----
-episode_number: 6
-episode_title: The Pricing Maturity Curve: How Attractions Can Build Revenue Management as a Core Competency
-episode_type: Guest
-recording_date: TBD
-status: Planning
-theme: Business Fundamentals
-guest_required: true
-guest_name: Evan Reese
-guest_title: Entrepreneur
-guest_company: Tech Space
-guest_linkedin: https://www.linkedin.com/in/evanreece/
-duration_target: 30-35 minutes
-content_type: podcast-episode
-project_phase: planning
-last_updated: July 22, 2025
+# Episode 6: The Pricing Maturity Curve - Host Interview Questions
+
+**Guest**: Evan Reese, Entrepreneur  
+**Company**: Tech Space / Pricing & Revenue Management Consultant  
+**Recording**: September 18, 2025, 1:00 PM EST 
+**Duration**: 1 hour  
+**Format**: Video + Audio (Riverside)
+
 ---
 
-# Episode 6: The Pricing Maturity Curve: How Attractions Can Build Revenue Management as a Core Competency
+## Opening Context for Hosts
 
-## Episode Overview
+**Key Background to Reference**:
 
-**Description**: John & Tim sit down with Evan Reese to unpack real-time price optimization, guest perception, and the one metric every operator forgets to watch.
+- Former hotel industry executive with deep revenue management experience
+- Transitioned from hospitality to attractions industry pricing consulting
+- Currently building career management software platform (launching soon)
+- Focus on "shifting consumer behavior" through strategic pricing
+- Advocates for "pricing hygiene" before dynamic pricing implementation
+- Personal journey: overcame significant business setbacks to build new ventures
 
-## Guest Information
+**Evan's Core Philosophy**:
 
-### Evan Reese
-- **Title**: Entrepreneur
-- **Company**: Tech Space
-- **LinkedIn**: https://www.linkedin.com/in/evanreece/
-- **Expertise**: Technology entrepreneurship, product development, employee mentorship
-- **Background**: Entrepreneur within the tech space with experience in developing culture and understanding tech operations from behind the scenes
+- Pricing as incentive creation vs. punishment mechanism
+- Cross-channel price control more critical than dynamic algorithms
+- Consumer behavior modification through strategic pricing design
+- Organizational change management essential for pricing success
 
-### 🎙️ 5 Podcast Topic Ideas
-#### 1. Demystifying Dynamic Pricing for Attractions
+## Part 1: The Pricing Hygiene Foundation (8-10 minutes)
 
-- Talk through what dynamic pricing is, how it works in practice (with examples from ski resorts), and how attractions can ease into it without scaring customers.
-- Great for operators still relying on flat pricing or seasonal tiers.
-#### 2. What Attractions Can Learn from Airlines, Hotels, and Marketplaces
-- Evan draws parallels between travel/hospitality and attractions.
-- Talk about what makes pricing strategy work in other industries and how to adapt those tactics without overwhelming internal teams
-#### 3. Building a Culture That Supports Pricing Innovation
-- How do you get your team to buy into changing the way you price your tickets?
-- Evan can talk about internal alignment, cross-team collaboration, and empowering marketing/ops to work together.
-#### 4. The Biggest Pricing Mistakes Attractions Make (and How to Fix Them)
+### Opening Questions
 
-- Evan walks through common traps: underpricing peak dates, relying on gut vs. data, setting and forgetting prices, etc.
-- Helps listeners self-diagnose and level up.
-#### 5. When to Start Thinking About Revenue Management (Even if You’re Not “Big Enough” Yet)
+**John**: "Evan, you have this concept of 'pricing hygiene' that you say is more important than dynamic pricing itself. Can you paint us a picture of what bad pricing hygiene looks like for a typical attraction operator?"
 
-- For smaller operators or early-stage teams who think pricing strategy is only for the “big guys.”
-- Evan can make a case for why this mindset needs to change, and give accessible tips to start.
+**Tim**: "You mentioned finding five different instances of websites undercutting a client's own pricing in just eight minutes of browsing. From an operational standpoint, how does an attraction even begin to get control of that ecosystem?"
+
+**John** (Business Strategy Focus): "The hotel industry has been doing cross-channel price management for decades. What structural differences make this harder for attractions, and how do those differences change the strategic approach?"
+
+**Tim** (Operational Reality): "Let's get practical. An attraction has contracts with Groupon, they're on third-party booking sites, they have season pass holders, group sales – how do you coordinate pricing across all those channels without breaking existing agreements?"
+
+---
+
+## Part 2: Beyond Surge Pricing - Strategic Behavior Design (8-10 minutes)
+
+### Core Questions
+
+**John** (Strategic Framework): "You've said that pricing should be about creating the patterns you want to see, not just taking advantage of demand spikes. What does that philosophy look like in practice for an attraction operator?"
+
+**Tim** (Guest Experience Focus): "Everyone thinks dynamic pricing means surge pricing during peak times. You advocate for pricing as incentive rather than punishment. How do you use pricing to actually improve the guest experience?"
+
+**John** _(Technology Integration)_: "What's the role of AI and automation in pricing decisions? You mentioned earlier that operators should be cautious about just trusting AI – what should they be watching for?"
+
+**Tim** _(Seasonal Reality)_: "Most attractions are dealing with extreme seasonality – dead winter, crazy summer. How do you apply these pricing strategies when 70% of your revenue comes in 12 weeks?"
+
+---
+
+## Part 3: Organizational Change Management (8-10 minutes)
+
+### Strategic Questions
+
+**Tim** _(Team Dynamics)_: "Changing pricing strategy isn't just about algorithms – it's about getting your team to buy in. What's your approach when you walk into an organization where the sales team is used to discounting everything?"
+
+**John** _(Executive Leadership)_: "From a leadership perspective, how do you build organizational confidence in dynamic pricing when everyone's afraid of alienating customers? What's the change management process?"
+
+**Tim** _(Front-Line Implementation)_: "Your pricing strategy is only as good as your front-line team's ability to explain it to confused guests. How do you train staff to handle pricing questions confidently?"
+
+**John** _(Measurement and Optimization)_: "What metrics should operators be tracking beyond just revenue per visitor? How do you know if your pricing strategy is actually working?"
+
+---
+
+## Part 4: The Maturity Curve in Action (8-10 minutes)
+
+### Implementation Questions
+
+**John** _(Business Scalability)_: "You mentioned there isn't necessarily a sequential progression through pricing maturity stages. For an operator just getting started, where should they focus first? What's the highest-impact, lowest-risk move?"
+
+**Tim** _(Real-World Application)_: "Let's say I'm running a mid-sized attraction setting pricing for next season right now. Walk me through your framework – what questions am I asking, what data am I looking at?"
+
+**John** _(Competitive Advantage)_: "Revenue management is becoming table stakes in hospitality. Do you see pricing sophistication becoming a competitive requirement in attractions, or is there still a first-mover advantage?"
+
+**Tim** _(Industry Evolution)_: "Coming from hotels to attractions, what surprises you most about how our industry approaches pricing? What obvious opportunities are we missing?"
+
+---
+
+## Behind the Scenes Segment (5-7 minutes)
+
+### Practical Implementation
+
+**Tim** _(Operational Tactics)_: "What's your first question when you're evaluating an attraction's pricing readiness? What immediately tells you whether they're ready for more sophisticated strategies?"
+
+**John** _(Technology Requirements)_: "What's the minimum viable tech stack for an attraction that wants to implement strategic pricing? What should they invest in first versus what can wait?"
+
+**Tim** _(Common Pitfalls)_: "What's the most common pricing mistake you see attractions make that they don't even realize is undermining their revenue?"
+
+**John** _(Industry Comparison)_: "Hotels compete with online travel agencies daily on pricing. Who are attractions really competing with on price, and are they thinking about competition correctly?"
+
+---
+
+## Lightning Round (Rapid-Fire Questions)
+
+**Tim**: "Fixed pricing or dynamic pricing – pick one?"
+
+**John**: "Most overrated pricing strategy in attractions?"
+
+**Tim**: "Biggest pricing blind spot operators have?"
+
+**John**: "Groupon – necessary evil or avoidable mistake?"
+
+**Tim**: "Season passes – pricing asset or pricing nightmare?"
+
+**John**: "Best pricing lesson from the hotel industry?"
+
+**Tim**: "Most underpriced attraction type?"
+
+**John**: "AI pricing – trust it or verify it?"
+
+**Tim**: "Peak season pricing – higher or lower than you think?"
+
+**John**: "One pricing metric every operator should track?"
+
+**Tim**: "Worst pricing advice you hear regularly?"
+
+**John**: "Next big pricing innovation?"
+
+**Tim**: "Customer complaint about pricing – address or ignore?"
+
+**John**: "Price transparency – help or hurt?"
+
+**Tim**: "Most successful pricing psychology tactic?"
+
+---
+
+## Closing Segment
+
+### Key Takeaways
+
+**John**: "Evan, you're building career management software while consulting on pricing strategy. How do those experiences inform each other? What patterns do you see across industries about organizational change?"
+
+**Tim**: "For operators listening who know their pricing needs work but feel overwhelmed, what's the one thing they should start doing differently next week?"
+
+**John**: "Looking ahead, how do you see pricing strategy evolving in attractions? What should operators be preparing for?"
+
+---
+
+## Key Context Points to Weave In
+
+- **Cross-Industry Expertise**: Hotel revenue management background applied to attractions
+- **Behavioral Focus**: Pricing as consumer behavior modification tool
+- **Entrepreneurial Perspective**: Building new company while consulting
+- **Practical Implementation**: Focus on organizational change, not just technology
+- **Timing Relevance**: Operators setting pricing for next season right now
+
+---
+
+## Host-Specific Angles
+
+### For John (CEO/Business Strategy Focus)
+
+- Strategic competitive advantage through pricing sophistication
+- Technology investment priorities and ROI considerations
+- Cross-channel price control as business discipline
+- Measurement frameworks for pricing success
+
+### For Tim (Operations/Guest Experience Focus)
+
+- Day-to-day implementation challenges and solutions
+- Staff training and guest communication strategies
+- Seasonal operation realities and constraints
+- Practical frameworks for pricing decisions
+
+---
+
+## Research Notes
+
+**Core Philosophy**: Evan emphasizes pricing hygiene (cross-channel consistency) over dynamic algorithms, and behavior incentives over surge pricing punishment
+
+**Industry Transition**: Brings hotel industry revenue management expertise to attractions sector with understanding of structural differences
+
+**Change Management**: Strong focus on organizational readiness and team buy-in for pricing strategy success
+
+**Current Timing**: Operators are setting next season pricing now, making this discussion immediately actionable
