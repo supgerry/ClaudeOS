@@ -1,4 +1,4 @@
-# Episode 6: The Pricing Maturity Curve - Host Interview Questions
+# Episode 4: The Pricing Maturity Curve - Host Interview Questions
 
 **Guest**: Evan Reese, Entrepreneur  
 **Company**: Tech Space / Pricing & Revenue Management Consultant  
@@ -135,7 +135,7 @@ Evan, welcome to Signal."
 
 **Tim:** “You’ve said pricing should be about creating patterns, not punishments. If operators could create just one positive pattern in guest behavior, what should it be?”
 
-**Tim**: “Looking ahead, with AI and shifting consumer expectations, how do you see pricing evolving in attractions over the next five years? What should operators start preparing for now?”
+**John**: “Looking ahead, with AI and shifting consumer expectations, how do you see pricing evolving in attractions over the next five years? What should operators start preparing for now?”
 
 **Themes we explored today:**
 1. Why pricing hygiene comes before dynamic pricing
