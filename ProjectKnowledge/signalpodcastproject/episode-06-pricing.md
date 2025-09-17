@@ -30,17 +30,13 @@
 
 "Today we’re joined by Evan Reece, an entrepreneur whose career has been defined by one big idea: pricing isn’t just about numbers — it’s about shaping behavior.
 
-**(Optional context - I first met Evan at...)**
-
 Evan is best known for pioneering real-time pricing strategies in industries like ski resorts, where he showed operators how to balance demand, value perception, and guest satisfaction. But what makes Evan’s perspective so valuable for attractions is that he’s not just a ‘pricing guy’ — he’s a behavior strategist. He’s spent years helping organizations rethink the way they set prices, not to punish demand, but to create the patterns they want to see in guest behavior.
 
-He doesn't start with dynamic pricing algorithms or fancy software. He starts with what he calls 'pricing hygiene' – the unsexy but critical work of making sure your prices are consistent across every channel where your tickets are sold.
+And here's what's also interesting about Evan's approach: He doesn't start with dynamic pricing algorithms or fancy software. He starts with what he calls 'pricing hygiene' – the unsexy but critical work of making sure your prices are consistent across every channel where your tickets are sold.
 
 Because here's the reality he's uncovered: you can have the most sophisticated dynamic pricing on your website, but if you have 150 other websites selling your tickets at different prices, you're actually undermining your entire strategy.
 
-**(Optional)**  Evan's also building his own company in the career management space, so he understands both the consultant perspective and the entrepreneur's reality of building something from scratch.
-
-But what I think will resonate most with our audience is Evan's philosophy that pricing should be about creating the patterns you want to see, not just taking advantage of demand spikes.
+Today, Evan runs his own advisory practice and is also building new technology ventures aimed at shifting consumer behavior in other industries. For our audience, his insights come at a perfect moment: attractions everywhere are rethinking their 2026 pricing models right now.
 
 Evan, welcome to Signal."
 
