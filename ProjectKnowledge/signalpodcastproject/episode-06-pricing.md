@@ -13,6 +13,7 @@
 **Key Background to Reference**:
 
 - Former hotel industry executive with deep revenue management experience
+- Pioneered real-time pricing strategies in ski resorts and hospitality
 - Transitioned from hospitality to attractions industry pricing consulting
 - Currently building career management software platform (launching soon)
 - Focus on "shifting consumer behavior" through strategic pricing
@@ -30,7 +31,7 @@
 
 "Today we’re joined by Evan Reece, an entrepreneur whose career has been defined by one big idea: pricing isn’t just about numbers — it’s about shaping behavior.
 
-Evan is best known for pioneering real-time pricing strategies in industries like ski resorts, where he showed operators how to balance demand, value perception, and guest satisfaction. But what makes Evan’s perspective so valuable for attractions is that he’s not just a ‘pricing guy’ — he’s a behavior strategist. He’s spent years helping organizations rethink the way they set prices, not to punish demand, but to create the patterns they want to see in guest behavior.
+Evan is best known for pioneering real-time pricing strategies in industries like ski resorts, (you might have heard of Liftopia/Catalate), where he showed operators how to balance demand, value perception, and guest satisfaction. But what makes Evan’s perspective so valuable for attractions is that he’s not just a ‘pricing guy’ — he’s a behavior strategist. He’s spent years helping organizations rethink the way they set prices, not to punish demand, but to create the patterns they want to see in guest behavior.
 
 And here's what's also interesting about Evan's approach: He doesn't start with dynamic pricing algorithms or fancy software. He starts with what he calls 'pricing hygiene' – the unsexy but critical work of making sure your prices are consistent across every channel where your tickets are sold.
 
