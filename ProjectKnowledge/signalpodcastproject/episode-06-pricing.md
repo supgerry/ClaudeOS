@@ -28,13 +28,13 @@
 
 ## Guest Introduction
 
-"Today we're joined by Evan Reese, and Evan represents something our industry desperately needs right now – someone who understands that pricing isn't just about setting numbers, but about fundamentally shifting consumer behavior.
+"Today we’re joined by Evan Reece, an entrepreneur whose career has been defined by one big idea: pricing isn’t just about numbers — it’s about shaping behavior.
 
 **(Optional context - I first met Evan at...)**
 
-Evan comes to us from the hotel industry, where he spent years in an environment where every room, every night, is a perishable asset. But what makes Evan's perspective so valuable for attractions operators is that he's made the jump from hospitality to our industry, and he's seeing things we've been missing.
+Evan is best known for pioneering real-time pricing strategies in industries like ski resorts, where he showed operators how to balance demand, value perception, and guest satisfaction. But what makes Evan’s perspective so valuable for attractions is that he’s not just a ‘pricing guy’ — he’s a behavior strategist. He’s spent years helping organizations rethink the way they set prices, not to punish demand, but to create the patterns they want to see in guest behavior.
 
-Here's what interesting about Evan's approach: he doesn't start with dynamic pricing algorithms or fancy software. He starts with what he calls 'pricing hygiene' – the unsexy but critical work of making sure your prices are consistent across every channel where your tickets are sold.
+He doesn't start with dynamic pricing algorithms or fancy software. He starts with what he calls 'pricing hygiene' – the unsexy but critical work of making sure your prices are consistent across every channel where your tickets are sold.
 
 Because here's the reality he's uncovered: you can have the most sophisticated dynamic pricing on your website, but if you have 150 other websites selling your tickets at different prices, you're actually undermining your entire strategy.
 
