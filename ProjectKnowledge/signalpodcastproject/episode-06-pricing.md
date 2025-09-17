@@ -146,13 +146,12 @@ Evan, welcome to Signal."
 
 ## Closing Segment
 
-### Key Takeaways
-
-**John**: "Evan, you're building career management software while consulting on pricing strategy. How do those experiences inform each other? What patterns do you see across industries about organizational change?"
-
-**Tim**: "For operators listening who know their pricing needs work but feel overwhelmed, what's the one thing they should start doing differently next week?"
-
-**John**: "Looking ahead, how do you see pricing strategy evolving in attractions? What should operators be preparing for?"
+**Themes we explored today:**
+1. Why pricing hygiene comes before dynamic pricing
+2. How lessons from hotels and airlines can be adapted — not copied
+3. Organizational alignment as the real unlock for pricing innovation
+4. Mistakes that undermine revenue strategies
+5. Why even smaller operators can build pricing as a core competency
 
 ---
 
