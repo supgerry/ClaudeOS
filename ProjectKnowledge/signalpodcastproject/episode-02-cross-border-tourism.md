@@ -1,5 +1,5 @@
 ---
-episode_number: 2
+episode_number:
 episode_title: Cross-Border Tourism Under Fire
 episode_type: Guest
 recording_date: TBD
