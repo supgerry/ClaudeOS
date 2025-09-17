@@ -26,6 +26,22 @@
 - Consumer behavior modification through strategic pricing design
 - Organizational change management essential for pricing success
 
+## Guest Introduction
+
+"Today we're joined by Evan Reese, and Evan represents something our industry desperately needs right now – someone who understands that pricing isn't just about setting numbers, but about fundamentally shifting consumer behavior.
+
+Evan comes to us from the hotel industry, where he spent years in an environment where every room, every night, is a perishable asset. But what makes Evan's perspective so valuable for attractions operators is that he's made the jump from hospitality to our industry, and he's seeing things we've been missing.
+
+Here's what interesting about Evan's approach: he doesn't start with dynamic pricing algorithms or fancy software. He starts with what he calls 'pricing hygiene' – the unsexy but critical work of making sure your prices are consistent across every channel where your tickets are sold.
+
+Because here's the reality he's uncovered: you can have the most sophisticated dynamic pricing on your website, but if you have 150 other websites selling your tickets at different prices, you're actually undermining your entire strategy.
+
+Evan's also building his own company in the career management space, so he understands both the consultant perspective and the entrepreneur's reality of building something from scratch.
+
+But what I think will resonate most with our audience is Evan's philosophy that pricing should be about creating the patterns you want to see, not just taking advantage of demand spikes.
+
+Evan, welcome to Signal. Let's dive into how attractions can build pricing as a true competitive advantage."
+
 ## Part 1: The Pricing Hygiene Foundation (8-10 minutes)
 
 ### Opening Questions
