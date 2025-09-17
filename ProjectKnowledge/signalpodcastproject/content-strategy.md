@@ -11,7 +11,7 @@ last_updated: July 7, 2025
 
 ## Episode Format Variations
 
-### Standard Episodes (30-35 minutes)
+### Standard Episodes (1 hour)
 **Structure**: Cold Open + Intro + Industry Pulse + Main Content (guest or host-only) + One rotating segment + Takeaways + Outro
 
 ### Breaking News Episodes (15-20 minutes)
