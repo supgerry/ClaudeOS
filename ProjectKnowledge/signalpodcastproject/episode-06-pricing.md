@@ -39,25 +39,22 @@ Today, Evan runs his own advisory practice and is also building new technology v
 
 Evan, welcome to Signal."
 
-## Part 1: The Pricing Hygiene Foundation (8-10 minutes)
-
-### Opening Questions
+## Part 1: Pricing Hygiene Comes First (8–10 minutes)
 
 **John**: “Evan, you’ve said pricing hygiene matters more than dynamic pricing itself. What does bad hygiene look like in practice for an attraction operator?”
 
-**Tim**: "You mentioned you once found five different websites undercutting a client's own pricing in just eight minutes of browsing. From an operational standpoint, how does an attraction even begin to get control of that ecosystem?"
+**Tim**: "You mentioned you once found five different websites undercutting a client's own pricing in just eight minutes of browsing. How does an attraction even begin to get control of that ecosystem?"
 
-**John** (Business Strategy Focus): "The hotel industry has been doing cross-channel price management for decades. What structural differences make this harder for attractions, and how do those differences change the strategic approach?"
+**John** (Business Focus): "The hotel industry has been doing cross-channel price management for decades. What structural differences make this harder in attractions?”
 
 **Tim** (Operational Reality): "Let's get practical. An attraction has contracts with Groupon, they're on third-party booking sites, they have season pass holders, group sales – how do you coordinate pricing across all those channels without breaking existing agreements?"
 
 ---
 
-## Part 2: Beyond Surge Pricing - Strategic Behavior Design (8-10 minutes)
+## Part 2: Pricing as Behavior Design (8–10 minutes) 
 
-### Core Questions
 
-**John** (Strategic Framework): "You've said that pricing should be about creating the patterns you want to see, not just taking advantage of demand spikes. What does that philosophy look like in practice for an attraction operator?"
+**John**: "You've said that pricing should be about creating the patterns you want to see, not just maximizing demand. What does that philosophy look like in practice for an attraction operator?"
 
 **Tim** (Guest Experience Focus): "Everyone thinks dynamic pricing means surge pricing during peak times. You advocate for pricing as incentive rather than punishment. How do you use pricing to actually improve the guest experience?"
 
