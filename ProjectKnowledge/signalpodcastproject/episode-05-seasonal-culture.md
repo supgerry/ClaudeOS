@@ -48,7 +48,8 @@ last_updated: Sep 17, 2025
 
 "Today we're joined by Shaun McKeogh, one of the most respected voices in our industry when it comes to culture, engagement, and leadership in a seasonal world. If you’ve been to an IAAPA conference in the past decade, you’ve probably seen Shaun in action — leading workshops on culture and engagement, mentoring the next generation of leaders, or helping operators design better training systems.
 
-"Today we're joined by Shaun McKeogh, and if you've been to an IAAPA conference in the past decade, you've probably seen Shaun in action – whether he's moderating a panel on building winning teams, leading a diversity and inclusion workshop, or mentoring the next generation of attraction leaders through the IAAPA Institute for Attraction Managers.
+Shaun's journey started on the front lines in Australia's biggest theme parks and eventually took him across the globe, from helping launch Ferrari World Abu Dhabi to leading operations at Bangkok's King Power Mahanakhon. Today, he runs Attractions Academy, where he helps operators solve what might be the industry's biggest paradox: how do you build lasting company culture when half your workforce changes every six months?
+
 
 But here's what makes Shaun's perspective so valuable: he's lived this industry from every angle. His career literally started as a clown – yes, an actual clown – at Australian theme parks, which gave him firsthand experience in the challenge every attraction faces: how do you maintain authentic joy and energy when you're dealing with the realities of seasonal employment, budget pressures, and the expectation that your team delivers 'perfect, genuine, blissful, smiling joy' to thousands of guests every day?
 
