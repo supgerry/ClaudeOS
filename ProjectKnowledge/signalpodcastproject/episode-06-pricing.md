@@ -48,9 +48,9 @@
 
 **Tim** (Guest Experience Focus): "Everyone thinks dynamic pricing means surge pricing during peak times. You advocate for pricing as incentive rather than punishment. How do you use pricing to actually improve the guest experience?"
 
-**John** _(Technology Integration)_: "What's the role of AI and automation in pricing decisions? You mentioned earlier that operators should be cautious about just trusting AI – what should they be watching for?"
+**John** (Technology Integration): "What's the role of AI and automation in pricing decisions? You mentioned earlier that operators should be cautious about just trusting AI – what should they be watching for?"
 
-**Tim** _(Seasonal Reality)_: "Most attractions are dealing with extreme seasonality – dead winter, crazy summer. How do you apply these pricing strategies when 70% of your revenue comes in 12 weeks?"
+**Tim** (Seasonal Reality): "Most attractions are dealing with extreme seasonality – dead winter, crazy summer. How do you apply these pricing strategies when 70% of your revenue comes in 12 weeks?"
 
 ---
 
@@ -58,13 +58,13 @@
 
 ### Strategic Questions
 
-**Tim** _(Team Dynamics)_: "Changing pricing strategy isn't just about algorithms – it's about getting your team to buy in. What's your approach when you walk into an organization where the sales team is used to discounting everything?"
+**Tim** (Team Dynamics): "Changing pricing strategy isn't just about algorithms – it's about getting your team to buy in. What's your approach when you walk into an organization where the sales team is used to discounting everything?"
 
-**John** _(Executive Leadership)_: "From a leadership perspective, how do you build organizational confidence in dynamic pricing when everyone's afraid of alienating customers? What's the change management process?"
+**John** (Executive Leadership): "From a leadership perspective, how do you build organizational confidence in dynamic pricing when everyone's afraid of alienating customers? What's the change management process?"
 
-**Tim** _(Front-Line Implementation)_: "Your pricing strategy is only as good as your front-line team's ability to explain it to confused guests. How do you train staff to handle pricing questions confidently?"
+**Tim** (Front-Line Implementation): "Your pricing strategy is only as good as your front-line team's ability to explain it to confused guests. How do you train staff to handle pricing questions confidently?"
 
-**John** _(Measurement and Optimization)_: "What metrics should operators be tracking beyond just revenue per visitor? How do you know if your pricing strategy is actually working?"
+**John** (Measurement and Optimization): "What metrics should operators be tracking beyond just revenue per visitor? How do you know if your pricing strategy is actually working?"
 
 ---
 
@@ -72,13 +72,13 @@
 
 ### Implementation Questions
 
-**John** _(Business Scalability)_: "You mentioned there isn't necessarily a sequential progression through pricing maturity stages. For an operator just getting started, where should they focus first? What's the highest-impact, lowest-risk move?"
+**John** (Business Scalability): "You mentioned there isn't necessarily a sequential progression through pricing maturity stages. For an operator just getting started, where should they focus first? What's the highest-impact, lowest-risk move?"
 
-**Tim** _(Real-World Application)_: "Let's say I'm running a mid-sized attraction setting pricing for next season right now. Walk me through your framework – what questions am I asking, what data am I looking at?"
+**Tim** (Real-World Application): "Let's say I'm running a mid-sized attraction setting pricing for next season right now. Walk me through your framework – what questions am I asking, what data am I looking at?"
 
-**John** _(Competitive Advantage)_: "Revenue management is becoming table stakes in hospitality. Do you see pricing sophistication becoming a competitive requirement in attractions, or is there still a first-mover advantage?"
+**John** (Competitive Advantage): "Revenue management is becoming table stakes in hospitality. Do you see pricing sophistication becoming a competitive requirement in attractions, or is there still a first-mover advantage?"
 
-**Tim** _(Industry Evolution)_: "Coming from hotels to attractions, what surprises you most about how our industry approaches pricing? What obvious opportunities are we missing?"
+**Tim** (Industry Evolution): "Coming from hotels to attractions, what surprises you most about how our industry approaches pricing? What obvious opportunities are we missing?"
 
 ---
 
@@ -86,13 +86,13 @@
 
 ### Practical Implementation
 
-**Tim** _(Operational Tactics)_: "What's your first question when you're evaluating an attraction's pricing readiness? What immediately tells you whether they're ready for more sophisticated strategies?"
+**Tim** (Operational Tactics): "What's your first question when you're evaluating an attraction's pricing readiness? What immediately tells you whether they're ready for more sophisticated strategies?"
 
-**John** _(Technology Requirements)_: "What's the minimum viable tech stack for an attraction that wants to implement strategic pricing? What should they invest in first versus what can wait?"
+**John** (Technology Requirements): "What's the minimum viable tech stack for an attraction that wants to implement strategic pricing? What should they invest in first versus what can wait?"
 
-**Tim** _(Common Pitfalls)_: "What's the most common pricing mistake you see attractions make that they don't even realize is undermining their revenue?"
+**Tim** (Common Pitfalls): "What's the most common pricing mistake you see attractions make that they don't even realize is undermining their revenue?"
 
-**John** _(Industry Comparison)_: "Hotels compete with online travel agencies daily on pricing. Who are attractions really competing with on price, and are they thinking about competition correctly?"
+**John** (Industry Comparison): "Hotels compete with online travel agencies daily on pricing. Who are attractions really competing with on price, and are they thinking about competition correctly?"
 
 ---
 
@@ -106,7 +106,7 @@
 
 **John**: "Groupon – necessary evil or avoidable mistake?"
 
-**Tim**: "Season passes – pricing asset or pricing nightmare?"
+**Tim**: "Season passes – pricing asset or nightmare?"
 
 **John**: "Best pricing lesson from the hotel industry?"
 
