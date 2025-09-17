@@ -112,23 +112,18 @@ Evan, welcome to Signal."
 
 **John**: "Best pricing lesson from the hotel industry?"
 
-**Tim**: "Most underpriced attraction type?"
+**Tim**: "AI pricing – trust it or verify it?"
 
-**John**: "AI pricing – trust it or verify it?"
+**John**: "Next big pricing innovation?"
 
 **Tim**: "Peak season pricing – higher or lower than you think?"
 
 **John**: "One pricing metric every operator should track?"
 
-**Tim**: "Worst pricing advice you hear regularly?"
-
-**John**: "Next big pricing innovation?"
-
-**Tim**: "Customer complaint about pricing – address or ignore?"
+**Tim**: "Most successful pricing psychology tactic?"
 
 **John**: "Price transparency – help or hurt?"
 
-**Tim**: "Most successful pricing psychology tactic?"
 
 ---
 
@@ -140,7 +135,9 @@ Evan, welcome to Signal."
 
 **Tim**: "For operators listening who know their pricing needs work but feel overwhelmed, what's the one thing they should start doing differently next week?"
 
-**John**: "Looking ahead, how do you see pricing strategy evolving in attractions? What should operators be preparing for?"
+**John**: “Looking ahead, with AI and shifting consumer expectations, how do you see pricing evolving in attractions over the next five years? What should operators start preparing for now?”
+
+**Tim:** “You’ve said pricing should be about creating patterns, not punishments. If operators could create just one positive pattern in guest behavior, what should it be?”
 
 **Themes we explored today:**
 1. Why pricing hygiene comes before dynamic pricing
