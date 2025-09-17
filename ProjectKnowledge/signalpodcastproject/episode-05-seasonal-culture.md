@@ -46,15 +46,13 @@ last_updated: Sep 17, 2025
 ## Guest Introduction (for Tim to read)
 
 
-"Today we're joined by Shaun McKeogh, one of the most respected voices in our industry when it comes to culture, engagement, and leadership in a seasonal world. If you’ve been to an IAAPA conference in the past decade, you’ve probably seen Shaun in action — leading workshops on culture and engagement, mentoring the next generation of leaders, or helping operators design better training systems.
+"Today we're joined by Shaun McKeogh, one of the most respected voices in our industry when it comes to culture, engagement, and leadership in a seasonal world. If you’ve ever been to an IAAPA conference in the past decade, you’ve probably seen Shaun in action — leading workshops on culture and engagement, mentoring the next generation of leaders, or helping operators design better training systems.
 
-Shaun’s career began in Australia’s biggest theme parks and eventually took him across the globe, from helping launch Ferrari World Abu Dhabi to leading operations at Bangkok's King Power Mahanakhon. Today, he runs Attractions Academy, where he helps operators solve what might be the industry's biggest paradox: how do you build lasting company culture when half your workforce changes every six months?
+Shaun’s career began in Australia’s biggest theme parks and eventually took him across the globe, from helping launch Ferrari World Abu Dhabi to leading operations at Bangkok's King Power Mahanakhon. From those early days, he learned something essential: you can’t just hope culture happens. You have to architect it.
+
+Today, he runs Attractions Academy, where he helps operators solve what might be the industry's biggest paradox: how do you build lasting company culture when half your workforce changes every six months?
 
 What makes Shaun's perspective so valuable is simple: while attractions run on rides, tech, and infrastructure, he reminds us that it's people who deliver the magic. And in a world where seasonal turnover is the norm, Shaun has figured out how to create the systems and culture that maintain service excellence despite constant workforce changes.
-
-
-
-Shaun just received IAAPA's 2024-2025 Service Award for Asia-Pacific, recognizing his contributions as a mentor and educator. But what I think our listeners will find most valuable is his no-nonsense approach to the people side of our business. He's famous for saying 'Don't cut the training budget' even when times get tough, and he'll tell you exactly why that's not just good HR advice – it's smart business strategy.
 
 Shaun, welcome to Signal."
 
