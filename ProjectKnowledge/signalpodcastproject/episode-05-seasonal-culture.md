@@ -60,7 +60,6 @@ Shaun, welcome to Signal."
 
 ## Part 1: The Seasonal Culture Paradox (8-10 minutes)
 
-### Opening Questions
 
 **Tim**: "Shaun, you've seen this challenge everywhere from Australia to the Middle East to Asia – attractions need consistent culture and service quality, but rely heavily on seasonal workers who might only be with you for three to six months. What's the fundamental mistake most operators make when approaching this paradox?"
 
