@@ -26,7 +26,7 @@ last_updated: Sep 17, 2025
 
 ## Opening Context for Hosts
 
-**Key Stats to Reference**:
+Shaun's Background: 
 
 - 25+ years global attractions industry experience
 - Founded Attractions Academy (2018) focused on operations planning and organizational development
