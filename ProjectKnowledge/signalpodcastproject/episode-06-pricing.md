@@ -30,7 +30,7 @@
 
 "Today we're joined by Evan Reese, and Evan represents something our industry desperately needs right now – someone who understands that pricing isn't just about setting numbers, but about fundamentally shifting consumer behavior.
 
-**(Optional context -I first met Evan at...)**
+**(Optional context - I first met Evan at...)**
 
 Evan comes to us from the hotel industry, where he spent years in an environment where every room, every night, is a perishable asset. But what makes Evan's perspective so valuable for attractions operators is that he's made the jump from hospitality to our industry, and he's seeing things we've been missing.
 
