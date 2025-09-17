@@ -129,15 +129,13 @@ Evan, welcome to Signal."
 
 ## Closing Segment
 
-### Key Takeaways
+**Tim**: "Evan, you're building career management software while consulting on pricing strategy. How do those experiences inform each other? What patterns do you see across industries about organizational change?"
 
-**John**: "Evan, you're building career management software while consulting on pricing strategy. How do those experiences inform each other? What patterns do you see across industries about organizational change?"
-
-**Tim**: "For operators listening who know their pricing needs work but feel overwhelmed, what's the one thing they should start doing differently next week?"
-
-**John**: “Looking ahead, with AI and shifting consumer expectations, how do you see pricing evolving in attractions over the next five years? What should operators start preparing for now?”
+**John**: "For operators listening who know their pricing needs work but feel overwhelmed, what's the one thing they should start doing differently next week?"
 
 **Tim:** “You’ve said pricing should be about creating patterns, not punishments. If operators could create just one positive pattern in guest behavior, what should it be?”
+
+**Tim**: “Looking ahead, with AI and shifting consumer expectations, how do you see pricing evolving in attractions over the next five years? What should operators start preparing for now?”
 
 **Themes we explored today:**
 1. Why pricing hygiene comes before dynamic pricing
