@@ -106,7 +106,7 @@
 ## Content Management System
 
 **Episode Development:**
-- **Format**: 30-35 minute episodes, biweekly publishing
+- **Format**: 60 minute episodes, biweekly publishing
 - **Content Mix**: Batched evergreen + timely/reactive episodes
 - **Guest Strategy**: Dynamic mix with guests and host-only episodes
 - **Quality Standard**: Highly polished, templated, consistent

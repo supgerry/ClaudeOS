@@ -73,9 +73,7 @@ Evan, welcome to Signal."
 
 **Tim** (Front-Line Implementation): "Your pricing strategy is only as good as your staff explaining it. How should operators prepare front-line teams to handle tough guest questions?”
 
-**John** (Measurement and Optimization): "What metrics should operators be tracking beyond just revenue per visitor? How do you know if your pricing strategy is actually working?"
-
-**Tim**: "AI is creeping into pricing. Where do you see real potential — and where should operators be cautious?"
+**John**: "AI is creeping into pricing. Where do you see real potential — and where should operators be cautious?"
 
 
 ---
@@ -87,9 +85,7 @@ Evan, welcome to Signal."
 
 **Tim** (Real-World Application): "Let's say I'm running a mid-sized attraction setting pricing for next season right now. Walk me through your framework – what questions am I asking, what data am I looking at?"
 
-**John** (Competitive Advantage): "In hotels, revenue management is table stakes. Will attractions get to that point too, or is there still a first-mover advantage?”
-
-**Tim** (Industry Evolution): "Coming from hospitality, what surprised you most about how attractions approach pricing? What obvious opportunities are we missing?”
+**John** (Competitive Advantage): “In hotels, revenue management is table stakes. Coming into attractions, what surprised you most — and do you think pricing sophistication will soon be table stakes here, or is there still a first-mover advantage?”
 
 ---
 
