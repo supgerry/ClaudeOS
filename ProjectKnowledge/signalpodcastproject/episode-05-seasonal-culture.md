@@ -44,6 +44,14 @@ last_updated: Sep 17, 2025
 - Strong advocate for training investment even during budget constraints
 - Champion of diversity & inclusion initiatives in attractions
 
+**Shaun’s Core Lens**:
+
+- People deliver the magic — engaged teams = better guest experiences
+- Engagement isn’t “warm and fuzzy HR” — it’s strategy, standards, and systems
+- Training is non-negotiable, even in tough times
+- Diversity, inclusion, and safety culture are business-critical
+- Believes in cultivating the **“spirit of the organization”** that guests can feel
+
 ---
 
 ## Guest Introduction (for Tim to read)
