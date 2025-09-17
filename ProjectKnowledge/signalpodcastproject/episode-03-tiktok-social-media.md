@@ -1,5 +1,5 @@
 ---
-episode_number: 7
+episode_number: 3
 episode_title: (TikTok/Social Media) Made Me Go There
 episode_type: Guest
 recording_date: TBD (Mid-late August 2025)
