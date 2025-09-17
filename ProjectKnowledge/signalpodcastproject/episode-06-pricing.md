@@ -87,23 +87,18 @@ Evan, welcome to Signal."
 
 **Tim** (Real-World Application): "Let's say I'm running a mid-sized attraction setting pricing for next season right now. Walk me through your framework – what questions am I asking, what data am I looking at?"
 
-**John** (Competitive Advantage): "Revenue management is becoming table stakes in hospitality. Do you see pricing sophistication becoming a competitive requirement in attractions, or is there still a first-mover advantage?"
+**John** (Competitive Advantage): "In hotels, revenue management is table stakes. Will attractions get to that point too, or is there still a first-mover advantage?”
 
-**Tim** (Industry Evolution): "Coming from hotels to attractions, what surprises you most about how our industry approaches pricing? What obvious opportunities are we missing?"
+**Tim** (Industry Evolution): "Coming from hospitality, what surprised you most about how attractions approach pricing? What obvious opportunities are we missing?”
 
 ---
 
 ## Behind the Scenes Segment (5-7 minutes)
 
-### Practical Implementation
+**Tim**: “Tell us a story — maybe from your ski resort days — where a small pricing change created a big shift in guest behavior. What did you learn?”
 
-**Tim** (Operational Tactics): "What's your first question when you're evaluating an attraction's pricing readiness? What immediately tells you whether they're ready for more sophisticated strategies?"
+**John**: “And on the flip side, have you seen a pricing experiment backfire? What can operators learn from that?”
 
-**John** (Technology Requirements): "What's the minimum viable tech stack for an attraction that wants to implement strategic pricing? What should they invest in first versus what can wait?"
-
-**Tim** (Common Pitfalls): "What's the most common pricing mistake you see attractions make that they don't even realize is undermining their revenue?"
-
-**John** (Industry Comparison): "Hotels compete with online travel agencies daily on pricing. Who are attractions really competing with on price, and are they thinking about competition correctly?"
 
 ---
 
