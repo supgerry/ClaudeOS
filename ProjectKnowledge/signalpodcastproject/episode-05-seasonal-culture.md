@@ -26,26 +26,15 @@ last_updated: Sep 17, 2025
 
 ## Opening Context for Hosts
 
-Shaun's Background: 
-
-- 25+ years global attractions industry experience
-- Founded Attractions Academy (2018) focused on operations planning and organizational development
-- IAAPA 2024-2025 Service Award recipient (Asia-Pacific)
-- Head of Faculty for IAAPA Institute for Attraction Managers
-- Part of Ferrari World Abu Dhabi opening leadership team
-- Former Chair of IAAPA Asia-Pacific Education Committee and Global Human Resources Committee
-
 **Shaun's Background**:
+- 25+ years global attractions industry experience
+- Founder & President of Attractions Academy (est. 2018) – consultancy focused on ops planning, org development & training
+- Career includes Warner Bros. Movie World, Sea World, Wet'n'Wild, Ferrari World Abu Dhabi (opening team), VP Ops at Bangkok's King Power Mahanakhon tower
+- Deep involvement in IAAPA (past Chair of Global HR Committee, Head of Faculty at Institute for Attraction Managers)
+- 2024–25 IAAPA Service Award recipient (Asia-Pacific)
+- Regular international keynote speaker, mentor, and educator
 
-- Started career in Australia at Warner Bros. Movie World, Sea World, Wet'n'Wild Water World
-- Worked across Australia, Middle East, and Asia-Pacific regions
-- Career began as a clown (early front-line experience)
-- Expertise in safety culture, employee engagement, and service excellence
-- Strong advocate for training investment even during budget constraints
-- Champion of diversity & inclusion initiatives in attractions
-
-**Shaun’s Core Lens**:
-
+**Shaun’s Core Philosophy**:
 - People deliver the magic — engaged teams = better guest experiences
 - Engagement isn’t “warm and fuzzy HR” — it’s strategy, standards, and systems
 - Training is non-negotiable, even in tough times
