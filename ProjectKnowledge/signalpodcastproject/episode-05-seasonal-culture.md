@@ -48,18 +48,15 @@ last_updated: Sep 17, 2025
 
 "Today we're joined by Shaun McKeogh, one of the most respected voices in our industry when it comes to culture, engagement, and leadership in a seasonal world. If you’ve been to an IAAPA conference in the past decade, you’ve probably seen Shaun in action — leading workshops on culture and engagement, mentoring the next generation of leaders, or helping operators design better training systems.
 
-Shaun's journey started on the front lines in Australia's biggest theme parks and eventually took him across the globe, from helping launch Ferrari World Abu Dhabi to leading operations at Bangkok's King Power Mahanakhon. Today, he runs Attractions Academy, where he helps operators solve what might be the industry's biggest paradox: how do you build lasting company culture when half your workforce changes every six months?
+Shaun’s career began in Australia’s biggest theme parks and eventually took him across the globe, from helping launch Ferrari World Abu Dhabi to leading operations at Bangkok's King Power Mahanakhon. Today, he runs Attractions Academy, where he helps operators solve what might be the industry's biggest paradox: how do you build lasting company culture when half your workforce changes every six months?
+
+What makes Shaun's perspective so valuable is simple: while attractions run on rides, tech, and infrastructure, he reminds us that it's people who deliver the magic. And in a world where seasonal turnover is the norm, Shaun has figured out how to create the systems and culture that maintain service excellence despite constant workforce changes.
 
 
-But here's what makes Shaun's perspective so valuable: he's lived this industry from every angle. His career literally started as a clown – yes, an actual clown – at Australian theme parks, which gave him firsthand experience in the challenge every attraction faces: how do you maintain authentic joy and energy when you're dealing with the realities of seasonal employment, budget pressures, and the expectation that your team delivers 'perfect, genuine, blissful, smiling joy' to thousands of guests every day?
-
-From those front-line beginnings, Shaun worked his way up through operations at Warner Bros. Movie World and Sea World, then became part of the opening leadership team at Ferrari World Abu Dhabi – one of the most successful theme park launches in recent memory. That experience taught him something crucial: you can't just hope culture happens. You have to architect it from day one.
-
-Today, through Attractions Academy, Shaun helps operators worldwide solve what might be the industry's biggest paradox: how do you build lasting company culture when half your workforce changes every six months? How do you create the systems and training that maintain service excellence when your team is constantly turning over?
 
 Shaun just received IAAPA's 2024-2025 Service Award for Asia-Pacific, recognizing his contributions as a mentor and educator. But what I think our listeners will find most valuable is his no-nonsense approach to the people side of our business. He's famous for saying 'Don't cut the training budget' even when times get tough, and he'll tell you exactly why that's not just good HR advice – it's smart business strategy.
 
-Shaun, welcome to Signal. Let's talk about building culture in a world where your team changes with the seasons."
+Shaun, welcome to Signal."
 
 ---
 
