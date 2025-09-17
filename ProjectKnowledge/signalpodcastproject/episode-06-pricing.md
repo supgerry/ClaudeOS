@@ -60,24 +60,23 @@ Evan, welcome to Signal."
 
 **John** (Metrics): “You’ve mentioned there’s one metric most operators overlook. What is it — and why does it matter more than the daily ticket price?”
 
-**Tim** (Seasonal Reality): "Most attractions are dealing with extreme seasonality – dead winter, crazy summer, where 70% of your revenue comes in 12 weeks. How do you apply these pricing strategies when ?"
+**Tim** (Seasonal Reality): "Most attractions are dealing with extreme seasonality – dead winter, crazy summer, where 70% of your revenue comes in 12 weeks. How do you apply these pricing strategies in highly seasonal businesses?"
 
-
-**John** : "What's the role of AI and automation in pricing decisions? You mentioned earlier that operators should be cautious about just trusting AI – what should they be watching for?"
 
 ---
 
-## Part 3: Organizational Change Management (8-10 minutes)
+## Part 3: Organizational Buy-In (8-10 minutes)
 
-### Strategic Questions
+**Tim** (Team Dynamics): "Changing pricing strategy isn't just about algorithms – it's about getting your team to buy in. How do you win over sales teams used to discounting or ops teams worried about guest complaints?"
 
-**Tim** (Team Dynamics): "Changing pricing strategy isn't just about algorithms – it's about getting your team to buy in. What's your approach when you walk into an organization where the sales team is used to discounting everything?"
+**John** (Executive Leadership): "From a leadership perspective, how do you build confidence in pricing changes when everyone's afraid of alienating customers?"
 
-**John** (Executive Leadership): "From a leadership perspective, how do you build organizational confidence in dynamic pricing when everyone's afraid of alienating customers? What's the change management process?"
-
-**Tim** (Front-Line Implementation): "Your pricing strategy is only as good as your front-line team's ability to explain it to confused guests. How do you train staff to handle pricing questions confidently?"
+**Tim** (Front-Line Implementation): "Your pricing strategy is only as good as your front-line staff explaining it. How do you train staff to handle pricing questions confidently?"
 
 **John** (Measurement and Optimization): "What metrics should operators be tracking beyond just revenue per visitor? How do you know if your pricing strategy is actually working?"
+
+**John** : "What's the role of AI and automation in pricing decisions? You mentioned earlier that operators should be cautious about just trusting AI – what should they be watching for?"
+
 
 ---
 
