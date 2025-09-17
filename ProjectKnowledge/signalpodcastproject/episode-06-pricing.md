@@ -54,13 +54,16 @@ Evan, welcome to Signal."
 ## Part 2: Pricing as Behavior Design (8–10 minutes) 
 
 
-**John**: "You've said that pricing should be about creating the patterns you want to see, not just maximizing demand. What does that philosophy look like in practice for an attraction operator?"
+**John**: "You've said that pricing should be about creating the patterns you want to see and shaping behavior, not just maximizing demand. What does that look like in practice for an attraction operator?"
 
-**Tim** (Guest Experience Focus): "Everyone thinks dynamic pricing means surge pricing during peak times. You advocate for pricing as incentive rather than punishment. How do you use pricing to actually improve the guest experience?"
+**Tim**: "Everyone thinks dynamic pricing means surge pricing during peak times. You advocate for pricing as incentive rather than punishment. How do you use pricing to actually improve the guest experience?"
 
-**John** (Technology Integration): "What's the role of AI and automation in pricing decisions? You mentioned earlier that operators should be cautious about just trusting AI – what should they be watching for?"
+**John** (Metrics): “You’ve mentioned there’s one metric most operators overlook. What is it — and why does it matter more than the daily ticket price?”
 
-**Tim** (Seasonal Reality): "Most attractions are dealing with extreme seasonality – dead winter, crazy summer. How do you apply these pricing strategies when 70% of your revenue comes in 12 weeks?"
+**Tim** (Seasonal Reality): "Most attractions are dealing with extreme seasonality – dead winter, crazy summer, where 70% of your revenue comes in 12 weeks. How do you apply these pricing strategies when ?"
+
+
+**John** : "What's the role of AI and automation in pricing decisions? You mentioned earlier that operators should be cautious about just trusting AI – what should they be watching for?"
 
 ---
 
