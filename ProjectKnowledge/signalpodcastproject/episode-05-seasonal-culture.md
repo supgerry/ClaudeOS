@@ -46,7 +46,7 @@ last_updated: Sep 17, 2025
 
 ---
 
-## Guest Introduction (for Tim or John to read)
+## Guest Introduction (for Tim to read)
 
 "Today we're joined by Shaun McKeogh, and if you've been to an IAAPA conference in the past decade, you've probably seen Shaun in action – whether he's moderating a panel on building winning teams, leading a diversity and inclusion workshop, or mentoring the next generation of attraction leaders through the IAAPA Institute for Attraction Managers.
 
