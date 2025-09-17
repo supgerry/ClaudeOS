@@ -36,14 +36,19 @@ last_updated: Sep 17, 2025
 
 **Shaun’s Core Philosophy**:
 - People deliver the magic — engaged teams = better guest experiences
-- Engagement isn’t “warm and fuzzy HR” — it’s strategy, standards, and systems
-- Training is non-negotiable, even in tough times
-- Diversity, inclusion, and safety culture are business-critical
+- Leadership and culture must be strategic, not "warm and fuzzy" HR exercises
+- Training is non-negotiable, even in tough times — "don't cut the training budget"
+- Diversity, inclusion, and safety culture are business-critical, inseparable from guest service excellence
 - Believes in cultivating the **“spirit of the organization”** that guests can feel
 
 ---
 
 ## Guest Introduction (for Tim to read)
+
+
+"Today we're joined by Shaun McKeogh, one of the most respected voices in our industry when it comes to culture, engagement, and leadership in a seasonal world.
+
+if you’ve been to an IAAPA conference in the past decade, you’ve probably seen Shaun in action
 
 "Today we're joined by Shaun McKeogh, and if you've been to an IAAPA conference in the past decade, you've probably seen Shaun in action – whether he's moderating a panel on building winning teams, leading a diversity and inclusion workshop, or mentoring the next generation of attraction leaders through the IAAPA Institute for Attraction Managers.
 
