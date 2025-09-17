@@ -33,11 +33,9 @@
 
 Evan is best known for pioneering real-time pricing strategies in industries like ski resorts, (you might have heard of Liftopia/Catalate), where he showed operators how to balance demand, value perception, and guest satisfaction. But what makes Evan’s perspective so valuable for attractions is that he’s not just a ‘pricing guy’ — he’s a behavior strategist. He’s spent years helping organizations rethink the way they set prices, not to punish demand, but to create the patterns they want to see in guest behavior.
 
-And here's what's interesting: He doesn't start with dynamic pricing algorithms or fancy software. He starts with what he calls 'pricing hygiene' – the unsexy but critical work of making sure your prices are consistent across every channel where your tickets are sold. Because here's the reality he's uncovered: you can have the most sophisticated dynamic pricing on your website, but if you have 150 other websites selling your tickets at different prices, you're actually undermining your entire strategy.
+And here's what's interesting: He doesn't start with fancy algorithms. He starts with what he calls 'pricing hygiene' – the unsexy but critical work of making sure your prices are consistent across every channel where your tickets are sold. Because the truth is: you can have the most sophisticated dynamic pricing on your website, but if you have 150 other websites selling your tickets at different prices, you're undermining your entire strategy.
 
-Today, Evan runs his own advisory practice and is also building new technology ventures aimed at shifting consumer behavior in other industries. His personal journey of overcoming significant business setbacks gives him a unique perspective on resilience and strategic pivoting.
-
-For our audience, his insights come at a perfect moment: attractions everywhere are rethinking their 2026 pricing models right now.
+Today, Evan runs his own advisory practice and is also building new technology ventures aimed at shifting consumer behavior in other industries. For our audience, his insights come at a perfect moment: attractions everywhere are rethinking their 2026 pricing models right now.
 
 Evan, welcome to Signal."
 
@@ -45,9 +43,9 @@ Evan, welcome to Signal."
 
 ### Opening Questions
 
-**John**: "Evan, you have this concept of 'pricing hygiene' that you say is more important than dynamic pricing itself. Can you paint us a picture of what bad pricing hygiene looks like for a typical attraction operator?"
+**John**: “Evan, you’ve said pricing hygiene matters more than dynamic pricing itself. What does bad hygiene look like in practice for an attraction operator?”
 
-**Tim**: "You mentioned finding five different instances of websites undercutting a client's own pricing in just eight minutes of browsing. From an operational standpoint, how does an attraction even begin to get control of that ecosystem?"
+**Tim**: "You mentioned you once found five different websites undercutting a client's own pricing in just eight minutes of browsing. From an operational standpoint, how does an attraction even begin to get control of that ecosystem?"
 
 **John** (Business Strategy Focus): "The hotel industry has been doing cross-channel price management for decades. What structural differences make this harder for attractions, and how do those differences change the strategic approach?"
 
