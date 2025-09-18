@@ -104,7 +104,7 @@ Shaun, welcome to Signal."
 
 **Tim**: "You talked about government agencies helping businesses develop a 'safety first culture' versus just bringing in standards. In seasonal operations where you're constantly training new people on safety, how do you build that culture versus just checking compliance boxes?"
 
-**John**: "Post-COVID, you emphasized the importance of leaders over-communicating and keeping teams engaged virtually. How has that experience changed your approach to managing seasonal teams that might be more distributed or remote?"
+**John**: "Post-COVID, you urged leaders to over-communicate and keep teams engaged virtually. What did that crisis teach you about culture resilience?”
 
 **John**: "You've led DE&I workshops for IAAPA. Why do you believe diversity and inclusion are now business priorities for attractions, especially when dealing with seasonal hiring where you need to hire quickly and in volume?"
 
@@ -131,8 +131,6 @@ Shaun, welcome to Signal."
 **Tim**: "Tell us about a time when you saw a seasonal culture strategy completely backfire. What went wrong, and what did it teach you?"
 
 
-
-
 ---
 
 ## Lightning Round (Rapid-Fire Questions)
@@ -152,7 +150,6 @@ Shaun, welcome to Signal."
 **Tim**: "Best way to recognize seasonal employees?"
 
 **John**: “One leadership quality every future GM should have?”
-
 
 
 ---
