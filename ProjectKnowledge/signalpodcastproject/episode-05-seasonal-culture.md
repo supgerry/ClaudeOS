@@ -58,63 +58,83 @@ Shaun, welcome to Signal."
 
 ---
 
-## Part 1: The Seasonal Culture Paradox (8-10 minutes)
+## Part 1: From Clown to Consultant – Origins (8–10 minutes)
 
-**Tim**: “Shaun, you’ve worked across Australia, the Middle East, and Asia-Pacific. Everywhere, operators face the same paradox: consistent culture and service quality, but with seasonal teams that turn over every few months. What’s the fundamental mistake most operators make when tackling this challenge?”
-
-**John**: "From a business strategy perspective, how do you measure the ROI of culture-building when your workforce is constantly changing? What metrics actually matter?"
+**John**: "Shaun, you've worn many hats in this industry — even literally, as a clown early in your career. How did those front-line experiences shape the leader and trainer you are today?"
 
 **Tim**: "You worked on the Ferrari World opening team where you built culture from scratch with a brand new workforce. Walk us through that process – how do you create (or architect) culture when you're starting with zero?"
 
 ---
+## Part 2: The Seasonal Culture Paradox (8–10 minutes)
 
-## Part 2: Training as Non-Negotiable Infrastructure (8-10 minutes)
+**Tim**: "Let's tackle the elephant in the room – attractions need consistent culture and service quality, but rely heavily on seasonal workers who might only be with you for three to six months. What's the fundamental mistake most operators make when approaching this paradox?"
 
-**John***: "You're famous for saying 'Don't cut the training budget' even during tough times. How do you make that case to a CFO when half your seasonal staff will be gone in six months?”
+**John** : "From a business strategy perspective, how do you measure the ROI of culture-building when your workforce is constantly changing? What metrics actually matter when half your team turns over every season?"
 
-**Tim***: "You mentioned that research shows the first 90 days are critical for new employees. But seasonal workers might only be with you for 90 days total. How do you compress onboarding without sacrificing quality?"
+**Tim**: "You mentioned in our pre-call that you get frustrated when operators think they do training but really just run a 20-minute annual workshop. With seasonal workers, how do you compress effective culture building into potentially just a few months without sacrificing depth?"
 
-**John***: "Through IAAPA and Attractions Academy, you train the next generation of attraction leaders. What’s the biggest gap you see between what managers think works for seasonal teams versus what actually works?”
-
-**Tim***: "You started as a clown – literally – so you understand the front-line reality. How do you coach seasonal staff to deliver genuine joy in jobs that aren’t always glamorous or well-paid?”
-
+**John**: "You often say organizations succeed when they treat employees as true stakeholders. How does that philosophy change when dealing with temporary seasonal workers versus year-round staff?"
 
 ---
 
-## Part 3: Leadership in Crisis and Recovery (8-10 minutes)
+## Part 3: Engagement is Strategy, Not Fluff (8–10 minutes)
 
-**Tim**: “During COVID, you urged leaders to over-communicate and keep teams engaged virtually. What did that crisis teach you about culture resilience?”
+**John** _(Business Focus)_: "In our pre-call, you mentioned your frustration with HR being seen as 'warm and fuzzy' instead of strategic. You've said employee engagement isn't about 'warm fuzzies' — it has to be strategic. What does that mean in practice for an attraction operator?"
 
-**John**: "Post-pandemic, employee expectations have shifted dramatically. How has that changed the way attractions need to approach seasonal hiring and retention? What do today's seasonal workers want that they didn't before?"
+**Tim** _(Operations Focus)_: "You talked about the importance of having documentation and strategic roadmaps, not just hoping culture happens. For seasonal operations where you're constantly onboarding new people, what does that strategic documentation actually look like?"
 
-**Tim**: "You talk about building 'the spirit of an organization.' How do you build a spirit that's resilient enough to survive when 50% of your team turns over every year?"
+**John**: "You mentioned that many leadership teams don't give HR a 'seat at the table' — they're making business decisions without considering the people impact. How do you convince leadership that workforce strategy needs to be part of business strategy, especially with seasonal challenges?"
 
-**John**: "You mentioned using online training to keep furloughed teams engaged. How has technology changed your approach to training seasonal workers? What tools should operators be investing in?"
+**Tim**: "From your Ferrari World experience, can you share how you owned and believed in every word of your vision and mission? How do you create that same ownership with seasonal workers who might only be there for the summer?"
+
+---
+
+## Part 4: Training as Non-Negotiable Infrastructure (8–10 minutes)
+
+**Tim**: "You're famous for saying 'Don't cut the training budget' even in tough times. With seasonal workers, make the business case – how do you justify training investment to a CFO when half your staff will be gone in six months?"
+
+**John**: "Through IAAPA, you've helped groom the next generation of leaders. What gaps do you see in how our industry develops managers specifically for seasonal workforce management?"
+
+**Tim** _(Front-Line Reality)_: "You started as a clown – literally – so you understand expecting front-line staff to maintain 'perfect, genuine, blissful, smiling joy' when the job might not be glamorous. How do you train seasonal workers to deliver that authentically?"
+
+**John**: "You mentioned the first 90 days are critical for new employees, but seasonal workers might only be with you for 90 days total. How does that change your approach to leadership development and coaching culture?"
+
+---
+
+## Part 5: Safety Culture vs. Compliance & Modern Workforce (8–10 minutes)
+
+**Tim**: "You talked about government agencies helping businesses develop a 'safety first culture' versus just bringing in standards. In seasonal operations where you're constantly training new people on safety, how do you build that culture versus just checking compliance boxes?"
+
+**John**: "Post-COVID, you emphasized the importance of leaders over-communicating and keeping teams engaged virtually. How has that experience changed your approach to managing seasonal teams that might be more distributed or remote?"
+
+**John**: "You've led DE&I workshops for IAAPA. Why do you believe diversity and inclusion are now business priorities for attractions, especially when dealing with seasonal hiring where you need to hire quickly and in volume?"
 
 **Tim**: "For operators struggling with seasonal labor shortages, what's the one thing they can do to become an employer people want to come back to year after year?"
 
 ---
 
-## Part 4: Diversity, Inclusion, and Global Perspectives (8-10 minutes)
+## Part 6: The Spirit of the Organization (8–10 minutes)
 
-**Tim** _(Cultural Intelligence)_: "You've organized diversity and inclusion workshops for IAAPA and worked across Australia, the Middle East, and Asia-Pacific. How do cultural differences impact the way you build team culture in different regions?"
+**Tim**: "You've talked about the 'spirit of the organization' — that guests can feel when a culture is authentic. With constantly changing seasonal teams, how do you maintain that consistent spirit that guests experience?"
 
-**John** _(Competitive Advantage)_: "You argue that diverse teams bring creative strengths to guest experience. In a seasonal environment where you're hiring quickly and in volume, how do you maintain focus on diversity without sacrificing speed?"
+**John**: "When you think about operational excellence, you often say, 'We're in the business of fun, but we achieve it through smart systems.' What systems behind the scenes make the biggest difference in maintaining culture with seasonal workforce?"
 
-**John** _(Business Impact)_: "From a strategic standpoint, how does building an inclusive culture translate to better business outcomes, especially when dealing with seasonal operations?"
+**Tim**: "Can you share an example of a park or attraction where you felt that authentic spirit come alive, and how they maintained it despite seasonal turnover?"
 
-**Tim** _(Practical Implementation)_: "You've worked in markets where seasonal labor might come from different cultural backgrounds than your year-round staff. How do you bridge those cultural differences to create unified team culture?"
+**John**: "You mentioned that engaged employees lead to better guest experiences. With seasonal teams, how do you measure and maintain that engagement throughout their short tenure?"
 
 ---
 
-## Behind the Scenes Segment (5-7 minutes)
+## Behind the Scenes Segment (5–7 minutes)
+
+**Tim**: "You've traveled and worked across Asia-Pacific, the Middle East, and beyond. What's one cultural or operational practice you've seen abroad that you wish more Western operators would adopt, especially for seasonal workforce management?"
+
+**John**: "On the flip side, what's a leadership or training approach from Western parks that you think could benefit operators in Asia-Pacific when dealing with seasonal teams?"
+
+**Tim**: "Tell us about a time when you saw a seasonal culture strategy completely backfire. What went wrong, and what did it teach you?"
 
 
-**Tim** _(Real-World Examples)_: "Tell us about a time when you saw a seasonal culture strategy completely backfire. What went wrong, and what did it teach you?"
 
-**John** _(Success Stories)_: "On the flip side, share an example where investing in seasonal workforce culture paid off in measurable ways. What were the results?"
-
-**Tim** _(Personal Philosophy)_: "You mentioned that we're in the business of fun, but we achieve it through smart systems. What does that mean practically for seasonal workforce management?"
 
 ---
 
