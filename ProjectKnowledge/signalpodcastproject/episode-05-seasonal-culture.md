@@ -110,9 +110,7 @@ Shaun, welcome to Signal."
 
 **John**: "Post-COVID, you urged leaders to over-communicate and keep teams engaged virtually. What did that crisis teach you about culture resilience?”
 
-**John**: "You've led DE&I workshops for IAAPA. Why do you believe diversity and inclusion are now business priorities for attractions, especially when dealing with seasonal hiring where you need to hire quickly and in volume?"
-
-**Tim**: "For operators struggling with seasonal labor shortages, what's the one thing they can do to become an employer people want to come back to year after year?"
+	**Tim**: "For operators struggling with seasonal labor shortages, what's the one thing they can do to become an employer people want to come back to year after year?"
 
 ---
 
