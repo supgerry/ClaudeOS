@@ -171,13 +171,11 @@ Shaun, welcome to Signal."
 
 ## Closing Segment
 
-**John** _(Strategic Wrap-up)_: "Shaun, you're now mentoring the next generation of attraction leaders through IAAPA. What's the one mindset shift you want them to have about seasonal workforce management?"
+**Tim**: "Shaun, you've built your career on helping people deliver the magic in a seasonal world. For operators listening who are planning their 2026 seasonal hiring right now, what's the one thing they should start doing differently next week?"
 
-**Tim** _(Practical Takeaway)_: "For operators listening who are planning their 2026 seasonal hiring right now, what's the one thing they should start doing differently this week?"
+**John**: "Looking ahead, what qualities do you think the next generation of attraction leaders will need most when managing seasonal teams — and how do we cultivate them now?"
 
-**John** _(Future Vision)_: "Looking ahead, how do you see seasonal workforce management evolving? What should operators start preparing for now?"
-
-**Tim** _(Personal Reflection)_: "From clown to consultant to IAAPA Service Award recipient – that's quite a journey. What would you tell that young clown just starting out about the career path ahead?"
+**Tim**: "And finally, if you could leave one message with every leader in our industry about building culture in a seasonal world, what would it be?"
 
 **Themes we explored today:**
 
