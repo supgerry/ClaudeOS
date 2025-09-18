@@ -98,7 +98,7 @@ Shaun, welcome to Signal."
 
 **John**: "Through IAAPA, you've helped groom the next generation of leaders. What gaps do you see in how our industry develops managers specifically for seasonal workforce management?"
 
-**Tim** (Front-Line Focus): “You started as a clown — so you know front-line reality. How do you coach seasonal staff to deliver genuine joy in jobs that aren’t always glamorous or well-paid?”
+**Tim** (Front-Line Focus): “You know front-line reality from having worked in it. How do you coach seasonal staff to deliver genuine joy in jobs that aren’t always glamorous or well-paid?”
 
 **John**: "You mentioned the first 90 days are critical for new employees, but seasonal workers might only be with you for 90 days total. How does that change your approach to leadership development and coaching culture?"
 
@@ -110,7 +110,7 @@ Shaun, welcome to Signal."
 
 **John**: "Post-COVID, you urged leaders to over-communicate and keep teams engaged virtually. What did that crisis teach you about culture resilience?”
 
-	**Tim**: "For operators struggling with seasonal labor shortages, what's the one thing they can do to become an employer people want to come back to year after year?"
+**Tim**: "For operators struggling with seasonal labor shortages, what's the one thing they can do to become an employer people want to come back to year after year?"
 
 ---
 
