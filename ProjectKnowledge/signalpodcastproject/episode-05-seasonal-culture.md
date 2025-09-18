@@ -83,13 +83,15 @@ Shaun, welcome to Signal."
 
 ## Part 3: Leadership in Crisis and Recovery (8-10 minutes)
 
-Tim: "During COVID, you urged leaders to over-communicate and keep furloughed teams engaged through virtual training and check-ins. What did that crisis teach you about maintaining culture when your team isn't even physically present?"
+**Tim**: “During COVID, you urged leaders to over-communicate and keep teams engaged virtually. What did that crisis teach you about culture resilience?”
 
-John: "Post-pandemic, employee expectations have shifted dramatically. How has that changed the way attractions need to approach seasonal hiring and retention? What do today's seasonal workers want that they didn't before?"
+**John**: "Post-pandemic, employee expectations have shifted dramatically. How has that changed the way attractions need to approach seasonal hiring and retention? What do today's seasonal workers want that they didn't before?"
 
-John: "You mentioned using online training to keep furloughed teams engaged. How has technology changed your approach to training seasonal workers? What tools should operators be investing in?"
+**Tim**: "You talk about building 'the spirit of an organization.' How do you build a spirit that's resilient enough to survive when 50% of your team turns over every year?"
 
-Tim (Cultural Resilience): "You talk about building 'the spirit of an organization.' How do you build a spirit that's resilient enough to survive when 50% of your team turns over every year?"
+**John**: "You mentioned using online training to keep furloughed teams engaged. How has technology changed your approach to training seasonal workers? What tools should operators be investing in?"
+
+**Tim**: "For operators struggling with seasonal labor shortages, what's the one thing they can do to become an employer people want to come back to year after year?"
 
 ---
 
