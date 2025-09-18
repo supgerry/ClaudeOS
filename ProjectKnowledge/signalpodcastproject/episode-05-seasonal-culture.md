@@ -151,6 +151,7 @@ Shaun, welcome to Signal."
 
 **John**: “One leadership quality every future GM should have?”
 
+**Tim**: “Best attraction you’ve ever visited purely for fun?”
 
 ---
 
