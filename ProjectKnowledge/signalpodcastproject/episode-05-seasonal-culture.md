@@ -79,11 +79,15 @@ Shaun, welcome to Signal."
 
 ## Part 3: Engagement is Strategy, Not Fluff (8–10 minutes)
 
+**Tim**: “What’s the biggest misconception about HR and engagement that you wish leaders would finally drop?”
+
 **John**: “You’ve said employee engagement isn’t about warm fuzzies — it’s about strategy and standards. What does that mean in practice for operators?”
 
 **Tim** _(Operations Focus)_: "You talked about the importance of having documentation and strategic roadmaps, not just hoping culture happens. For seasonal operations where you're constantly onboarding new people, what does that strategic documentation actually look like?"
 
 **John**: "You mentioned that many leadership teams don't give HR a 'seat at the table' — they're making business decisions without considering the people impact. How do you convince leadership that workforce strategy needs to be part of business strategy, especially with seasonal challenges?"
+
+
 
 
 ---
@@ -135,6 +139,9 @@ Shaun, welcome to Signal."
 
 ## Lightning Round (Rapid-Fire Questions)
 
+
+**John**: “Best attraction you’ve ever visited purely for fun?”
+
 **Tim**: "Hire for attitude or hire for experience?"
 
 **John**: "Most overrated training exercise?"
@@ -151,7 +158,7 @@ Shaun, welcome to Signal."
 
 **John**: “One leadership quality every future GM should have?”
 
-**Tim**: “Best attraction you’ve ever visited purely for fun?”
+
 
 ---
 
