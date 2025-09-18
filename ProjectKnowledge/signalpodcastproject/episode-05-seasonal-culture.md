@@ -100,8 +100,6 @@ Shaun, welcome to Signal."
 
 **Tim** (Front-Line Focus): “You know front-line reality from having worked in it. How do you coach seasonal staff to deliver genuine joy in jobs that aren’t always glamorous or well-paid?”
 
-**John**: "You mentioned the first 90 days are critical for new employees, but seasonal workers might only be with you for 90 days total. How does that change your approach to leadership development and coaching culture?"
-
 ---
 
 ## Part 5: Safety Culture vs. Compliance & Modern Workforce (8–10 minutes)
