@@ -60,20 +60,15 @@ Shaun, welcome to Signal."
 
 ## Part 1: The Seasonal Culture Paradox (8-10 minutes)
 
-
 **Tim**: “Shaun, you’ve worked across Australia, the Middle East, and Asia-Pacific. Everywhere, operators face the same paradox: consistent culture and service quality, but with seasonal teams that turn over every few months. What’s the fundamental mistake most operators make when tackling this challenge?”
 
 **John**: "From a business strategy perspective, how do you measure the ROI of culture-building when your workforce is constantly changing? What metrics actually matter?"
 
 **Tim**: "You worked on the Ferrari World opening team where you built culture from scratch with a brand new workforce. Walk us through that process – how do you create (or architect) culture when you're starting with zero?"
 
-**John**: "You often say organizations succeed when they treat employees as true stakeholders. How does that philosophy change when dealing with temporary seasonal workers versus year-round staff?"
-
 ---
 
 ## Part 2: Training as Non-Negotiable Infrastructure (8-10 minutes)
-
-### Core Questions
 
 **John** _(Business Investment)_: "You're famous for saying 'Don't cut the training budget' even during tough times. Make the business case – how do you justify training investment to a CFO when half your staff will be gone in six months?"
 
@@ -87,7 +82,6 @@ Shaun, welcome to Signal."
 
 ## Part 3: Leadership in Crisis and Recovery (8-10 minutes)
 
-### Strategic Questions
 
 **Tim** _(Crisis Management)_: "During COVID, you urged leaders to over-communicate and keep furloughed teams engaged through virtual training and check-ins. What did that crisis teach you about maintaining culture when your team isn't even physically present?"
 
@@ -101,8 +95,6 @@ Shaun, welcome to Signal."
 
 ## Part 4: Diversity, Inclusion, and Global Perspectives (8-10 minutes)
 
-### Leadership Questions
-
 **Tim** _(Cultural Intelligence)_: "You've organized diversity and inclusion workshops for IAAPA and worked across Australia, the Middle East, and Asia-Pacific. How do cultural differences impact the way you build team culture in different regions?"
 
 **John** _(Competitive Advantage)_: "You argue that diverse teams bring creative strengths to guest experience. In a seasonal environment where you're hiring quickly and in volume, how do you maintain focus on diversity without sacrificing speed?"
@@ -115,7 +107,6 @@ Shaun, welcome to Signal."
 
 ## Behind the Scenes Segment (5-7 minutes)
 
-### Operational Reality
 
 **Tim** _(Real-World Examples)_: "Tell us about a time when you saw a seasonal culture strategy completely backfire. What went wrong, and what did it teach you?"
 
