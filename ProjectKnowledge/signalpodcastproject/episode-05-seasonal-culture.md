@@ -151,8 +151,6 @@ Shaun, welcome to Signal."
 
 **Tim**: "Disney or Universal – who does seasonal culture better?"
 
-**John**: "Exit interviews with seasonal staff – worth it or waste of time?"
-
 **Tim**: "Group interviews or individual interviews for seasonal hiring?"
 
 **John**: "Most important leadership quality for managing seasonal teams?"
@@ -162,8 +160,6 @@ Shaun, welcome to Signal."
 **John**: "Cross-training seasonal staff – essential or nice-to-have?"
 
 **Tim**: "Biggest culture killer in seasonal operations?"
-
-**John**: "Performance reviews for 3-month employees – yes or no?"
 
 **Tim**: "Most effective way to onboard 50 people in one week?"
 
