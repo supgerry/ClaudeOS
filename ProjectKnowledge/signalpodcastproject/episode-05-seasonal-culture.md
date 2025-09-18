@@ -85,7 +85,6 @@ Shaun, welcome to Signal."
 
 **John**: "You mentioned that many leadership teams don't give HR a 'seat at the table' — they're making business decisions without considering the people impact. How do you convince leadership that workforce strategy needs to be part of business strategy, especially with seasonal challenges?"
 
-**Tim**: "From your Ferrari World experience, can you share how you owned and believed in every word of your vision and mission? How do you create that same ownership with seasonal workers who might only be there for the summer?"
 
 ---
 
@@ -115,11 +114,9 @@ Shaun, welcome to Signal."
 
 ## Part 6: The Spirit of the Organization (8–10 minutes)
 
-**Tim**: "You've talked about the 'spirit of the organization' — that guests can feel when a culture is authentic. With constantly changing seasonal teams, how do you maintain that consistent spirit that guests experience?"
+**Tim**: "You've talked about the 'spirit of the organization' — that guests can feel when a culture is authentic. With constantly changing seasonal teams, how do you maintain that consistent spirit that guests experience? Can you share an example where you saw that spirit come alive?”"
 
 **John**: "When you think about operational excellence, you often say, 'We're in the business of fun, but we achieve it through smart systems.' What systems behind the scenes make the biggest difference in maintaining culture with seasonal workforce?"
-
-**Tim**: "Can you share an example of a park or attraction where you felt that authentic spirit come alive, and how they maintained it despite seasonal turnover?"
 
 **John**: "You mentioned that engaged employees lead to better guest experiences. With seasonal teams, how do you measure and maintain that engagement throughout their short tenure?"
 
