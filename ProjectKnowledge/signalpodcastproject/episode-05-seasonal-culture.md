@@ -94,7 +94,7 @@ Shaun, welcome to Signal."
 
 **John**: "Through IAAPA, you've helped groom the next generation of leaders. What gaps do you see in how our industry develops managers specifically for seasonal workforce management?"
 
-**Tim** _(Front-Line Reality)_: "You started as a clown – literally – so you understand expecting front-line staff to maintain 'perfect, genuine, blissful, smiling joy' when the job might not be glamorous. How do you train seasonal workers to deliver that authentically?"
+**Tim** (Front-Line Focus): “You started as a clown — so you know front-line reality. How do you coach seasonal staff to deliver genuine joy in jobs that aren’t always glamorous or well-paid?”
 
 **John**: "You mentioned the first 90 days are critical for new employees, but seasonal workers might only be with you for 90 days total. How does that change your approach to leadership development and coaching culture?"
 
@@ -114,9 +114,9 @@ Shaun, welcome to Signal."
 
 ## Part 6: The Spirit of the Organization (8–10 minutes)
 
-**Tim**: "You've talked about the 'spirit of the organization' — that guests can feel when a culture is authentic. With constantly changing seasonal teams, how do you maintain that consistent spirit that guests experience? Can you share an example where you saw that spirit come alive?”"
+**John**: "When you think about operational excellence, you often say, 'We're in the business of fun, but we achieve it through smart systems.' What systems behind the scenes matter most for guest experience?”
 
-**John**: "When you think about operational excellence, you often say, 'We're in the business of fun, but we achieve it through smart systems.' What systems behind the scenes make the biggest difference in maintaining culture with seasonal workforce?"
+**Tim**: "You've talked about the 'spirit of the organization' — that guests can feel when a culture is authentic. With constantly changing seasonal teams, how do you maintain that consistent spirit that guests experience? Can you share an example where you saw that spirit come alive?”"
 
 **John**: "You mentioned that engaged employees lead to better guest experiences. With seasonal teams, how do you measure and maintain that engagement throughout their short tenure?"
 
