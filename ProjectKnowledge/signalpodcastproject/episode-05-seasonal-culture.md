@@ -139,29 +139,21 @@ Shaun, welcome to Signal."
 
 **Tim**: "Hire for attitude or hire for experience?"
 
-**John**: "Most overrated employee engagement strategy?"
+**John**: "Most overrated training exercise?"
 
 **Tim**: "Biggest seasonal hiring mistake you see?"
 
-**John**: "Training budget as percentage of revenue – what's your target?"
+**John**: "Cross-training seasonal staff – essential or nice-to-have?"
 
 **Tim**: "Best way to retain seasonal workers year over year?"
 
 **John**: "Most underutilized tool for building culture?"
 
-**Tim**: "Disney or Universal – who does seasonal culture better?"
+**Tim**: "Best way to recognize seasonal employees?"
 
-**Tim**: "Group interviews or individual interviews for seasonal hiring?"
+**John**: “One leadership quality every future GM should have?”
 
-**John**: "Most important leadership quality for managing seasonal teams?"
 
-**Tim**: "Best recognition program for seasonal workers?"
-
-**John**: "Cross-training seasonal staff – essential or nice-to-have?"
-
-**Tim**: "Biggest culture killer in seasonal operations?"
-
-**Tim**: "Most effective way to onboard 50 people in one week?"
 
 ---
 
