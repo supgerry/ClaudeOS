@@ -74,22 +74,22 @@ Shaun, welcome to Signal."
 
 **Tim***: "You mentioned that research shows the first 90 days are critical for new employees. But seasonal workers might only be with you for 90 days total. How do you compress onboarding without sacrificing quality?"
 
-**Tim***: "You started as a clown – literally – so you understand the front-line reality. How do you train seasonal staff to maintain that 'perfect, genuine, blissful, smiling joy' when the job itself might not be glamorous or well-paid?"
+**John***: "Through IAAPA and Attractions Academy, you train the next generation of attraction leaders. What’s the biggest gap you see between what managers think works for seasonal teams versus what actually works?”
 
-**John*** (Scalability Focus): "Through the IAAPA Institute, you're training the next generation of attraction managers. What's the biggest gap you see between what new managers think they need to know about seasonal workforce management versus what actually works?"
+**Tim***: "You started as a clown – literally – so you understand the front-line reality. How do you coach seasonal staff to deliver genuine joy in jobs that aren’t always glamorous or well-paid?”
+
 
 ---
 
 ## Part 3: Leadership in Crisis and Recovery (8-10 minutes)
 
+Tim: "During COVID, you urged leaders to over-communicate and keep furloughed teams engaged through virtual training and check-ins. What did that crisis teach you about maintaining culture when your team isn't even physically present?"
 
-**Tim** _(Crisis Management)_: "During COVID, you urged leaders to over-communicate and keep furloughed teams engaged through virtual training and check-ins. What did that crisis teach you about maintaining culture when your team isn't even physically present?"
+John: "Post-pandemic, employee expectations have shifted dramatically. How has that changed the way attractions need to approach seasonal hiring and retention? What do today's seasonal workers want that they didn't before?"
 
-**John** _(Post-COVID Strategy)_: "Post-pandemic, employee expectations have shifted dramatically. How has that changed the way attractions need to approach seasonal hiring and retention? What do today's seasonal workers want that they didn't before?"
+John: "You mentioned using online training to keep furloughed teams engaged. How has technology changed your approach to training seasonal workers? What tools should operators be investing in?"
 
-**John** _(Technology Integration)_: "You mentioned using online training to keep furloughed teams engaged. How has technology changed your approach to training seasonal workers? What tools should operators be investing in?"
-
-**Tim** _(Cultural Resilience)_: "You talk about building 'the spirit of an organization.' How do you build a spirit that's resilient enough to survive when 50% of your team turns over every year?"
+Tim (Cultural Resilience): "You talk about building 'the spirit of an organization.' How do you build a spirit that's resilient enough to survive when 50% of your team turns over every year?"
 
 ---
 
