@@ -84,12 +84,9 @@ Shaun, welcome to Signal."
 
 **John**: “You’ve said employee engagement isn’t about warm fuzzies — it’s about strategy and standards. What does that mean in practice for operators?”
 
-**Tim** _(Operations Focus)_: "You talked about the importance of having documentation and strategic roadmaps, not just hoping culture happens. For seasonal operations where you're constantly onboarding new people, what does that documentation actually look like?"
+**Tim**: "You talked about the importance of having documentation and strategic roadmaps, not just hoping culture happens. For seasonal operations where you're constantly onboarding new people, what does that documentation actually look like?"
 
 **John**: "You mentioned that many leadership teams don't give HR a 'seat at the table' — they're making business decisions without considering the people impact. How do you convince leadership that workforce strategy needs to be part of business strategy, especially with seasonal challenges?"
-
-
-
 
 ---
 
@@ -99,7 +96,7 @@ Shaun, welcome to Signal."
 
 **John**: "Through IAAPA, you've helped groom the next generation of leaders. What gaps do you see in how our industry develops managers specifically for seasonal workforce management?"
 
-**Tim** (Front-Line Focus): “You know front-line reality from having worked in it. How do you coach seasonal staff to deliver genuine joy in jobs that aren’t always glamorous or well-paid?”
+**Tim**: “You know front-line reality from having worked in it. How do you coach seasonal staff to deliver genuine joy in jobs that aren’t always glamorous or well-paid?”
 
 ---
 
