@@ -65,9 +65,10 @@ Shaun, welcome to Signal."
 **Tim**: "You worked on the Ferrari World opening team where you built culture from scratch with a brand new workforce. Walk us through that process – how do you create (or architect) culture when you're starting with zero?"
 
 ---
+
 ## Part 2: The Seasonal Culture Paradox (8–10 minutes)
 
-**Tim**: "Let's tackle the elephant in the room – attractions need consistent culture and service quality, but rely heavily on seasonal workers who might only be with you for three to six months. What's the fundamental mistake most operators make when approaching this paradox?"
+**Tim**: "Let's tackle the elephant in the room – attractions need consistent culture and service quality, but rely on seasonal workers who might only be with you for three to six months. What's the fundamental mistake most operators make when approaching this paradox?"
 
 **John**: "From a business strategy perspective, how do you measure the ROI of culture-building when your workforce is constantly changing? What metrics actually matter when half your team turns over every season?"
 
@@ -83,7 +84,7 @@ Shaun, welcome to Signal."
 
 **John**: “You’ve said employee engagement isn’t about warm fuzzies — it’s about strategy and standards. What does that mean in practice for operators?”
 
-**Tim** _(Operations Focus)_: "You talked about the importance of having documentation and strategic roadmaps, not just hoping culture happens. For seasonal operations where you're constantly onboarding new people, what does that strategic documentation actually look like?"
+**Tim** _(Operations Focus)_: "You talked about the importance of having documentation and strategic roadmaps, not just hoping culture happens. For seasonal operations where you're constantly onboarding new people, what does that documentation actually look like?"
 
 **John**: "You mentioned that many leadership teams don't give HR a 'seat at the table' — they're making business decisions without considering the people impact. How do you convince leadership that workforce strategy needs to be part of business strategy, especially with seasonal challenges?"
 
