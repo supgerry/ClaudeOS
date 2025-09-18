@@ -69,9 +69,9 @@ Shaun, welcome to Signal."
 
 **Tim**: "Let's tackle the elephant in the room – attractions need consistent culture and service quality, but rely heavily on seasonal workers who might only be with you for three to six months. What's the fundamental mistake most operators make when approaching this paradox?"
 
-**John** : "From a business strategy perspective, how do you measure the ROI of culture-building when your workforce is constantly changing? What metrics actually matter when half your team turns over every season?"
+**John**: "From a business strategy perspective, how do you measure the ROI of culture-building when your workforce is constantly changing? What metrics actually matter when half your team turns over every season?"
 
-**Tim**: "You mentioned in our pre-call that you get frustrated when operators think they do training but really just run a 20-minute annual workshop. With seasonal workers, how do you compress effective culture building into potentially just a few months without sacrificing depth?"
+**Tim**: "You mentioned that you get frustrated when operators think they do training but really just run a 20-minute annual workshop. With seasonal workers, how do you compress effective culture building into potentially just a few months without sacrificing depth?"
 
 **John**: "You often say organizations succeed when they treat employees as true stakeholders. How does that philosophy change when dealing with temporary seasonal workers versus year-round staff?"
 
@@ -79,7 +79,7 @@ Shaun, welcome to Signal."
 
 ## Part 3: Engagement is Strategy, Not Fluff (8–10 minutes)
 
-**John** _(Business Focus)_: "In our pre-call, you mentioned your frustration with HR being seen as 'warm and fuzzy' instead of strategic. You've said employee engagement isn't about 'warm fuzzies' — it has to be strategic. What does that mean in practice for an attraction operator?"
+**John**: “You’ve said employee engagement isn’t about warm fuzzies — it’s about strategy and standards. What does that mean in practice for operators?”
 
 **Tim** _(Operations Focus)_: "You talked about the importance of having documentation and strategic roadmaps, not just hoping culture happens. For seasonal operations where you're constantly onboarding new people, what does that strategic documentation actually look like?"
 
