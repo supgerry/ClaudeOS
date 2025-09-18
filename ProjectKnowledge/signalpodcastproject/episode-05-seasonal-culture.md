@@ -61,13 +61,13 @@ Shaun, welcome to Signal."
 ## Part 1: The Seasonal Culture Paradox (8-10 minutes)
 
 
-**Tim**: "Shaun, you've seen this challenge everywhere from Australia to the Middle East to Asia – attractions need consistent culture and service quality, but rely heavily on seasonal workers who might only be with you for three to six months. What's the fundamental mistake most operators make when approaching this paradox?"
+**Tim**: “Shaun, you’ve worked across Australia, the Middle East, and Asia-Pacific. Everywhere, operators face the same paradox: consistent culture and service quality, but with seasonal teams that turn over every few months. What’s the fundamental mistake most operators make when tackling this challenge?”
 
 **John**: "From a business strategy perspective, how do you measure the ROI of culture-building when your workforce is constantly changing? What metrics actually matter?"
 
-**Tim** _(Operational Focus)_: "Let's get practical. You worked on the Ferrari World opening team where you built culture from scratch with a brand new workforce. Walk us through that process – how do you architect culture when you're starting with zero people and zero precedent?"
+**Tim**: "You worked on the Ferrari World opening team where you built culture from scratch with a brand new workforce. Walk us through that process – how do you create (or architect) culture when you're starting with zero?"
 
-**John** _(Strategic Business)_: "You often say organizations succeed when they treat employees as true stakeholders. How does that philosophy change when dealing with temporary seasonal workers versus year-round staff?"
+**John**: "You often say organizations succeed when they treat employees as true stakeholders. How does that philosophy change when dealing with temporary seasonal workers versus year-round staff?"
 
 ---
 
