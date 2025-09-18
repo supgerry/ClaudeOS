@@ -18,7 +18,7 @@ last_updated: Sep 17, 2025
 # Episode 5: Culture in a Seasonal World - Host Interview Questions
 
 **Guest**: Shaun McKeogh, Founder and President, Attractions Academy  
-**Recording**: September 18, 2025, 5:00 PM EST  
+**Recording**: September 18, 2025, 5:00 PM CT  
 **Duration**: 90 minutes  
 **Format**: Video + Audio (Riverside)
 
