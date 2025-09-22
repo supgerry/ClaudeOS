@@ -53,7 +53,7 @@ last_updated: July 7, 2025
 
 Tyler first joined Morey’s as an intern over a decade ago, and since then he’s become the person leadership turns to when they need to bridge legacy operations with modern technology.
 
-Most recently, Tyler and his team launched _Fam Club_ — Morey’s first-ever loyalty program. In just four months, with a team of three, they integrated multiple systems, cleaned years of guest data, and rolled out a points-based program that delivers real-time offers as soon as a guest steps off a ride.
+Most recently, Tyler and his team launched Fam Club — Morey’s first-ever loyalty program. In just four months, with a team of three, they integrated multiple systems, cleaned years of guest data, and rolled out a points-based program that delivers real-time offers as soon as a guest steps off a ride.
 
 What makes this story remarkable is that Morey’s has always been known for its “no discount” philosophy. Loyalty at Morey’s isn’t about coupons — it’s about creating value, nudging behavior, and getting guests to do just one more thing.
 
@@ -102,11 +102,7 @@ I'm excited to dive into how Tyler and the Morey's team pulled this off, so Tyle
 
 **Tim**: "Points or discounts?"
 
-**John**: "Season passes – asset or headache?"
-
-**Tim**: "Biggest loyalty program mistake you see others make?"
-
-**John**: "Real-time offers or batch campaigns?"
+**John**: "Biggest loyalty program mistake you see others make?"
 
 **Tim**: "Mobile app or SMS?"
 
