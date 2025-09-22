@@ -28,14 +28,13 @@ last_updated: July 7, 2025
 ## Opening Context for Hosts
 
 **Tyler's Background & Relationship History**:
-- Started as intern at Morey's Piers under Tim's mentorship
-- Progressed through organization during years of Tim's leadership
-- Now serves as Tim's operational advisor and daily sounding board
+- Started at Morey’s Piers as an intern more than a decade ago
+- Brought into the organization by the Morey family
+- Rose through the ranks to become Director of Digital Transformation
 - Co-designed Morey's new Fam Club loyalty program with Tim
-- Brought to Morey's by one of the Morey brothers (founders)
 - Has maintained close working relationship with Tim post-Morey's
 
-**Fam Club Program Context**:
+**Fam Club – Loyalty Program Context **:
 - Launched July 2025 (just launched when pre-call recorded)
 - Points-based currency system (not traditional discount program)
 - Integration across multiple disconnected systems
@@ -96,11 +95,11 @@ Tyler, welcome to Signal."
 
 **Tim**: "You've talked about retention skyrocketing when passholders visit just two more times per year. How do you plan to use Fam Club to specifically target that behavior?"
 
-**John**: "Now that it's live, what's the weirdest or most unexpected guest behavior you've discovered through the data?"
+**John**: "What's been the biggest surprise so far since launch — either from guest feedback or operational reality?"
 
 **Tim**: "Was there a moment during implementation when everything was going wrong? What was your lowest point, and how did you push through?"
 
-**John**: "What's been the biggest surprise so far since launch — either from guest feedback or operational reality?"
+**John**: "Now that it's live, what's the weirdest or most unexpected guest behavior you've discovered through the data?"
 
 **Tim**: "This program integrates season passes, promos, and entitlements. Looking ahead, how do you see Fam Club evolving over the next couple of years?"
 
