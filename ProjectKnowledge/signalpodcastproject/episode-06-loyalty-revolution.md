@@ -56,6 +56,10 @@ last_updated: July 7, 2025
 
 ## Guest Introduction (John)
 
+
+“Today we’re joined by Tyler Jacobs, Director of Digital Transformation at Morey’s Piers.
+
+
 "Today we're joined by Tyler Jacobs from Morey's Piers, and Tyler represents something pretty unique in our industry. He's what happens when an intern grows up to become the person leadership calls when they need to figure out how to actually make things work.
 
 Tyler started at Morey's as an intern years ago under Tim's mentorship during Tim's time there. What made Tyler special wasn't just that he was eager to learn – it was that he asked the right questions and then actually went and found the answers.
