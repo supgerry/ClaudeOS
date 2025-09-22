@@ -56,7 +56,6 @@ last_updated: July 7, 2025
 
 ## Guest Introduction (John)
 
-
 "Today we're joined by Tyler Jacobs from Morey's Piers, and Tyler here represents something pretty cool in our industry. He's what happens when someone grows up in operations and becomes the person leadership calls when they need to figure out how to actually make things work.
 
 Tyler and his team just launched Morey's new Fam Club loyalty program this summer – a points-based system that had to integrate multiple disconnected systems, deliver real-time messaging, and somehow do it all with a three-person team where one of them – Tyler – freely admits he can't write a line of code.
@@ -93,48 +92,44 @@ Tyler, welcome to Signal."
 
 ## Part 3: Impact & What's Next (12-15 minutes)
 
-**Tyler**: "You're in a hyper-competitive boardwalk environment. How do you use loyalty to influence guest behavior when there's a cheaper option 50 feet away?"
+**John**: "You're in a hyper-competitive boardwalk environment. How do you use loyalty to influence guest behavior when there's a cheaper option 50 feet away?"
 
 **Tim**: "You've talked about retention skyrocketing when passholders visit just two more times per year. How do you plan to use Fam Club to specifically target that behavior?"
 
+**John**: "Now that it's live, what's the weirdest or most unexpected guest behavior you've discovered through the data?"
+
+**Tim**: "Was there a moment during implementation when everything was going wrong? What was your lowest point, and how did you push through?"
+
 **John**: "What's been the biggest surprise so far since launch — either from guest feedback or operational reality?"
 
-**Tyler**: "This program integrates season passes, promos, and entitlements. Looking ahead, how do you see Fam Club evolving over the next couple of years?"
-
----
-
-## Behind the Scenes Segment (5-7 minutes)
-
-**Tim**: "Tyler, tell us about a moment during implementation when everything was going wrong. What was your lowest point, and how did you push through?"
-
-**Tyler**: "Now that it's live, what's the weirdest or most unexpected guest behavior you've discovered through the data?"
+**Tim**: "This program integrates season passes, promos, and entitlements. Looking ahead, how do you see Fam Club evolving over the next couple of years?"
 
 
 ## Lightning Round (Rapid-Fire Questions)
 
 **Tim**: "Points or discounts?"
 
-**Tyler**: "Season passes – asset or headache?"
+**John**: "Season passes – asset or headache?"
 
 **Tim**: "Biggest loyalty program mistake you see others make?"
 
-**Tyler**: "Real-time offers or batch campaigns?"
+**John**: "Real-time offers or batch campaigns?"
 
 **Tim**: "Mobile app or SMS?"
 
-**Tyler**: "Best guest reaction you've gotten so far?"
+**John**: "Best guest reaction you've gotten so far?"
 
 **Tim**: "Most overrated loyalty program feature?"
 
-**Tyler**: "Scan cards or mobile-only?"
+**John**: "Scan cards or mobile-only?"
 
 **Tim**: "Retention or acquisition?"
 
-**Tyler**: "Data privacy – worry or overblown?"
+**John**: "Data privacy – worry or overblown?"
 
 **Tim**: "Next feature you're building?"
 
-**Tyler**: "Advice for operators considering loyalty programs?"
+**John**: "Advice for operators considering loyalty programs?"
 
 ---
 
