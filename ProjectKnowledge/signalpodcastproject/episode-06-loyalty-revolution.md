@@ -78,9 +78,7 @@ Tyler, welcome to Signal."
 
 **Tim**: "Tyler, take me back to when you started at Morey's as an intern. What was your initial impression of how things worked there, and what made you want to stay?"
 
-**John**: "Tim and Tyler, you two still talk almost daily even though Tim's been at RocketRez since last year. What keeps that relationship valuable? What do you each bring to those conversations?"
-
-**John**: "Tyler, you said Morey's has never believed in discounting – it's not in your DNA. But you also needed a way to extend offers and drive behavior. How do you thread that needle without compromising your values?"
+**John**: "Tyler, you said Morey's has never believed in discounting – it's not in your DNA. - What made now the right moment to finally make it happen?”
 
 **Tim**: "Tyler, walk me through the moment when you realized you could create a 'currency' instead of discounts. What was the mental shift there?"
 
@@ -106,7 +104,7 @@ Tyler, welcome to Signal."
 
 **John**: "You mentioned you can track retention rates and know that they jump 13-15% if season pass holders visit two more times than average. How does the loyalty program specifically target that behavior?"
 
-**Tim**: "Tyler, when it comes to implementing such a bri. Without naming names, what were the biggest internal resistance points?"
+**Tim**: "Tyler, you mentioned in the pre-call there were 'a lot of people arguing' during implementation. Without naming names, what were the biggest internal resistance points?"
 
 **John**: "You forced yourselves into a very short timeline – February decision to July launch. Looking back, what would you do differently?"
 
