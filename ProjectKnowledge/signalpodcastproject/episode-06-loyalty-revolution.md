@@ -31,31 +31,30 @@ last_updated: July 7, 2025
 - Started at Morey’s Piers as an intern more than a decade ago
 - Brought into the organization by the Morey family
 - Rose through the ranks to become Director of Digital Transformation
+- Works closely with Tim today as a trusted counterpart and daily sounding board
 - Co-designed Morey's new Fam Club loyalty program with Tim
 - Has maintained close working relationship with Tim post-Morey's
 
-**Fam Club – Loyalty Program Context **:
+**Fam Club – Loyalty Program Context:
 - Launched July 2025 (just launched when pre-call recorded)
-- Points-based currency system (not traditional discount program)
-- Integration across multiple disconnected systems
-- Real-time ride-level messaging and offers
-- 3-person implementation team (Tyler can't code)
-- February decision to July launch timeline (4-5 months)
-- Built to combat Morey's "no discount" DNA while extending strategic offers
-
-**Key Strategic Elements**:
-- Scan at every ride (no gate entry system)
-- Message delivery by time guest exits ride
-- Targeted offers based on immediate behavior
-- Season pass integration and enhancement
-- Retention strategy focused on "one more" behaviors
-- Competitive advantage on mile-long boardwalk
+- Points-based currency system (not traditional discounts)
+- Integrates multiple disconnected systems — built internally with a 3-person team
+- Decision in Feb → Launch in July (4–5 months)
+- Designed to align with Morey’s “no discount” DNA while enabling targeted offers
+- Real-time ride-level scanning and personalized messaging
+- Goal: drive “one more” behaviors (ride, meal, visit) and improve retention
+- Critical in a mile-long boardwalk environment with strong competition
 
 ---
 
 ## Guest Introduction (John)
 
-"Today we're joined by Tyler Jacobs from Morey's Piers, and Tyler here represents something pretty cool in our industry. He's what happens when someone grows up in operations and becomes the person leadership calls when they need to figure out how to actually make things work.
+  
+
+“Today we’re joined by Tyler Jacobs, Director of Digital Transformation at Morey’s Piers.
+
+  
+Tyler first joined Morey’s as an intern over a decade ago, and since then he’s become the person leadership turns to when they need to bridge legacy operations with modern technology.
 
 Tyler and his team just launched Morey's new Fam Club loyalty program this summer – a points-based system that had to integrate multiple disconnected systems, deliver real-time messaging, and somehow do it all with a three-person team where one of them – Tyler – freely admits he can't write a line of code.
 
