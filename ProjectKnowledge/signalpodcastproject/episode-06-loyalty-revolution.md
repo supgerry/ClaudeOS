@@ -59,11 +59,11 @@ last_updated: July 7, 2025
 
 "Today we're joined by Tyler Jacobs from Morey's Piers, and Tyler here represents something pretty cool in our industry. He's what happens when someone grows up in operations and becomes the person leadership calls when they need to figure out how to actually make things work.
 
-Most recently, he led the launch of _Fam Club_ — Morey’s first-ever loyalty and membership program. – a points-based system that had to integrate multiple disconnected systems, deliver real-time messaging, and somehow do it all with a three-person team where one of them – Tyler – freely admits he can't write a line of code.
+Tyler and his team just launched Morey's new Fam Club loyalty program this summer – a points-based system that had to integrate multiple disconnected systems, deliver real-time messaging, and somehow do it all with a three-person team where one of them – Tyler – freely admits he can't write a line of code.
 
-What makes this story fascinating for our audience is that Morey's has a long-standing 'no discount' culture. They've never believed in devaluing their product. But they knew they needed a way to extend strategic offers, drive retention, and get guests to do 'one more thing' – ride one more ride, eat one more meal, visit one more time.
+What makes this story fascinating is that Morey's has a long-standing 'no discount' culture. They've never believed in devaluing their product. But... they knew they needed a way to extend strategic offers, drive retention, and get guests to do 'one more thing' – which is, ride one more ride, eat one more meal, visit one more time.
 
-The result is a loyalty program that sends you a targeted message by the time you get off a ride, offering you something specific at the stand right at the exit. That's the kind of real-time, behavior-driven marketing that most attractions dream about but few actually execute. I'm excited to dive into how Tyler and the Morey's team pulled this off. 
+The result is a loyalty program that sends you a targeted message by the time you get off a ride, offering you something specific at the stand right next at the exit. That's the kind of real-time, behavior-driven marketing that most attractions dream about...  but few actually execute. I'm excited to dive into how Tyler and the Morey's team pulled this off. 
 
 Tyler, welcome to Signal."
 
