@@ -95,7 +95,7 @@ I'm excited to dive into how Tyler and the Morey's team pulled this off, so Tyle
 
 **John**: "Now that it's live, what's the weirdest or most unexpected guest behavior you've discovered through the data?"
 
-**Tim**: "This program integrates season passes, promos, and entitlements. Looking ahead, how do you see Fam Club evolving over the next couple of years?"
+**Tim**: "Looking ahead, how do you see Fam Club evolving over the next couple of years?"
 
 
 ## Lightning Round (Rapid-Fire Questions)
@@ -122,23 +122,18 @@ I'm excited to dive into how Tyler and the Morey's team pulled this off, so Tyle
 
 **Tim**: "Next feature you're building?"
 
-**John**: "Advice for operators considering loyalty programs?"
-
 ---
 
-## Closing Segment
+## Closing Question
 
-**John**: "Tyler, you've proven that a small team can build sophisticated guest engagement systems. For operators listening who think they need massive resources or technical teams, what's your message?"
-
-**Tim**: "And Tyler, looking ahead to next season, what are you most excited to test or improve?"
+**John**: "Tyler, you proved that a small, scrappy team can deliver enterprise-level innovation. For operators listening who think loyalty requires big budgets or giant tech teams, what’s your message?”
 
 **Themes we explored today:**
-
-1. How authentic relationships drive innovation in our industry
-2. Why loyalty programs need to align with company culture, not fight it
-3. The power of real-time behavioral data in driving guest engagement
-4. How small teams can execute big technical projects with the right approach
-5. The evolution from discounting to value creation through strategic offers
+1. Why loyalty is about behavior change, not discounts
+2. How small teams can pull off major digital transformation projects
+3. The operational challenges of integrating legacy systems
+4. Retention as the ultimate KPI   
+5. Competitive lessons from the boardwalk environment
 
 ---
 
