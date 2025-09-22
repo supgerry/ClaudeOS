@@ -87,7 +87,7 @@ Tyler, welcome to Signal."
 
 **Tim**: "Integrating multiple systems that weren't designed to talk to each other is tough. How did you make it work with such a lean team?"
 
-**John**: "From the guest perspective, what's different now about visiting Morey's compared to before Fam Club launched?"
+**John**: "Let's talk about the guest experience. From the guest perspective, what's different now about visiting Morey's compared to before Fam Club launched?"
 
 ---
 
@@ -95,11 +95,11 @@ Tyler, welcome to Signal."
 
 **Tyler**: "You're in a hyper-competitive boardwalk environment. How do you use loyalty to influence guest behavior when there's a cheaper option 50 feet away?"
 
-**Tim**: "You've talked about retention skyrocketing when passholders visit just two more times per year. How do you plan to use Fam Club to nudge that behavior?"
+**Tim**: "You've talked about retention skyrocketing when passholders visit just two more times per year. How do you plan to use Fam Club to specifically target that behavior?"
 
 **John**: "What's been the biggest surprise so far since launch — either from guest feedback or operational reality?"
 
-**Tyler**: "Looking ahead, how do you see Fam Club evolving over the next couple of years?"
+**Tyler**: "This program integrates season passes, promos, and entitlements. Looking ahead, how do you see Fam Club evolving over the next couple of years?"
 
 ---
 
