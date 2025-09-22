@@ -75,14 +75,11 @@ Tyler, welcome to Signal."
 
 **John**: "Tyler, loyalty programs have been talked about at Morey's for decades. What made now the right moment to finally make it happen?"
 
-**Tim**: "Launching Fam Club in just four months with a small team is unusual. What were the biggest challenges in pulling it off so quickly?"
+**Tim**: "Launching Fam Club in just four months with a small team of only three people is unusual. What were the biggest challenges in pulling it off so quickly?"
 
 **John**: "Before we get into the program itself, what problem were you really trying to solve?"
 
-
----
-
-## Part 2: Building the Program (15-20 minutes)
+## Part 2: Building the Program (12-15 minutes)
 
 **Tim**: "You've said the hardest part wasn't the perks, it was the data. What did you run into, and how did you solve it?"
 
@@ -92,20 +89,17 @@ Tyler, welcome to Signal."
 
 **John**: "From the guest perspective, what's different now about visiting Morey's compared to before Fam Club launched?"
 
-
 ---
 
-## Part 3: The Results & Future (15-20 minutes)
+## Part 3: Impact & What's Next (12-15 minutes)
 
-**John**: "You mentioned you can track retention rates and know that they jump 13-15% if season pass holders visit two more times than average. How does the loyalty program specifically target that behavior?"
+**Tyler**: "You're in a hyper-competitive boardwalk environment. How do you use loyalty to influence guest behavior when there's a cheaper option 50 feet away?"
 
-**Tim**: "Tyler, you mentioned in the pre-call there were 'a lot of people arguing' during implementation. Without naming names, what were the biggest internal resistance points?"
+**Tim**: "You've talked about retention skyrocketing when passholders visit just two more times per year. How do you plan to use Fam Club to nudge that behavior?"
 
-**John**: "You forced yourselves into a very short timeline – February decision to July launch. Looking back, what would you do differently?"
+**John**: "What's been the biggest surprise so far since launch — either from guest feedback or operational reality?"
 
-**Tyler**: "You're gathering unprecedented data about guest behavior. What insights have surprised you so far about how people actually move through your attraction?"
-
-**Tim**: "This program integrates season passes, promos, and entitlements. Tyler, do you see this eventually replacing traditional season pass structures, or enhancing them?"
+**Tyler**: "Looking ahead, how do you see Fam Club evolving over the next couple of years?"
 
 ---
 
@@ -117,7 +111,6 @@ Tyler, welcome to Signal."
 
 **Tyler**: "Now that it's live, what's the weirdest or most unexpected guest behavior you've discovered through the data?"
 
----
 
 ## Lightning Round (Rapid-Fire Questions)
 
