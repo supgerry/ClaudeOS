@@ -49,20 +49,15 @@ last_updated: July 7, 2025
 
 ## Guest Introduction (John)
 
-  
-
 “Today we’re joined by Tyler Jacobs, Director of Digital Transformation at Morey’s Piers.
 
-  
 Tyler first joined Morey’s as an intern over a decade ago, and since then he’s become the person leadership turns to when they need to bridge legacy operations with modern technology.
 
-Tyler and his team just launched Morey's new Fam Club loyalty program this summer – a points-based system that had to integrate multiple disconnected systems, deliver real-time messaging, and somehow do it all with a three-person team where one of them – Tyler – freely admits he can't write a line of code.
+Most recently, Tyler and his team launched _Fam Club_ — Morey’s first-ever loyalty program. In just four months, with a team of three, they integrated multiple systems, cleaned years of guest data, and rolled out a points-based program that delivers real-time offers as soon as a guest steps off a ride.
 
-What makes this story fascinating is that Morey's has a long-standing 'no discount' culture. They've never believed in devaluing their product. But... they knew they needed a way to extend strategic offers, drive retention, and get guests to do 'one more thing' – which is, ride one more ride, eat one more meal, visit one more time.
+What makes this story remarkable is that Morey’s has always been known for its “no discount” philosophy. Loyalty at Morey’s isn’t about coupons — it’s about creating value, nudging behavior, and getting guests to do just one more thing.
 
-The result is a loyalty program that sends you a targeted message by the time you get off a ride, offering you something specific at the stand right next at the exit. That's the kind of real-time, behavior-driven marketing that most attractions dream about...  but few actually execute. I'm excited to dive into how Tyler and the Morey's team pulled this off. 
-
-Tyler, welcome to Signal."
+I'm excited to dive into how Tyler and the Morey's team pulled this off, so Tyler, welcome to Signal."
 
 ---
 
@@ -70,7 +65,7 @@ Tyler, welcome to Signal."
 
 **John**: "Let's address the elephant in the room first. Tim and Tyler, you two have known each other for years - Tyler started as an intern under Tim at Morey's, and you still talk almost daily even though it's been a few years since Tim's been away from Morey's. How does that relationship work, and why are we having this conversation together?"
 
-**John**: "Tyler, loyalty programs have been talked about at Morey's for decades. What made now the right moment to finally make it happen?"
+**John**: "Tyler, loyalty programs have been talked about at Morey's for years. What made now the right moment to finally make it happen?"
 
 **Tim**: "Launching Fam Club in just four months with a small team of only three people is unusual. What were the biggest challenges in pulling it off so quickly?"
 
@@ -78,7 +73,7 @@ Tyler, welcome to Signal."
 
 ## Part 2: Building the Program (12-15 minutes)
 
-**Tim**: "You've said the hardest part wasn't the perks, it was the data. What did you run into, and how did you solve it?"
+**Tim**: “You’ve said the hardest part wasn’t the perks, it was the data. What was broken, and how did you fix it enough to make this program possible?”
 
 **John**: "Morey's is famous for holding the line against discounting. How did you design a program that created value without undermining that philosophy?"
 
