@@ -76,7 +76,7 @@ Tyler, welcome to Signal."
 
 **John**: "Let's address the elephant in the room first. Tim and Tyler, you two have known each other for years - Tyler started as an intern under Tim at Morey's, and you still talk almost daily even though Tim's been at RocketRez since last year. How does that relationship work, and why are we having this conversation together?"
 
-**Tim**: "Tyler, we've known each other for years now, back to when you first started at Morey's. Take me back to your initial impression of how things worked there, and what made you want to stay?"
+**Tim**: "Tyler, take me back to when you started at Morey's as an intern. What was your initial impression of how things worked there, and what made you want to stay?"
 
 **John**: "Tim and Tyler, you two still talk almost daily even though Tim's been at RocketRez since last year. What keeps that relationship valuable? What do you each bring to those conversations?"
 
