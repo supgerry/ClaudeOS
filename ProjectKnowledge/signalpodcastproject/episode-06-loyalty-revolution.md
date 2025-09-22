@@ -18,8 +18,6 @@ last_updated: July 7, 2025
 ---
 # **Episode 6: The Loyalty & Membership Revolution – Host Interview Questions**
 
-  
-
 **Guest**: Tyler Jacobs, Director of Digital Transformation, Morey’s Piers
 
 **Recording**: Sept 23, 2025, 11:30–1:00 PM EST
@@ -30,8 +28,6 @@ last_updated: July 7, 2025
 
 ## **Opening Context for Hosts**
 
-  
-
 **Key Background to Reference**:
 
 - Director of Digital Transformation at Morey’s Piers
@@ -39,27 +35,17 @@ last_updated: July 7, 2025
 - Recently launched _Fam Club_ loyalty program in ~4 months with a team of 3
 - Built integrations between multiple legacy systems without external vendor support
 - Program consolidates promotions, season passes, and entitlements into one ecosystem
-    
 - Operating in highly competitive Wildwood boardwalk environment (dense F&B competition)
-    
 - Retention goal: drive incremental visits (+13–15% when passholders visit 2 more times annually)
-    
 - Strategic philosophy: avoid discounts, instead offer value-driven incentives
-    
 
 ---
 
 ## **Part 1: Origins & Relationship History (10–12 minutes)**
 
-  
-
 **John**: “Tyler, you’ve known Tim since your intern days at Morey’s. Take us back — what were those early projects like, and how did that relationship shape the way you collaborate today?”
 
-  
-
 **Tim**: “We’ve been debating ideas almost daily for years. From your perspective, what’s been the most valuable part of having that sounding board inside the company?”
-
-  
 
 **John**: “The idea of a loyalty program at Morey’s has been around for decades, long before the tech was ready. What finally made _this_ the moment to build it?”
 
