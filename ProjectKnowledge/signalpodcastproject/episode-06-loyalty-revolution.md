@@ -71,9 +71,9 @@ Tyler, welcome to Signal."
 
 ## Part 1: The Foundation (15-20 minutes)
 
-**John**: "Let's address the elephant in the room first. Tim and Tyler, you two have known each other for years - Tyler started as an intern under Tim at Morey's, and you still talk almost daily even though Tim's been at RocketRez since last year. How does that relationship work, and why are we having this conversation together?"
+**John**: "Let's address the elephant in the room first. Tim and Tyler, you two have known each other for years - Tyler started as an intern under Tim at Morey's, and you still talk almost daily even though it's been a few years since Tim's been away from Morey's. How does that relationship work, and why are we having this conversation together?"
 
-**Tim**: "Tyler, take me back to when you started at Morey's as an intern. What was your initial impression of how things worked there, and what made you want to stay?"
+**Tim**:  Ask about Tyler's initial impression of how things worked there, and what made you want to stay?"
 
 **John**: "Tyler, you said Morey's has never believed in discounting – it's not in your DNA. - What made now the right moment to finally make it happen?”
 
