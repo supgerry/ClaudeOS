@@ -73,7 +73,7 @@ Tyler, welcome to Signal."
 
 **John**: "Let's address the elephant in the room first. Tim and Tyler, you two have known each other for years - Tyler started as an intern under Tim at Morey's, and you still talk almost daily even though it's been a few years since Tim's been away from Morey's. How does that relationship work, and why are we having this conversation together?"
 
-**Tim**:  Ask about Tyler's initial impression of how things worked there, and what made you want to stay?"
+**Tim**:  Ask about Tyler's initial impression of how things worked at Morey's Piers when he first started there as an intern, and what made him want to stay.
 
 **John**: "Tyler, you said Morey's has never believed in discounting – it's not in your DNA. - What made now the right moment to finally make it happen?”
 
