@@ -28,16 +28,14 @@ last_updated: July 7, 2025
 ## Opening Context for Hosts
 
 **Tyler's Background & Relationship History**:
-
 - Started as intern at Morey's Piers under Tim's mentorship
 - Progressed through organization during years of Tim's leadership
 - Now serves as Tim's operational advisor and daily sounding board
 - Co-designed Morey's new Fam Club loyalty program with Tim
 - Brought to Morey's by one of the Morey brothers (founders)
-- Has maintained close working relationship with Tim post-RocketRez
+- Has maintained close working relationship with Tim post-Morey's
 
 **Fam Club Program Context**:
-
 - Launched July 2025 (just launched when pre-call recorded)
 - Points-based currency system (not traditional discount program)
 - Integration across multiple disconnected systems
@@ -47,7 +45,6 @@ last_updated: July 7, 2025
 - Built to combat Morey's "no discount" DNA while extending strategic offers
 
 **Key Strategic Elements**:
-
 - Scan at every ride (no gate entry system)
 - Message delivery by time guest exits ride
 - Targeted offers based on immediate behavior
@@ -57,7 +54,7 @@ last_updated: July 7, 2025
 
 ---
 
-## Guest Introduction
+## Guest Introduction (John)
 
 "Today we're joined by Tyler Jacobs from Morey's Piers, and Tyler represents something pretty unique in our industry. He's what happens when an intern grows up to become the person leadership calls when they need to figure out how to actually make things work.
 
@@ -71,13 +68,15 @@ What makes this story fascinating for our audience is that Morey's has a long-st
 
 The result is a loyalty program that sends you a targeted message by the time you get off a ride, offering you something specific at the stand right at the exit. That's the kind of real-time, behavior-driven marketing that most attractions dream about but few actually execute.
 
-Tyler, welcome to Signal. Ready to dive into how you pulled this off?"
+Tyler, welcome to Signal."
 
 ---
 
 ## Part 1: The Foundation (15-20 minutes)
 
-**Tim**: "Tyler, we've known each other for years now, back to when you started at Morey's as an intern. Take me back to your initial impression of how things worked there, and what made you want to stay?"
+**John**: "Let's address the elephant in the room first. Tim and Tyler, you two have known each other for years - Tyler started as an intern under Tim at Morey's, and you still talk almost daily even though Tim's been at RocketRez since last year. How does that relationship work, and why are we having this conversation together?"
+
+**Tim**: "Tyler, we've known each other for years now, back to when you first started at Morey's. Take me back to your initial impression of how things worked there, and what made you want to stay?"
 
 **John**: "Tim and Tyler, you two still talk almost daily even though Tim's been at RocketRez since last year. What keeps that relationship valuable? What do you each bring to those conversations?"
 
