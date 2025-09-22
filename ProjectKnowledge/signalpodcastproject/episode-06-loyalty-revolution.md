@@ -75,15 +75,17 @@ Tyler, welcome to Signal."
 
 **Tim**:  Ask about Tyler's initial impression of how things worked at Morey's Piers when he first started there as an intern, and what made him want to stay.
 
-**John**: "Tyler, you said Morey's has never believed in discounting – it's not in your DNA. - What made now the right moment to finally make it happen?”
+**John**: "Tyler, you said Morey's has never believed in discounting – it's not in your DNA. - What made now the right moment to finally make it happen? How did you design a program that created value without undermining that philosophy?”
 
-**Tim**: "Tyler, walk me through the moment when you realized you could create a 'currency' instead of discounts. What was the mental shift there?"
+**Tim**: “Before we get into the program itself, what problem were you really trying to solve?”
 
-**John**: "You're competing on a mile-long boardwalk with countless pizza shops and t-shirt stores, often at lower prices. How does a points-based loyalty program help you win that battle?"
+**John**: “Launching Fam Club in just four months with a small team is unusual. What were the biggest challenges in pulling it off so quickly?”
+
+
 
 ---
 
-## Part 2: The Technical Challenge (15-20 minutes)
+## Part 2: Building the Program (15-20 minutes)
 
 **Tim**: "Tyler, you mentioned you had to force multiple systems to talk to each other that were never designed to integrate. Walk us through what that actually looked like day-to-day."
 
