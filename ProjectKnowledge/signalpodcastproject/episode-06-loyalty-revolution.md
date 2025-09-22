@@ -16,137 +16,203 @@ content_type: podcast-episode
 project_phase: planning
 last_updated: July 7, 2025
 ---
-# **Episode 6: The Loyalty & Membership Revolution – Host Interview Questions**
+# Episode 6: The Loyalty Revolution - Host Interview Questions
 
-**Guest**: Tyler Jacobs, Director of Digital Transformation, Morey’s Piers
-
-**Recording**: Sept 23, 2025, 11:30–1:00 PM EST
-
+**Guest**: Tyler Jacobs, Morey's Piers  
+**Recording**: September 23, 2025, 10:30 AM CT (11:30 AM ET)  
+**Duration**: 90 minutes  
 **Format**: Video + Audio (Riverside)
 
 ---
 
-## **Opening Context for Hosts**
+## Opening Context for Hosts
 
-**Key Background to Reference**:
+**Tyler's Background & Relationship History**:
 
-- Director of Digital Transformation at Morey’s Piers
-- With Morey’s since intern days under Tim — long-standing working relationship
-- Recently launched _Fam Club_ loyalty program in ~4 months with a team of 3
-- Built integrations between multiple legacy systems without external vendor support
-- Program consolidates promotions, season passes, and entitlements into one ecosystem
-- Operating in highly competitive Wildwood boardwalk environment (dense F&B competition)
-- Retention goal: drive incremental visits (+13–15% when passholders visit 2 more times annually)
-- Strategic philosophy: avoid discounts, instead offer value-driven incentives
+- Started as intern at Morey's Piers under Tim's mentorship
+- Progressed through organization during years of Tim's leadership
+- Now serves as Tim's operational advisor and daily sounding board
+- Co-designed Morey's new Fam Club loyalty program with Tim
+- Brought to Morey's by one of the Morey brothers (founders)
+- Has maintained close working relationship with Tim post-RocketRez
 
----
+**Fam Club Program Context**:
 
-## **Part 1: Origins & Relationship History (10–12 minutes)**
+- Launched July 2025 (just launched when pre-call recorded)
+- Points-based currency system (not traditional discount program)
+- Integration across multiple disconnected systems
+- Real-time ride-level messaging and offers
+- 3-person implementation team (Tyler can't code)
+- February decision to July launch timeline (4-5 months)
+- Built to combat Morey's "no discount" DNA while extending strategic offers
 
-**John**: “Tyler, you’ve known Tim since your intern days at Morey’s. Take us back — what were those early projects like, and how did that relationship shape the way you collaborate today?”
+**Key Strategic Elements**:
 
-**Tim**: “We’ve been debating ideas almost daily for years. From your perspective, what’s been the most valuable part of having that sounding board inside the company?”
-
-**John**: “The idea of a loyalty program at Morey’s has been around for decades, long before the tech was ready. What finally made _this_ the moment to build it?”
-
----
-
-## **Part 2: Building Loyalty in a Legacy Environment (12–15 minutes)**
-
-  
-
-**Tim**: “Morey’s is a legacy park with 50+ years of history. How did you balance respect for tradition with pushing through the kind of digital transformation a program like this required?”
-
-  
-
-**John**: “You mentioned the hardest part was the data. What does ‘bad data’ actually look like in practice, and how did you approach cleaning it up enough to make a loyalty program possible?”
-
-  
-
-**Tim** _(Ops focus)_: “Walk us through the mechanics — you had multiple systems that didn’t talk to each other. How did a three-person team force them to integrate?”
-
-  
-
-**John** _(Tech/strategy focus)_: “You’ve said this wasn’t about discounts, but about offers and creating value. Why was that distinction important for Morey’s culture?”
+- Scan at every ride (no gate entry system)
+- Message delivery by time guest exits ride
+- Targeted offers based on immediate behavior
+- Season pass integration and enhancement
+- Retention strategy focused on "one more" behaviors
+- Competitive advantage on mile-long boardwalk
 
 ---
 
-## **Part 3: The Guest Behavior Engine (12–15 minutes)**
+## Guest Introduction
 
-  
+"Today we're joined by Tyler Jacobs from Morey's Piers, and Tyler represents something pretty unique in our industry. He's what happens when an intern grows up to become the person leadership calls when they need to figure out how to actually make things work.
 
-**John**: “You’ve described this almost like creating a new currency — guests scan into a ride and by the time they exit, they’ve got a personalized offer in their pocket. How do you see this changing guest behavior at scale?”
+Tyler started at Morey's as an intern years ago under Tim's mentorship during Tim's time there. What made Tyler special wasn't just that he was eager to learn – it was that he asked the right questions and then actually went and found the answers.
 
-  
+Fast forward to today, and Tyler and Tim still talk almost daily. Not because they have to, but because they've become each other's operational reality check. When Tim's working through a challenge at RocketRez, he calls Tyler. When Morey's is tackling something new, Tyler calls Tim.
 
-**Tim**: “Retention is a big metric for you. If a passholder visits two extra times, retention skyrockets. How are you designing the program to nudge toward those extra visits?”
+And that's exactly what happened with their new Fam Club loyalty program, which just launched this summer. Tyler and Tim essentially co-designed this thing together – a points-based system that had to integrate multiple disconnected systems, deliver real-time messaging, and somehow do it all with a three-person team where one of them – Tyler – freely admits he can't write a line of code.
 
-  
+What makes this story fascinating for our audience is that Morey's has a long-standing 'no discount' culture. They've never believed in devaluing their product. But they knew they needed a way to extend strategic offers, drive retention, and get guests to do 'one more thing' – ride one more ride, eat one more meal, visit one more time.
 
-**John**: “You’re competing with dozens of food stands and shops just steps away. How do you use loyalty to get guests to eat, shop, and spend with Morey’s instead of across the boardwalk?”
+The result is a loyalty program that sends you a targeted message by the time you get off a ride, offering you something specific at the stand right at the exit. That's the kind of real-time, behavior-driven marketing that most attractions dream about but few actually execute.
 
-  
-
-**Tim**: “What’s been the biggest surprise so far — either from guest response or operational complexity — since Fam Club launched?”
+Tyler, welcome to Signal. Ready to dive into how you pulled this off?"
 
 ---
 
-## **Part 4: Lessons Learned & What’s Next (12–15 minutes)**
+## Part 1: The Foundation (15-20 minutes)
 
-  
+**Tim**: "Tyler, we've known each other for years now, back to when you started at Morey's as an intern. Take me back to your initial impression of how things worked there, and what made you want to stay?"
 
-**John**: “You built and launched this in four months with limited resources. For other operators listening, what’s the key lesson about doing big things fast without a massive budget?”
+**John**: "Tim and Tyler, you two still talk almost daily even though Tim's been at RocketRez since last year. What keeps that relationship valuable? What do you each bring to those conversations?"
 
-  
+**John**: "Tyler, you said Morey's has never believed in discounting – it's not in your DNA. But you also needed a way to extend offers and drive behavior. How do you thread that needle without compromising your values?"
 
-**Tim**: “Rolling out anything new has its bumps. What were the good, bad, and ugly moments you learned from this first season?”
+**Tim**: "Tyler, walk me through the moment when you realized you could create a 'currency' instead of discounts. What was the mental shift there?"
 
-  
-
-**John**: “How do you see loyalty evolving at Morey’s in the next couple of years? What’s the next frontier once the foundation is in place?”
-
-  
-
-**Tim**: “If you could go back and give yourself one piece of advice before starting the project, what would it be?”
+**John**: "You're competing on a mile-long boardwalk with countless pizza shops and t-shirt stores, often at lower prices. How does a points-based loyalty program help you win that battle?"
 
 ---
 
-## **Behind the Scenes Segment (5–7 minutes)**
+## Part 2: The Technical Challenge (15-20 minutes)
 
-  
+**Tim**: "Tyler, you mentioned you had to force multiple systems to talk to each other that were never designed to integrate. Walk us through what that actually looked like day-to-day."
 
-**Tim**: “Tell us about the small team that pulled this off. What made it possible for three people to do what many would assume takes dozens?”
+**John**: "You accomplished this with a three-person team in four months, and Tyler, you freely admit you can't code. How do you manage a technical project when you're not technical yourself?"
 
-  
+**Tim**: "Tyler, you mentioned working with third-party vendors who 'didn't want to do it either.' How do you get external partners to buy into your timeline when they have their own priorities?"
 
-**John**: “Vendors and third parties were part of the process. Without naming names, what did you learn about managing external partners when you’re moving this fast?”
+**John**: "Let's talk about the guest experience. Tyler, explain how a guest goes from getting on a ride to receiving a targeted offer by the time they get off."
 
----
-
-## **Lightning Round (Rapid Fire)**
-
-- **John**: “Points-based or perks-based — which works better for attractions?”
-    
-- **Tim**: “Discount or added value — what do guests respond to more?”
-    
-- **John**: “Most underrated data point you now track?”
-    
-- **Tim**: “One loyalty program outside attractions you admire?”
-    
-- **John**: “If you had to scrap _Fam Club_ tomorrow, what’s the one part you’d fight to keep?”
-    
+**Tim**: "You scan at every ride instead of having a main gate entry. That's a big operational decision. What drove that choice, and how does it change the guest flow?"
 
 ---
 
-## **Closing Themes**
+## Part 3: The Results & Future (15-20 minutes)
 
-1. Why loyalty is more than discounts — it’s behavior design
-    
-2. How small teams can pull off major digital transformation projects
-    
-3. The operational impact of integrating multiple legacy systems
-    
-4. Retention as the ultimate loyalty KPI
-    
-5. Lessons learned from rapid execution in a competitive environment
-    
+**John**: "You mentioned you can track retention rates and know that they jump 13-15% if season pass holders visit two more times than average. How does the loyalty program specifically target that behavior?"
+
+**Tim**: "Tyler, you mentioned in the pre-call there were 'a lot of people arguing' during implementation. Without naming names, what were the biggest internal resistance points?"
+
+**John**: "You forced yourselves into a very short timeline – February decision to July launch. Looking back, what would you do differently?"
+
+**Tyler**: "You're gathering unprecedented data about guest behavior. What insights have surprised you so far about how people actually move through your attraction?"
+
+**Tim**: "This program integrates season passes, promos, and entitlements. Tyler, do you see this eventually replacing traditional season pass structures, or enhancing them?"
+
+---
+
+## Behind the Scenes Segment (5-7 minutes)
+
+**Tim**: "Tyler, tell us about a moment during implementation when everything was going wrong. What was your lowest point, and how did you push through?"
+
+**John**: "And Tim, there had to be moments where you questioned whether Tyler could actually pull this off. What kept you confident in the project?"
+
+**Tyler**: "Now that it's live, what's the weirdest or most unexpected guest behavior you've discovered through the data?"
+
+---
+
+## Lightning Round (Rapid-Fire Questions)
+
+**Tim**: "Points or discounts?"
+
+**Tyler**: "Season passes – asset or headache?"
+
+**Tim**: "Biggest loyalty program mistake you see others make?"
+
+**Tyler**: "Real-time offers or batch campaigns?"
+
+**Tim**: "Mobile app or SMS?"
+
+**Tyler**: "Best guest reaction you've gotten so far?"
+
+**Tim**: "Most overrated loyalty program feature?"
+
+**Tyler**: "Scan cards or mobile-only?"
+
+**Tim**: "Retention or acquisition?"
+
+**Tyler**: "Data privacy – worry or overblown?"
+
+**Tim**: "Next feature you're building?"
+
+**Tyler**: "Advice for operators considering loyalty programs?"
+
+---
+
+## Closing Segment
+
+**John**: "Tyler, you've proven that a small team can build sophisticated guest engagement systems. For operators listening who think they need massive resources or technical teams, what's your message?"
+
+**Tim**: "And Tyler, looking ahead to next season, what are you most excited to test or improve?"
+
+**Tyler**: "Tim, from your perspective watching this project from both the vendor and mentor side, what's the biggest lesson for the industry?"
+
+**John**: "Finally, Tyler, if operators could implement just one element of what you've built, what would have the biggest impact on their business?"
+
+**Themes we explored today:**
+
+1. How authentic relationships drive innovation in our industry
+2. Why loyalty programs need to align with company culture, not fight it
+3. The power of real-time behavioral data in driving guest engagement
+4. How small teams can execute big technical projects with the right approach
+5. The evolution from discounting to value creation through strategic offers
+
+---
+
+## Key Context Points to Weave In
+
+- **Relationship History**: Tim's mentorship of Tyler from intern to advisor
+- **Cultural Challenge**: Morey's anti-discount DNA versus need for strategic offers
+- **Technical Achievement**: System integration with minimal resources
+- **Competitive Environment**: Mile-long boardwalk with numerous alternatives
+- **Timing**: February to July implementation timeline
+- **Innovation**: Real-time ride-level messaging and targeting
+- **Results**: Early data on retention and guest behavior patterns
+
+---
+
+## Host-Specific Angles
+
+### For Tim (Mentor/Operations Focus)
+
+- Relationship development and mentorship insights
+- Operational implementation challenges and solutions
+- Day-to-day system management and guest experience
+- Industry best practices and lessons learned
+
+### For John (Business Strategy Focus)
+
+- Strategic competitive advantage through loyalty programs
+- Technology investment and resource allocation decisions
+- Data-driven customer behavior insights
+- Scalability and business model implications
+
+---
+
+## Research Notes
+
+**Core Innovation**: Real-time behavioral targeting at ride level with immediate offer delivery
+
+**Cultural Alignment**: Points-based "currency" system respects no-discount culture while enabling strategic offers
+
+**Implementation Success**: 3-person team, 4-month timeline, multiple system integration
+
+**Relationship Dynamics**: Tim-Tyler mentor/advisee relationship continues as peer consultation model
+
+**Strategic Focus**: "One more" behavior modification (ride, meal, visit) through targeted incentives
