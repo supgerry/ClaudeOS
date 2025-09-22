@@ -71,21 +71,21 @@ I'm excited to dive into how Tyler and the Morey's team pulled this off, so Tyle
 
 **John**: "Before we get into the program itself, what problem were you really trying to solve?"
 
-## Part 2: Building the Program (12-15 minutes)
+## Part 2: Building the Fam Club (12-15 minutes)
 
 **Tim**: “You’ve said the hardest part wasn’t the perks, it was the data. What was broken, and how did you fix it enough to make this program possible?”
 
-**John**: "Morey's is famous for holding the line against discounting. How did you design a program that created value without undermining that philosophy?"
+**John**: “Morey’s has a strong no-discount culture. How did you design a program that respected that history while still giving guests compelling reasons to engage?”
 
-**Tim**: "Integrating multiple systems that weren't designed to talk to each other is tough. How did you make it work with such a lean team?"
+**Tim**: “Integrating multiple systems that weren’t built to talk to each other sounds like a nightmare. How did your team make it work?”
 
-**John**: "Let's talk about the guest experience. From the guest perspective, what's different now about visiting Morey's compared to before Fam Club launched?"
+**John**: "Let's talk about the guest experience. From the guest’s point of view, what feels different now about visiting Morey’s compared to before Fam Club launched?”
 
 ---
 
 ## Part 3: Impact & What's Next (12-15 minutes)
 
-**John**: "You're in a hyper-competitive boardwalk environment. How do you use loyalty to influence guest behavior when there's a cheaper option 50 feet away?"
+**John**: "You're in a hyper-competitive boardwalk environment - dozens of food stands and shops on the boardwalk. How do you use loyalty to keep spending inside the park when there's a cheaper option 50 feet away?"
 
 **Tim**: "You've talked about retention skyrocketing when passholders visit just two more times per year. How do you plan to use Fam Club to specifically target that behavior?"
 
