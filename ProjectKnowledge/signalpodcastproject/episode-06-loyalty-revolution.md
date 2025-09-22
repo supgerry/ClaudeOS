@@ -107,8 +107,6 @@ Tyler, welcome to Signal."
 
 **Tim**: "Tyler, tell us about a moment during implementation when everything was going wrong. What was your lowest point, and how did you push through?"
 
-**John**: "And Tim, there had to be moments where you questioned whether Tyler could actually pull this off. What kept you confident in the project?"
-
 **Tyler**: "Now that it's live, what's the weirdest or most unexpected guest behavior you've discovered through the data?"
 
 
