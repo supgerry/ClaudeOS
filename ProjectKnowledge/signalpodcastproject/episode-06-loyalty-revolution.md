@@ -73,29 +73,25 @@ Tyler, welcome to Signal."
 
 **John**: "Let's address the elephant in the room first. Tim and Tyler, you two have known each other for years - Tyler started as an intern under Tim at Morey's, and you still talk almost daily even though it's been a few years since Tim's been away from Morey's. How does that relationship work, and why are we having this conversation together?"
 
-**Tim**:  Ask about Tyler's initial impression of how things worked at Morey's Piers when he first started there as an intern, and what made him want to stay.
+**John**: "Tyler, loyalty programs have been talked about at Morey's for decades. What made now the right moment to finally make it happen?"
 
-**John**: "Tyler, you said Morey's has never believed in discounting – it's not in your DNA. - What made now the right moment to finally make it happen? How did you design a program that created value without undermining that philosophy?”
+**Tim**: "Launching Fam Club in just four months with a small team is unusual. What were the biggest challenges in pulling it off so quickly?"
 
-**Tim**: “Before we get into the program itself, what problem were you really trying to solve?”
-
-**John**: “Launching Fam Club in just four months with a small team is unusual. What were the biggest challenges in pulling it off so quickly?”
-
+**John**: "Before we get into the program itself, what problem were you really trying to solve?"
 
 
 ---
 
 ## Part 2: Building the Program (15-20 minutes)
 
-**Tim**: "Tyler, you mentioned you had to force multiple systems to talk to each other that were never designed to integrate. Walk us through what that actually looked like day-to-day."
+**Tim**: "You've said the hardest part wasn't the perks, it was the data. What did you run into, and how did you solve it?"
 
-**John**: "You accomplished this with a three-person team in four months, and Tyler, you freely admit you can't code. How do you manage a technical project when you're not technical yourself?"
+**John**: "Morey's is famous for holding the line against discounting. How did you design a program that created value without undermining that philosophy?"
 
-**Tim**: "Tyler, you mentioned working with third-party vendors who 'didn't want to do it either.' How do you get external partners to buy into your timeline when they have their own priorities?"
+**Tim**: "Integrating multiple systems that weren't designed to talk to each other is tough. How did you make it work with such a lean team?"
 
-**John**: "Let's talk about the guest experience. Tyler, explain how a guest goes from getting on a ride to receiving a targeted offer by the time they get off."
+**John**: "From the guest perspective, what's different now about visiting Morey's compared to before Fam Club launched?"
 
-**Tim**: "You scan at every ride instead of having a main gate entry. That's a big operational decision. What drove that choice, and how does it change the guest flow?"
 
 ---
 
