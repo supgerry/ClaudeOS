@@ -155,10 +155,6 @@ Tyler, welcome to Signal."
 
 **Tim**: "And Tyler, looking ahead to next season, what are you most excited to test or improve?"
 
-**Tyler**: "Tim, from your perspective watching this project from both the vendor and mentor side, what's the biggest lesson for the industry?"
-
-**John**: "Finally, Tyler, if operators could implement just one element of what you've built, what would have the biggest impact on their business?"
-
 **Themes we explored today:**
 
 1. How authentic relationships drive innovation in our industry
