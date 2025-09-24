@@ -36,16 +36,16 @@ Expect stories from operators, insights from thought leaders, and honest discuss
 ## Show Links to Podcast Platforms
 
 **Apple Podcasts**:
-[https://apple.co/47GUOdX](https://apple.co/47GUOdX)
+https://apple.co/47GUOdX
 
 **Spotify Podcasts**:
-[https://open.spotify.com/show/32DupLEtazJvuVLLH4ZGlz?si=7fa839521cd64e9c](https://open.spotify.com/show/32DupLEtazJvuVLLH4ZGlz?si=7fa839521cd64e9c)
+https://open.spotify.com/show/32DupLEtazJvuVLLH4ZGlz?si=7fa839521cd64e9c
 
 **Amazon Music**:
-[https://music.amazon.com/podcasts/b9c3a5f6-3d15-4117-8699-7849c67bad09/signal](https://music.amazon.com/podcasts/b9c3a5f6-3d15-4117-8699-7849c67bad09/signal)
+https://music.amazon.com/podcasts/b9c3a5f6-3d15-4117-8699-7849c67bad09/signal
 
-Youtube: 
-
+**Youtube Podcasts:** 
+https://www.youtube.com/playlist?list=PLvJOlCT2WaKYFltGfVXki-tXag-KqGYVQ
 
 ---
 
