@@ -17,6 +17,8 @@ This aims to:
 - [www.rocketrez.com/signal](http://www.rocketrez.com/signal)
 - [signal-podcast.com](http://signal-podcast.com)
 
+---
+
 ## Short Description
 
 **Signal** is a podcast for attractions industry leaders navigating the future of guest experiences. Hosts John Pendergrast and Tim Samson share candid conversations with operators and experts on technology, consumer behavior, and the evolving experience economy.
@@ -31,20 +33,33 @@ Expect stories from operators, insights from thought leaders, and honest discuss
 
 👉 New episodes drop regularly. Subscribe and join the conversation on the future of attractions.
 
-<aside>
-
 ## Show Links to Podcast Platforms
 
 **Apple Podcasts**:
-
 [https://apple.co/47GUOdX](https://apple.co/47GUOdX)
 
 **Spotify Podcasts**:
-
 [https://open.spotify.com/show/32DupLEtazJvuVLLH4ZGlz?si=7fa839521cd64e9c](https://open.spotify.com/show/32DupLEtazJvuVLLH4ZGlz?si=7fa839521cd64e9c)
 
 **Amazon Music**:
-
 [https://music.amazon.com/podcasts/b9c3a5f6-3d15-4117-8699-7849c67bad09/signal](https://music.amazon.com/podcasts/b9c3a5f6-3d15-4117-8699-7849c67bad09/signal)
 
-- **Amazon Dashboard**: [https://podcasters.amazon.com/podcasts](https://podcasters.amazon.com/podcasts) </aside>
+
+---
+
+# About the Podcast & Meet The Hosts Section
+
+**Signal** cuts through the noise, delivering candid conversations on what truly works (and what doesn’t) in today's attraction industry.
+
+## Meet Your Hosts
+
+### John Pendergrast
+
+As the Founder and CEO of RocketRez, John has spent over 15 years working shoulder-to-shoulder with tour and attraction operators of all sizes. He’s seen the industry’s evolution from gut-feel decisions to data-driven strategy firsthand. John translates his experience navigating major operational shifts and the relentless push for personalized guest experiences into practical wisdom grounded in the real-world challenges of running an attraction.
+
+
+### Tim Samson
+
+With 27 years in the industry, Tim brings an operator’s perspective honed by moving from front-line roles at Morey’s Piers to strategic leadership at RocketRez, Catalate, and Spotlio. Mentored by industry legend Jack Morey, Tim developed a relentless focus on guest experience and operational excellence. He has spearheaded digital transformations, sharpened pricing strategies, and built marketing automations that drove significant repeat visitation, offering insights that blend on-the-ground realism with strategic foresight.
+
+Together, John and Tim combine founder-level vision with hands-on operational expertise. Their balanced dialogue, along with insights from expert guests, equips attractions leaders to navigate the future with confidence.
