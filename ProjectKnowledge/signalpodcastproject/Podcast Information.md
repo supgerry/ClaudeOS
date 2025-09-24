@@ -44,6 +44,8 @@ Expect stories from operators, insights from thought leaders, and honest discuss
 **Amazon Music**:
 [https://music.amazon.com/podcasts/b9c3a5f6-3d15-4117-8699-7849c67bad09/signal](https://music.amazon.com/podcasts/b9c3a5f6-3d15-4117-8699-7849c67bad09/signal)
 
+Youtube: 
+
 
 ---
 
@@ -57,9 +59,12 @@ Expect stories from operators, insights from thought leaders, and honest discuss
 
 As the Founder and CEO of RocketRez, John has spent over 15 years working shoulder-to-shoulder with tour and attraction operators of all sizes. He’s seen the industry’s evolution from gut-feel decisions to data-driven strategy firsthand. John translates his experience navigating major operational shifts and the relentless push for personalized guest experiences into practical wisdom grounded in the real-world challenges of running an attraction.
 
+**LinkedIn**: https://www.linkedin.com/in/john-pendergrast-082820
 
 ### Tim Samson
 
 With 27 years in the industry, Tim brings an operator’s perspective honed by moving from front-line roles at Morey’s Piers to strategic leadership at RocketRez, Catalate, and Spotlio. Mentored by industry legend Jack Morey, Tim developed a relentless focus on guest experience and operational excellence. He has spearheaded digital transformations, sharpened pricing strategies, and built marketing automations that drove significant repeat visitation, offering insights that blend on-the-ground realism with strategic foresight.
+
+**LinkedIn**: https://www.linkedin.com/in/timothysamson
 
 Together, John and Tim combine founder-level vision with hands-on operational expertise. Their balanced dialogue, along with insights from expert guests, equips attractions leaders to navigate the future with confidence.
