@@ -2,49 +2,69 @@
 
 ## **Long-form (for blog/website, LinkedIn, newsletter)**
 
-### #1: The Experience Economy, Tech’s Role, and the Biggest Blind Spot in Attractions
+# **Episode 2: Building Joy at Scale with Sara Schiller, Co-CEO of Sloomoo Institute**
 
-In this debut episode of **Signal**, hosts [John Pendergrast](https://www.linkedin.com/in/john-pendergrast-082820/) and [Tim Samson](https://www.linkedin.com/in/timothysamson/) set the stage for what this podcast is all about: candid, forward-looking conversations for leaders in the attractions industry.
+In this episode, John and Tim sit down with [**Sara Schiller**](https://www.linkedin.com/in/sara-schiller-1b55022/), co-founder and co-CEO of [**Sloomoo Institute**](https://sloomooinstitute.com/) — America’s beloved slime museum and sensory experience. What started as a spark of joy between friends has grown into a national phenomenon: five flagship locations, 2 million guests, and over $40M in revenue.
 
-John and Tim share their unconventional journeys—from roller coasters at Cedar Point to early software builds for reservation systems—and why operators today need more spaces to talk openly about the challenges shaping guest experiences.
+Sara shares her remarkable journey of transforming adversity into creativity and explains why immersive experiences are reshaping both attractions and retail. From redefining “play” for adults to pioneering an inclusion-first workforce, Sara and her team are proving that joy is not just a feeling — it’s a business model.
 
-This conversation covers four key industry trends and digs into why technology must serve guests first, why standardization matters, and where operators are most at risk of falling behind.
+**You’ll hear about:**
 
-**What you’ll learn in this episode:**
+- The origin story of Sloomoo and how slime became a medium for healing and connection
+- Why immersive experiences are the future of retail and family entertainment
+- The role of trust and partnership in doing something that’s never been done before
+- Lessons from navigating a pandemic launch and pivoting to virtual experiences
+- How Sloomoo integrates accessibility, neurodiversity, and inclusion into its DNA
+- Expanding the Sloomoo-verse through licensing, IP, and media
 
-- Why the _experience economy_ isn’t just maturing—it’s evolving
-- Where tech adds value vs. where it breaks immersion
-- How high demand is colliding with operational headwinds (and what VIP pricing means for access)
-- How economic uncertainty is reshaping consumer behavior and shortening stay patterns
-- The industry’s biggest blind spot: misalignment between guest-first business models and order-first technology
+**Timestamps:**
 
-**Timestamps**
+(00:00) – Sara’s darkness-to-light story: adversity, hope, and discovering slime
 
-(00:00) Intro: Why start this podcast?
+(07:09) – Finding optimism as an entrepreneur and the first 3,000 guests at Sloomoo
 
-(01:35) Tim’s journey from roller coaster ops to tech
+(11:12) – Falling in love with slime and the origin of the name “Sloomoo”
 
-(05:32) John’s path from wannabe pop star to software entrepreneur
+(14:36) – Designing immersive spaces that feel elevated for adults *and* kids
 
-(10:05) The experience economy: maturing or evolving?
+(18:10) – New exhibits, disco slime, and translating digital trends into analog play
 
-(15:35) Why technology is foundational—but not the magic
+(26:16) – Pivoting through the pandemic with virtual camps and corporate activations
 
-(21:22) Balancing guest nostalgia with digital tools
+(32:01) – Scaling the “Sloomoo-verse” through licensing, media, and IP
 
-(23:05) High demand meets operational headwinds
+(36:16) – Building a profitable business while driving social good and inclusion
 
-(32:21) Economic uncertainty and the “one-and-done” guest
+(46:04) – Marketing Sloomoo to adults while delivering joy for kids
 
-(36:43) The industry’s biggest blind spot in technology
+(53:13) – Why immersive experiences are the future of retail
 
-(52:17) What Signal is really about
+(59:39) – Lightning round: advice for attraction operators and the future of play
 
-(58:16) Closing thoughts: lifting all boats in the attractions industry
+------
 
-👉 Follow [John](https://www.linkedin.com/in/john-pendergrast-082820/) and [Tim](https://www.linkedin.com/in/timothysamson/) on LinkedIn for more insights.
+### **About Sara Schiller**
 
+Sara Schiller is the co-founder and co-CEO of Sloomoo Institute. Since opening in 2019 with her best friend Karen Robinovitz, Sloomoo has grown into a multi-location immersive brand, welcoming millions of guests and earning accolades including EY’s **Entrepreneur of the Year** and a spot on the **Inc. Female Founder 250**. Sara leads Sloomoo’s inclusion initiatives, including a 10% neurodiverse workforce commitment. Previously, she reinvented corporate meetings through her company *Meet* and co-founded the *Wooster Collective*, a pioneering street art platform. Sara holds an MBA from NYU Stern and is a proud mom of two daughters — Sloomoo’s own “Chief Creative Kids.”
 
+------
+
+🔗 **Links & Resources**
+
+- Visit [Sloomoo Institute](https://sloomooinstitute.com/)
+- Follow [Sara on LinkedIn](https://www.linkedin.com/in/sara-beard-schiller-6a61641/)
+- Learn more about [RocketRez](https://www.rocketrez.com/)
+- Follow [John](https://www.linkedin.com/in/john-pendergrast-082820/) and [Tim](https://www.linkedin.com/in/timothysamson/) on LinkedIn
+
+------
+
+**About Signal**
+
+Signal is the podcast for attraction leaders shaping the future of guest experiences. Hosted by John Pendergrast and Tim Samson, we bring you candid conversations with industry innovators who are building the experiences that bring people together.
+
+Subscribe to Signal wherever you get your podcasts, and visit [signal-podcast.com](http://signal-podcast.com/) for more episodes and resources.
+
+*This episode of Signal is brought to you by RocketRez - powering the world's most successful attraction operations.*
 
 ## **Short-form (for Spotify/Apple Podcasts descriptions)**
 
@@ -54,64 +74,49 @@ In the first episode of **Signal**, hosts John Pendergrast and Tim Samson share 
 
 # Email Copy
 
-## Launch
+**Hubspot URL**: https://app.hubspot.com/email/2450177/edit/196640344962/content
 
-Hubspot URL: [https://app.hubspot.com/email/2450177/edit/196070697379/content](https://app.hubspot.com/email/2450177/edit/196070697379/content)
+## **Subject:** How slime became a $40M attraction — Signal Ep. 2
 
-**Subject: Introducing Signal, a podcast for the industry by RocketRez**
+**Preview text:** Sara Schiller shares how Sloomoo grew from play to 2M+ visitors.
 
-The attractions industry is evolving faster than ever. But where do operators go to really talk about it?
+The attractions industry thrives on bold ideas. But what does it take to turn something as unexpected as *slime* into a $40M business and one of the most buzzed-about sensory experiences in America?
 
-That's why we created **Signal** — a new podcast hosted by John Pendergrast and Tim Samson, exploring the big questions shaping the future of guest experiences.
+In **Episode 2 of Signal**, John Pendergrast and Tim Samson sit down with **Sara Schiller**, co-founder and co-CEO of [**Sloomoo Institute**](https://sloomooinstitute.com/), to explore how she and her team built a multi-location attraction from scratch — one rooted in joy, creativity, and inclusion.
 
-![Signal_Ep01_Email_Thumbnail-YT.jpeg](attachment:b93a77f4-d745-47b1-a548-a82e6cbf5f03:Signal_Ep01_Email_Thumbnail-YT.jpeg)
+![Signal_Ep02_Youtube_Thumbnail.png](attachment:21a83511-7e40-4b2b-8bfd-defe5e74900f:Signal_Ep02_Youtube_Thumbnail.png)
 
-In this [debut episode](https://www.rocketrez.com/signal/episode-1-attractions-trends-experience-economy), John and Tim share their unconventional journeys into the industry and break down four critical trends every operator should be watching:
+You’ll hear:
 
-- **The evolving experience economy** — why guests expect more than ever
-- **Technology as foundation** — where tech adds value vs. where it breaks immersion
-- **High demand meets operational headwinds** — and what VIP pricing means for access
-- **The industry's biggest blind spot** — misalignment between guest-first business models and order-first technology
+- **The origin story of Sloomoo** — how slime became a medium for healing and connection
+- **Designing for all ages** — why creating spaces adults *want* to be in unlocks new audiences
+- **Lessons from adversity** — launching just before COVID and pivoting to virtual experiences
+- **The future of immersive retail** — why Sara believes analog play beats digital screens
+- **Social impact at scale** — building a profitable business while employing a 10% neurodiverse workforce
 
-This isn't just another industry podcast. John and Tim bring decades of experience from both sides — operations and technology — with candid insights you won't hear anywhere else.
+This episode isn’t just about slime. It’s about **turning play into purpose** — and what every operator can learn about building experiences that stick.
 
-**Why listen?**
+🎧 Listen now on [Apple Podcasts](https://apple.co/42udwlv), Spotify, or Amazon Music.
 
-Because the industry needs more spaces for honest conversations about what's really happening. We’re also bringing the best of the industry into the conversation to share their perspectives and insights. This is the conversation we believe the industry has been missing.
-
-**Coming up this season:**
-
-- **Sara Schiller** (Sloomoo Institute Co-Founder) on building a $30M concept from a social media trend
-- **Alex Ojeda** on how authentic storytelling translates billions of views into real ticket sales
-- **Evan Reece** (Liftopia Co-Founder) on pricing innovation that maximizes revenue without alienating guests
-- **Tyler Jacobs** (Morey's Piers) on launching loyalty programs that increased guest spend by 23%
-- **Shaun McKeogh** (global attractions consultant) on building operational leadership in high-turnover environments
-
-**Follow along** as we share stories, perspectives, and ideas to help lift all boats in the attractions industry.
-
-Now available on all major podcast platforms. Listen on [Apple Podcasts](https://apple.co/42udwlv), [Spotify](https://open.spotify.com/episode/5jtI7uqvtjIKwYdqoISozC?si=6TTYrlzeTceLXQ2rbi2gFQ), or [Amazon Music](https://music.amazon.com/podcasts/b9c3a5f6-3d15-4117-8699-7849c67bad09/episodes/9f994a61-1a87-4c24-b522-c4bc8a74de8a/signal-the-experience-economy-tech%E2%80%99s-role-and-the-biggest-blind-spot-in-attractions).
-
-Button: [Listen to Episode 1 →](http://www.rocketrez.com/signal/episode-1-attractions-trends-experience-economy)
+**Button:** Listen to Episode 2 →
 
 
 # Socials - RocketRez
 
 ## LinkedIn
 
-![2025_podcast_introduction Social Graphic.jpg](attachment:003df645-6f97-4a2a-89d7-a9a61863e366:2025_podcast_introduction_Social_Graphic.jpg)
+Slime as a $40M attraction?
 
-The attractions industry is evolving faster than ever. Operators need a place to talk about it.
+It sounds unlikely — until you hear how **Sara Schiller**, co-founder and co-CEO of **Sloomoo Institute**, built one of the most talked-about sensory experiences in America.
 
-That’s why we created **Signal** — a new podcast hosted by John Pendergrast and Tim Samson, exploring the big questions shaping the future of guest experiences.
+🎙 Episode 2 of **Signal** is live → [www.rocketrez.com/signal/episode-2-sloomoo-sara-schiller](http://www.rocketrez.com/signal/episode-2-sloomoo-sara-schiller)
 
-🎙 Episode 1 is live → [www.rocketrez.com/signal/episode-1-attractions-trends-experience-economy](http://www.rocketrez.com/signal/episode-1-attractions-trends-experience-economy)
+In this episode, John Pendergrast and Tim Samson, ICAE, sit down with Sara to explore:
 
-In this first episode, John and Tim share their journeys into the industry and break down four trends every operator should be watching:
+- The origin story of Sloomoo and why it resonates across all ages
+- How immersive design transforms retail and family entertainment
+- Lessons from scaling joy through adversity (including launching just before COVID)
+- Why inclusion and accessibility are at the heart of Sloomoo’s growth
 
-- The maturing (or evolving) experience economy
-- Why technology must serve guests first
-- Rising demand vs. operational headwinds
-- The industry’s biggest blind spot
-
-This is the conversation we believe the industry has been missing — and it’s just the beginning. Follow along as we share stories, perspectives, and ideas to help the industry move forward.
+This conversation shows what happens when play meets purpose — and what every operator can learn about building experiences people can’t stop talking about.
 
