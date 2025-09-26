@@ -1,5 +1,11 @@
 # Episode Description
 
+What does it take to turn slime into a national attraction with millions of visitors? Sara Schiller, co-CEO of Sloomoo Institute, joins John and Tim to share the origin story, the strategy behind scaling joy, and the lessons operators can learn about creating experiences people can’t stop talking about.
+
+**URL Slug:**
+
+[www.rocketrez.com/signal/episode-2-sloomoo-sara-schiller](http://www.rocketrez.com/signal/episode-2-sloomoo-sara-schiller)
+
 ## **Long-form (for blog/website, LinkedIn, newsletter)**
 
 # **Episode 2: Building Joy at Scale with Sara Schiller, Co-CEO of Sloomoo Institute**
@@ -96,7 +102,14 @@ You’ll hear:
 
 This episode isn’t just about slime. It’s about **turning play into purpose** — and what every operator can learn about building experiences that stick.
 
-🎧 Listen now on [Apple Podcasts](https://apple.co/42udwlv), Spotify, or Amazon Music.
+🔗 **Links & Resources**
+
+- Visit [**Sloomoo Institute**](https://sloomooinstitute.com/)
+- Follow [**Sara on LinkedIn**](https://www.linkedin.com/in/sara-beard-schiller-6a61641/)
+- Learn more about [**RocketRez**](https://www.rocketrez.com/)
+- Follow [**John**](https://www.linkedin.com/in/john-pendergrast-082820/) and [**Tim**](https://www.linkedin.com/in/timothysamson/) on LinkedIn
+
+Listen now on [**Apple Podcasts**](https://apple.co/47GUOdX), [**Spotify**](https://open.spotify.com/show/32DupLEtazJvuVLLH4ZGlz?si=7fa839521cd64e9c), or [**Amazon Music**](https://music.amazon.com/podcasts/b9c3a5f6-3d15-4117-8699-7849c67bad09/signal).
 
 **Button:** Listen to Episode 2 →
 
