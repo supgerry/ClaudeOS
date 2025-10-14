@@ -4298,11 +4298,9 @@ Alex Ojeda:
 01:04:03-01:04:11
 And I personally love to see because it's like that satisfaction of two awesome brands coming together and building something
 
-Alex Ojeda: 
 01:04:10-01:04:13
 Or creating something magical, like that's the best reactions for sure.
 
-Alex Ojeda: 
 01:04:13-01:04:14
 All right, the last question.
 
@@ -4310,7 +4308,6 @@ John Pendergrast:
 01:04:15-01:04:16
 Content creation in five years.
 
-John Pendergrast: 
 01:04:16-01:04:17
 What changes?
 
@@ -4318,35 +4315,27 @@ Alex Ojeda:
 01:04:17-01:04:19
 Oh, content creation in five years.
 
-Alex Ojeda: 
 01:04:19-01:04:20
 What changes?
 
-Alex Ojeda: 
 01:04:22-01:04:31
 Honestly, I think what changes is content is just going to continue to get better and better because there's going to be so much content and so many people are starting to create more and more every day.
 
-Alex Ojeda: 
 01:04:32-01:04:35
 And there's more and more platforms and it's more and more easier to create.
 
-Alex Ojeda: 
 01:04:35-01:04:39
 that when you have so much content coming out, the only content that's going to succeed is the good stuff.
 
-Alex Ojeda: 
 01:04:39-01:04:45
 So I think what's going to happen is it's like that phrase they say, like the great thing about America is competition.
 
-Alex Ojeda: 
 01:04:44-01:04:53
 It's going to apply to content creation where content's just going to get better and better and better over the next five years to the point where to succeed, you really have to be good at it.
 
-Alex Ojeda: 
 01:04:53-01:04:55
 Yeah, it's because everyone's going to learn your system.
 
-Alex Ojeda: 
 01:04:55-01:04:57
 That's why it's going to get better and better.
 
@@ -4370,19 +4359,15 @@ Alex Ojeda:
 01:05:05-01:05:06
 No, just thank you guys for having me.
 
-Alex Ojeda: 
 01:05:06-01:05:08
 I appreciate the time.
 
-Alex Ojeda: 
 01:05:09-01:05:10
 Great conversations.
 
-Alex Ojeda: 
 01:05:10-01:05:11
 Thank you very much.
 
-Alex Ojeda: 
 01:05:11-01:05:12
 Thank you guys.
 
