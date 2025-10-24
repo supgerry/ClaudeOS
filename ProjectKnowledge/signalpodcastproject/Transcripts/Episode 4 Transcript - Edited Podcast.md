@@ -1,3 +1,40 @@
+Evan Reece (00:00)
+Parity is a long-term investment in consumer confidence that when they search for something they should buy it.
+
+Evan Reece (00:06)
+Especially if you run an attraction that has a lot of repeat visits.
+
+Evan Reece (00:09)
+If the first time they buy, they see different prices all over the place, that's going to shift their confidence in making any giving buying decision in the future.
+
+Evan Reece (00:17)
+And you're going to have to spend more marketing dollars.
+
+Evan Reece (00:19)
+This is about honing consumer confidence.
+
+Evan Reece (00:21)
+The dollars will go to the place that deliver the people who convert the highest.
+
+Evan Reece (00:26)
+And if that's the LLM, then that's the LLM.
+
+Evan Reece (00:29)
+But it reinforces the need to have tremendous hygiene between distribution points.
+
+Evan Reece (00:34)
+Because the LLM will find with the inefficiencies.
+
+Evan Reece (00:37)
+How do you identify the consumer behavior you wish to see?
+
+Evan Reece (00:42)
+And then how do you build pricing strategies to try and drive that behavior?
+
+Evan Reece (00:45)
+And then how do you measure how successful you are doing?
+
+
 John Pendergrast (01:03)
 Today we're joined by Evan Reece, an entrepreneur whose career has been defined by one big idea. Pricing isn't just about numbers, it's about shaping behavior. Evan is best known for pioneering real-time pricing strategies in industries like ski resorts. You might have heard of Lyftopia or Catalate, where he showed operators how to balance demand, value perception, and guest satisfaction.
 
