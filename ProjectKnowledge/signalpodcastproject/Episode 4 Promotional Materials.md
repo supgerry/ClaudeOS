@@ -4,6 +4,13 @@ What does it take to build pricing strategies guests actually trust? Evan Reeceâ
 
 **URL Slug:**
 [www.rocketrez.com/signal/episode-4-evan-reece-pricing-confidence-parity-strategy](http://www.rocketrez.com/signal/episode-4-evan-reece-pricing-confidence-parity-strategy)
+https://youtu.be/TvglMQEfZwM
+https://apple.co/4hyoooX
+https://open.spotify.com/episode/0aRU32sYKLwB1wCuXR6WY9?si=-aatZ30ITaywBabUbEC0FA
+https://music.amazon.com/podcasts/b9c3a5f6-3d15-4117-8699-7849c67bad09/episodes/5b32aabb-92d5-4a34-82fc-4bdb6e310827/pricing-confidence-parity-and-behavioral-strategy-with-evan-reece-ceo-of-truestme-former-ceo-liftopia-catalate
+
+
+
 
 ## **Long-form (for blog/website, LinkedIn, newsletter)**
 
