@@ -1,4 +1,3 @@
-Tim Samson (00:00.853)
 Okay.
 
 Hmm.
