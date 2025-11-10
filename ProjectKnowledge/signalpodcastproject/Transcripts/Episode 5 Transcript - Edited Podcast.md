@@ -634,9 +634,6 @@ Mm-hmm.
 Shaun McKeogh (37:50)
 And so that's an area for improvement, you know, is having more impactful, more stronger leaders that know what their responsibilities are, their roles, and they have the skills and the confidence and competence to be able to deliver those hard conversations. So that's a skill we have to develop within our leaders.
 
-Tim Samson (37:58)
-Good luck.
-
 John Pendergrast (38:08)
 So how do you, I mean,
 
@@ -644,8 +641,6 @@ So how do you, I mean,
 
 I feel a little bit like I'm sitting at the feet supreme leader of understanding all this is really great. I'm really enjoying it. I'm like, oh, I'm going to learn so much. It's great. And I know that that's like the most insulting thing you can say to Australian is to compliment them. I apologize. I have a very close Australian friend and he always yells at me whenever I give him compliments.
 
-Tim Samson (38:30)
-You ⁓
 
 John Pendergrast (38:35)
 But I'll say this, so a lot of attractions, especially in the mid-market, are families. They're family attractions. They've been around for 60, 80, 90 years. And it's their brothers and sisters and cousins, and it's all in the family, that kind of thing. And yet you have a marketing person, or you have someone who is just...
@@ -695,22 +690,15 @@ communicate the importance transparency and empower everyone else in the busines
 
 how we can improve and that we need to know, don't just view us as family. They need to make that point because everyone else in the business, that's not family, we put that barrier up. We think we can't say something. We shouldn't say something or else the family's gonna all get together and then be against us. think that's just a natural thing that happens in our minds.
 
-Tim Samson (40:56)
-and I'm just making
-
 Shaun McKeogh (41:03)
 But look, if we do say something about that manager and the business does gang up against us because they're family, not the right business for us to be working in because that business is so family focused that it is detrimental to its success. So we do have to ascertain if a family business is that way or not. That is a reality.
 
-Tim Samson (41:18)
-Thank you.
 
 John Pendergrast (41:28)
 certainly have seen that.
 
 Shaun McKeogh (41:28)
-It's not but it's
-
-something we do have to ascertain.
+It's not but it's something we do have to ascertain.
 
 John Pendergrast (41:31)
 I mean, I almost feel like at this point in time, to a certain extent, I want to just set you free to start answering questions that we haven't asked, Shaun. But we'll keep asking questions to keep the conversation moving. But if you suddenly go, have this thing I want to drop on you, I'd
@@ -719,9 +707,6 @@ Tim Samson (41:39)
 You
 
 I mean, I
-
-Shaun McKeogh (41:44)
-you
 
 Tim Samson (41:44)
 feel like I feel like we're getting so much insight. Like I'm very much with you, John. Like, like I've heard Shaun speak before at things, but but I feel like we've really gotten to dig into some things that we haven't made it through, like half of the stuff we were going to ask you. So so that's part of it. But just to kind of riff off, you know, the family situation, I think that it's not limited to family orgs. Right.
@@ -743,19 +728,12 @@ You have these larger orgs and lots of times departments become families and the
 Shaun McKeogh (42:23)
 relationships we have are really, are really a challenge actually within an organization because we all start out most likely within an attraction at the frontline, right? And we move up, we become the supervisor and then we become or team leader and then the supervisor and then the manager and moving from, you know, as a team member, we're trying to fit into the team. We're trying to
 
-Tim Samson (42:23)
-You
 
 John Pendergrast (42:24)
 Go ahead, John.
 
 Shaun McKeogh (42:48)
 make sure that everyone respects us and is where we fit in and everyone likes us. And then the moment we become a team member, we do have to start to, you know, sometimes deliver harder, firmer, more direct messages. And so separating ourselves from those friendships and that teamwork and being able to deliver a more firm, direct message is really challenging.
-
-Tim Samson (42:57)
-Okay.
-
-Thank
 
 Shaun McKeogh (43:14)
 at first. I remember when I was ⁓ made that quick transition from teaching to the theme park industry. I was a teacher, so I was older than everyone When I first joined on the carousel at Warner Brothers Movie World, I didn't have to fit into the team. I didn't have to worry about the relationships and being everyone's friend. I was very focused on just
@@ -768,9 +746,6 @@ Okay.
 
 Shaun McKeogh (43:37)
 doing my job and showing the skills and passion I had what I wanted to achieve within the industry. So for me, catapult through the industry or becoming a trainer and manager was quite fast because I already had a lot of those skills. So I didn't have to worry about fitting in with everyone. So that for me was...
-
-Tim Samson (43:50)
-you
 
 Shaun McKeogh (44:00)
 That helped me with my quick transition into the industry because I already had lots of skills that were transferable.
@@ -798,9 +773,6 @@ doesn't work if we just have the suggestion box where people put their suggestio
 John Pendergrast (45:48)
 Right.
 
-Tim Samson (45:59)
-Thank ⁓
-
 Shaun McKeogh (46:07)
 let's create how to be a business owner, how to be partners in this business. And so we created a process where they all employees could think like the owners of the business. And they identified for every problem in the business, this is what we want you to think about. we templated the process. We want you to think about the outcome, the cost, the timing, the resources.
 
@@ -808,8 +780,6 @@ The viability, all of those sorts of things that a business owner would think of
 
 They identified the issue, they then said how it could be solved, and they thought like a business owner. Then they put that idea into a suggestion box. We then had a process that was by design to actually take that box every month, every week, and actually document all of the suggestions that have been put in there, all the problems and all the suggestions. And then every month we had representatives from across the whole organization.
 
-Tim Samson (47:07)
-Okay. Okay.
 
 Shaun McKeogh (47:21)
 that would meet and look at every single problem that was in there and suggestion on how to answer it. And then we had a team of people that actually looked at the viability of the responses that were there and actually
@@ -825,9 +795,6 @@ Now those responses that were actually implemented and solved, the employee actu
 John Pendergrast (48:03)
 huh.
 
-Tim Samson (48:04)
-Bye.
-
 Shaun McKeogh (48:11)
 you know, insurance or saved on back issues or whatever it is, then the employee got in their pay packet extra for the year. Here's the best bit about it is we actually, had miles and miles of tunnels under Ferrari World in Abu Dhabi, employee tunnels that we could walk under. And what we did is we used those walls and we put up the suggestions that were implemented.
 
@@ -841,11 +808,6 @@ Well said.
 
 Yeah, that's a scorecard, right? Like that gives people an opportunity to be a little competitive, but also to be a part of the equation. you have a big focus on safety culture and really trying to think about how to have a safe culture for the people involved.
 
-Tim Samson (49:08)
-and
-
-you
-
 John Pendergrast (49:20)
 That's, I mean, given present political climes of which we are not going to speak at all, that is a loaded phrase, and I'm curious how you define that.
 
@@ -853,9 +815,6 @@ Shaun McKeogh (49:30)
 Look, I think a safety culture is very much where every employee that's part of the business feels that it's their responsibility to look after safety, keep an eye on safety, and to take safety seriously for both the guests that come to the business, but also for
 
 their colleagues and themselves. So that's the three elements, the guests, their colleagues and themselves. And so often a safety culture can only focus on the guests. Sometimes it can only focus on keeping their colleagues safe, but it's about keeping them safe as well. That three, know, Trinity, when it comes to safety is so important and
-
-Tim Samson (50:09)
-you.
 
 Shaun McKeogh (50:15)
 everyone taking ownership for it
@@ -872,8 +831,6 @@ Yeah, and there was a huge disconnect for a period of time, I think COVID taught
 
 and they continue to communicate with them and keep them informed and they might not have had the finances to keep paying them, but they still made a commitment to them. And that really came out in COVID. for those companies that didn't have a strong culture and then COVID hit,
 
-Tim Samson (51:16)
-Point.
 
 Shaun McKeogh (51:31)
 I think they certainly learn a lot about the importance of keeping an engaged workforce because it was so much harder for them to restart and, people back.
@@ -898,8 +855,6 @@ Hmm.
 Shaun McKeogh (53:41)
 to be nice, but they're not being effective. But the supervisors actually say, hey, John, the way in which you recognise that difficult guest at lunchtime with your eye contact and an open demeanour, it really made an impact on the guests. The guests felt as though you really were listening to them and that you cared for them. You created a repeat visitor in that guest.
 
-Tim Samson (53:43)
-Thank you. you.
 
 Shaun McKeogh (54:09)
 Thank you for doing so by teaching our leadership and supervisors that sort of effective feedback and recognition is so much better than that. Hey, everyone, great job today. Because what the supervisor and leader is doing recognizing the small behaviors that we want to be repeated with our guests and those behaviors.
