@@ -980,9 +980,6 @@ It's the only thing we do consistently.
 John Pendergrast (57:57)
 Yeah, okay, here we go.
 
-Shaun McKeogh (57:57)
-you
-
 John Pendergrast (57:59)
 best attraction you've ever visited purely for fun.
 
@@ -1014,9 +1011,7 @@ John Pendergrast (58:41)
 Yeah.
 
 Tim Samson (58:41)
-Take
-
-them out of the place with guests and bring them somewhere there's none. Yes. I never did that. I was a marketer. never did that. Biggest hiring mistake you see.
+Take them out of the place with guests and bring them somewhere there's none. Yes. I never did that. I was a marketer. never did that. Biggest hiring mistake you see.
 
 John Pendergrast (58:45)
 Yeah.
@@ -1080,9 +1075,6 @@ gee, that's a really, really tough one. I want them to have so many. think the a
 
 have the confidence and the capability to actually communicate that in their recognition with the employee because that's what's going to help that process of continual improvement and helping the employee to do better and feel better about what they do and the contribution they make to the business.
 
-Tim Samson (1:01:42)
-you
-
 John Pendergrast (1:01:57)
 No.
 
@@ -1099,14 +1091,10 @@ Tim Samson (1:02:03)
 I think we need to name it something other than lightning because I don't think that was lightning.
 
 John Pendergrast (1:02:06)
-Well, Gerry can confirm
-
-one way the other, but I think that's the best we've done.
+Well, Gerry can confirm one way the other, but I think that's the best we've done.
 
 Tim Samson (1:02:10)
-Yeah,
-
-so you, you've built a career on helping people deliver, you know, these magical experiences and there are a lot of operators. I hope, I hope there's a lot of operators listening right now, but
+Yeah, so you, you've built a career on helping people deliver, you know, these magical experiences and there are a lot of operators. I hope, I hope there's a lot of operators listening right now, but
 
 For those operators who are listening right now who are either thinking about culture and things that they can change now and year round operations or those in seasonal operations that are thinking about how can we implement change next year? What's the one thing that they should start doing next week or tomorrow to effect change?
 
@@ -1115,48 +1103,26 @@ one thing that they could do next week is just gather people in the room, their 
 
 you know, a few hours or a whole day where just different parts of the organization are just being really open and honest and just capturing that snapshot and then asking the question, how can we do better? Because then that starts the process of being able to focus on something as a whole organization, no matter what part of the business we're in, we can be focused on that.
 
-Tim Samson (1:03:20)
-you
-
-Hmm.
 
 Shaun McKeogh (1:03:30)
 and it gives us something collectively that we focus on, it will start to create a common language, identifying the common issues, and then starting to problem solve that process. And hopefully in the end, what we've done is by going through, a challenge like that, that's collective across the whole organization,
 
-Tim Samson (1:03:33)
-Thank
-
-Okay.
 
 Shaun McKeogh (1:03:51)
 we're developing the culture of the organization because we're starting to touch on the issues, service isn't good, or we're starting to talk about human resource issues, we're starting to talk about leadership issues. It opens up a whole can of worms, if you like, in regards to change management and what needs to change. And that process in itself is a good process.
-
-Tim Samson (1:04:03)
-Thank
-
-Thank
 
 Shaun McKeogh (1:04:18)
 healthy process. We can start
 
 it next week and everyone has a view on it. Everyone can be engaged in that process and then we can start building a plan and towards continual improvement. And Tim, I think you've heard me say this before, but you know, if an organization does not have a detailed plan written down about how they're going to deliver service and achieve service, then
 
-Tim Samson (1:04:21)
-Okay.
 
 Shaun McKeogh (1:04:44)
 service delivery is not important to them. And so many organizations don't have a detailed plan written down. They just say we aim for it. that's something they can start next week. And believe me, it will engage everyone at every level.
 
-Tim Samson (1:04:49)
-Thanks.
-
-Good
 
 John Pendergrast (1:04:58)
 that leads into the follow on question that I would have asked is, what qualities do you see in the next gen attraction leaders, what are they gonna need most in managing their teams and how do you cultivate that? Now, and you've answered a little bit of it, but how are you looking at the next gen leaders? The leaders of 10 years from now, how do we cultivate those? How do we cultivate those people?
-
-Tim Samson (1:05:08)
-you
 
 Shaun McKeogh (1:05:19)
 Yeah, and I think that something that's been evolving is that we can't presume that our next-gen leaders have the skills that we presume that they have. As an organisation, what we do need to do is we need to identify what are the leadership skills that we want to see in our leaders at our organisation, and every organisation is different.
@@ -1167,12 +1133,6 @@ Mm-hmm.
 John Pendergrast (1:05:30)
 Right.
 
-Tim Samson (1:05:33)
-you
-
-Thank
-
-Thank ⁓
 
 Shaun McKeogh (1:05:42)
 So go through that process of identifying the skills for our organization, for our
@@ -1180,9 +1140,6 @@ So go through that process of identifying the skills for our organization, for o
 leaders and identifying, profiling, what is a good leader at our organization and being able to name that. And that helps us in that strategic planning process. And I certainly think that obviously communication and managing up
 
 is important and managing down and managing across our colleagues and having being brand ambassadors and what that means to be a good brand ambassador of yourself and is very important and looking at what it means to be a brand ambassador for our organization and looking at having the hard conversations with our employees.
-
-Tim Samson (1:06:14)
-Okay.
 
 Shaun McKeogh (1:06:29)
 and being real
