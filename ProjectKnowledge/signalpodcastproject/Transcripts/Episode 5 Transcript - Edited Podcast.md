@@ -45,14 +45,10 @@ Right. if I re-record that and Gerry likes splices that
 no one will know and they'll have no reference for what you just said.
 
 Shaun McKeogh (02:12)
-I
-
-like it, I like it. Just leave it the way it is.
+I like it, I like it. Just leave it the way it is.
 
 John Pendergrast (02:13)
-So I
-
-like it. Yeah. So we were doing this recording earlier and I was, I started this way to say, don't worry about what you say here because the reality is, that we have an grade a expert editor. And at the beginning of our first podcast in episode one, I was watching it through. I'm like, this is great. I mean, Tim, she's cutting him perfectly.
+So I like it. Yeah. So we were doing this recording earlier and I was, I started this way to say, don't worry about what you say here because the reality is, that we have an grade a expert editor. And at the beginning of our first podcast in episode one, I was watching it through. I'm like, this is great. I mean, Tim, she's cutting him perfectly.
 
 Tim Samson (02:15)
 Hahaha!
@@ -67,33 +63,17 @@ God, I don't know where you got this background information, but yeah, I was a c
 
 Where did you get this information? my God. I many years ago, I was in the Moomba Clown Club. And Moomba is a Melbourne festival in Australia. And it's been going on for many, many years. And they had a professional clown club. And I joined it because I wanted to be a clown. And I developed my own costume, my own name for my clown and my own look.
 
-John Pendergrast (03:28)
-you
-
-Tim Samson (03:32)
-F-
-
-John Pendergrast (03:31)
-really
-
-good sourcing.
-
 Shaun McKeogh (03:51)
 And I spent 12 months in training in these classes going every weekend to the Moomba Clown I suppose the big thing that we aimed for was the parade that we had every year through the city. And I actually did the parade in my own costume as a clown. I have no idea how you got that info.
 
 John Pendergrast (04:09)
-We have our sources,
+We have our sources
 
 Shaun McKeogh (04:10)
 So what was your question?
 
 John Pendergrast (04:11)
 Yeah, see that was a really good, it was a great political answer there because we asked a question and then he reframed it and now I don't even know. I'm gonna go back and read it. worn a lot of hats, including being a clown as we've now ascertained. How on earth did you end up as a trainer?
-
-Tim Samson (04:14)
-You
-
-You
 
 Shaun McKeogh (04:27)
 Good question. Good question. Well, I suppose I'd be... No, I couldn't get the juggling. I was very good at smiling as a clown, so that got me through the parade. But yeah, I began my career as a teacher, a primary school teacher. And I was a good primary school teacher or elementary teacher, as you say in the USA. And I did that for about 10 years. But...
@@ -113,8 +93,6 @@ gonna work during the school holidays then that school holidays extended to six 
 
 so I went from the carousel to trainer and it went from there.
 
-Tim Samson (06:04)
-Bye.
 
 John Pendergrast (06:05)
 That's amazing. It's funny because I mean, if you always had to fall back to a trade, you could always fall back to clowning, right? Sorry. I know that's why I lied.
