@@ -906,8 +906,6 @@ Thank you for doing so by teaching our leadership and supervisors that sort of e
 
 are
 
-Tim Samson (54:36)
-Okay.
 
 Shaun McKeogh (54:36)
 the things that help the guest experience. And so it's all about the leaders and the supervisors and they're skilling them and empowering them with the right effective things to do with their team so that our team are really impacting the guest experience. And it's about recognizing the small behaviors we want.
@@ -920,8 +918,6 @@ Mm-hmm.
 John Pendergrast (55:02)
 Yeah, reminds me of the Dale Carnegie, how to make friends and influence people. Like that idea of, you know, that you don't ever give someone a compliment that's like, good job. You always be like very specific about what you're complimenting them about.
 
-Tim Samson (55:09)
-you
 
 John Pendergrast (55:15)
 for that same reason and that idea of smile and say their name is the most influential word in their life and you those kinds of things. I think it's fascinating to see how those things have been kind of universal truths that carry forward and are so useful inside organizations and are probably not enforced or at least underlined enough We need to be reminded on a regular basis and I appreciate that.
@@ -944,26 +940,11 @@ Right.
 Shaun McKeogh (56:02)
 or being strategic about doing a team building activity in that morning and then setting everyone up in the team to actually go out with a happy attitude back to the guests for the day. That's about making the workplace fun. It's about working with our human resource department to actually have, by design,
 
-Tim Samson (56:16)
-Thank you.
-
 Shaun McKeogh (56:25)
 engagement program where we're inviting people back to celebrations that are fun and engaging. We can celebrate as a team and our achievements and by design that's making the workplace fun. It's being creative in the workplace and at the right time just being authentic, you know.
 
-Tim Samson (56:40)
-Thank
-
-you
-
 John Pendergrast (56:47)
 Yeah, totally. say it this way, you are both a very engaging and fun individual to interview and also a very hard interview. And I'll tell you why. I'm watching Tim and I'm watching myself on the camera occasionally and I'm seeing us pause, look up to the right as we're processing what you're saying and going.
-
-Tim Samson (56:51)
-you
-
-you ⁓
-
-Okay.
 
 John Pendergrast (57:05)
 Oh, I need to think about that a little bit. And so I'm having this great opportunity to learn at the same time as to kind of think about, how would I apply that?
