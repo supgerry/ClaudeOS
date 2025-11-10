@@ -145,18 +145,10 @@ where they wanna be and what they wanna be. And once they've imagined that, you 
 
 But you have to undo a lot of it to actually head it in the right direction. And that is really hard work to change the culture that's already been established. But for us at Ferrari World, it was a dream because there was no culture that had been So every single employee that came on, we were able to tell the story of the culture that we wanted to create.
 
-Tim Samson (07:42)
-Thank
-
-Pretty cool.
-
 Shaun McKeogh (08:04)
 And we were able to together imagine and set the story and set the tone and set the policies that helped us to create that culture that we wanted. So in so many ways, we were so lucky to have the ability to imagine it, a culture and a world-class vision and build it step by step. It was such an easier
 
 process. And we were so lucky, we went to 32 different countries to get employees, because we didn't want Ferrari World to just be filled with one cultural group, we wanted it to be filled with the diversity of the world, so that everyone, no matter where you came from in the world, you were welcomed. And we wanted
-
-Tim Samson (08:32)
-Okay. ⁓
 
 Shaun McKeogh (08:50)
 our staff to represent everyone else. And yeah, there were so many initiatives that we took.
@@ -199,14 +191,9 @@ Yeah, yeah, that makes sense. I'm fascinated by culture. It's one of the things 
 
 reading culture books and thinking about culture and how can you make it better. And there's no end to it. as you look at what you just said about being very deliberate, there's kind of an old maxim. I certainly didn't come up with it, but which is every business has a culture. It's...
 
-Tim Samson (11:44)
-.
-
 John Pendergrast (11:56)
 what if you set it or if it set itself, it's gonna exist. the only way you have a positive culture is to be incredibly deliberate and consistent. Because culture has a tendency of atrophy or of degrading over time if you're not consistent with it. So interesting, I love it.
 
-Tim Samson (11:58)
-you
 
 Shaun McKeogh (12:17)
 Yeah. And
@@ -215,9 +202,6 @@ I just wanted to say that we named that culture and that culture that we named w
 
 John Pendergrast (12:34)
 Yeah, I hear it.
-
-Tim Samson (12:36)
-Thank
 
 Shaun McKeogh (12:36)
 feedback. There were so many aspects to that culture that we wanted people to be able to name and see and feel. so it wasn't just one aspect. was quite a lot. You could describe it in so many ways, depending on where you were and what you were feeling at the different times within the organization.
@@ -258,22 +242,13 @@ and that they walk out of that induction process motivated and in love with the 
 
 You know, they don't talk to their friends and their family about their workplace positively. They don't refer their friends to the workplace. So our employees have to feel like they're in love with the company and we have to build that. They have to be proud of their company. So we have to build initiatives that help them to be proud of their company give them things to talk about.
 
-Tim Samson (16:20)
-watching.
-
 Shaun McKeogh (16:35)
 that make them feel proud. Give them things that they are proud to deliver to their family and friends, which might be tickets to the park. And they can be proud to share those tickets or those incentives or those
-
-Tim Samson (16:46)
-Mm-hmm.
 
 Shaun McKeogh (16:49)
 offers. You know, we've got to be very strategic about making sure that if an employee is here for only six months, that we welcome them just as any other employee. And we give them the same startup.
 
 so that they're in love with our company, they can be ambassadors for our company, and they can invest in our company. And by that I mean when a
-
-Tim Samson (17:03)
-Thank you.
 
 Shaun McKeogh (17:11)
 guest is, you know, shouting at them or angry and in their face, they are so invested in the company that they defend the company or that they speak positively for the company or that they bend over backwards for the company to ensure
@@ -290,48 +265,27 @@ I pulled off my shelf here while you were talking, but it reminds me very much o
 Shaun McKeogh (17:42)
 Ayes.
 
-Tim Samson (17:43)
-Yeah.
-
 John Pendergrast (17:50)
 engaged, loyal, they say customer centric employees. everyone goes through Disney U and they label everything down to, you know, you're a staff member, right? Like you're not a staff member, you're like, you're part of the show, right? Like you might be backstage, but you're part of the show. And there's like this whole, this whole kind of idea behind it. And what you said is very much along that same line of getting people radically engaged and ownership
-
-Tim Samson (18:15)
-Okay.
 
 John Pendergrast (18:16)
 of it themselves
 
 It's just an interesting theme that continues throughout. I think I certainly see a gap there in most organizations on those kinds of feelings, right? Like there's not a lot of effort being put in. And so I guess my question for you to follow on from Tim is to say, you know, when you're talking to ownership of some of these facilities that you work with, they're probably coming and saying, you know, well, show us the ROI. Like, what's the ROI of this? How would you characterize that? Like, how do you approach that for people?
 
-Tim Samson (18:33)
-Thank
-
-you
 
 Shaun McKeogh (18:44)
 Yeah, and look, that is a very valid point, show us the ROI. And the return on investment for giving hours to staff to do an induction, giving hours to staff to do training and coaching on service delivery, it's there. It's there in the numbers.
 
-Tim Samson (18:46)
-.
 
 Shaun McKeogh (19:03)
 but the numbers they're only useful to you if you're actually measuring, for example, when, let's just talk about service. If we're measuring service before we implement an initiative, and then we measure service after the initiative has been implemented, and that measure might be a dollar figure on sales, on upsells, or it might be a dollar figure
 
 on overall sales within an outlet or a department, or it might be retention. And retention is a really good return on investment number to look because it costs for people to keep moving on. It costs a lot of money for us to replace people and retrain people. But the longer we keep them, the cheaper it is because we're not re-employing, we're not retraining. But we're also developing
 
-Tim Samson (19:28)
-Yeah.
-
-Okay.
-
-Thank
-
 Shaun McKeogh (19:52)
 highly skilled and highly engaged and we're developing people that are a lot more effective the longer they stay with us, the longer they're engaged with us. So that is a huge return on investment example of why it is so valuable to engage people and put the right amount of time and training into them and to have all the initiatives to retain our employees.
 
-Tim Samson (20:07)
-Hi.
 
 Shaun McKeogh (20:19)
 so that they're proud of the workplace, they're engaged in the workplace and they wanna stay in the workplace. So they're really good examples. And look, that book that you just referenced there would reference the importance of
@@ -340,11 +294,6 @@ engagement by design, service by design. So when it comes to service, as Tim ask
 
 John Pendergrast (20:37)
 Mm-hmm.
-
-Tim Samson (20:40)
-Thank you. I'm
-
-a moment to thank here. I'm going to a to you I'm a you for being here. I'm going to to you for for I'm going to for
 
 Shaun McKeogh (20:44)
 you know, that company that doesn't invest a lot of money or a lot of time into people. Well, they're going to be the ones that invest just one hour in the new employees in service training, right? What impact can one hour of training have
@@ -355,10 +304,6 @@ They've got service programs that develop skills, develop knowledge, and develop
 
 that time and effort that's put into that employee to deliver great service and understand all the systems that help them deliver service is going to create a better outcome because we're going to create more money, repeat visitors.
 
-Tim Samson (21:29)
-Okay.
-
-Thank you.
 
 Shaun McKeogh (21:36)
 ⁓ and we're going to sell a lot more product and have a lot more of a better experience for guests. And that is, that is the return on investment of, you know, all that time training and coaching.
@@ -387,18 +332,8 @@ And then what does that look like in regards to being effective? Because we want
 
 First of all, what they need to do their job well, and then what do they need to exemplify and be ambassadors for our organization. And you have to sprinkle that over the top. And that might mean that every four weeks or every eight weeks of their journey, there's some sort of strategic initiative that brings them back to either celebrate or acknowledge, you know,
 
-Tim Samson (23:07)
-Okay.
-
-Thank you.
-
 Shaun McKeogh (23:33)
 where they've come from, what they've achieved and thank them for that. And it might be a motivation event. might be an opportunity to just gather and do some sort of team event together, a celebration of what they've achieved so far. You have to look at their journey, how long they're with us and strategically plan it out by design.
-
-Tim Samson (23:40)
-Thank
-
-Yeah.
 
 Shaun McKeogh (23:56)
 And it can happen and it can be done with whatever budget you've got. You know, it doesn't matter what budget. Disney is going to have a big budget. They've got, you know, access to large budgets. So things are going to look different. But in a small organization, we could still achieve the same outcomes with a small budget. But we do it in different ways. And it's ⁓
@@ -420,7 +355,7 @@ Tim Samson (25:16)
 Yep, so we.
 
 Shaun McKeogh (25:20)
-Don,
+John,
 
 I know what you're saying. You really touched on the fact that how do we get our employees to be real partners in the business and feel like they're part owners, right? And that is really, really an important point that we have, know, in engaging employees in the workplace, we have to start aiming towards that. And I'll give you a really good example of how that
 
@@ -434,8 +369,6 @@ impact can be seen. At Warner Brothers Movie World many years ago when I first w
 
 That was the end of their day. That process would happen every day in every food and beverage outlet. And the employees really didn't know how much money their outlet made. They didn't know what their individual sales output was. Okay. We turned that around a little bit and as an experiment, and we said to that outlet, okay, you're now in charge of this outlet's profits.
 
-Tim Samson (26:14)
-Bye! ⁓
 
 Shaun McKeogh (26:29)
 everything that your team does in this outlet, you'll see all the results. So by sharing the results with that team and making them responsible for their profits in their outlet, it was the bakery, the employees started to notice that, when they made an extraordinary effort and said, with this pie,
@@ -449,14 +382,9 @@ I'm not going to go into steps that I've I'm going into
 Shaun McKeogh (26:52)
 would you like sauce? They could see that would go up. And the sauce sale might've been next to 50 cents, know, would you like
 
-Tim Samson (26:52)
-that I've to the steps I'm steps to I'm going I'm going go the I'm going the I'm
 
 Shaun McKeogh (27:03)
 a sauce with that? And every time they said that, they saw the 50 cents go up and that, and so the manager of the outlet said, hey everyone, let's all say, would you like sauce with that today? And by doing that,
-
-Tim Samson (27:09)
-Yes.
 
 Shaun McKeogh (27:17)
 this outlet started to learn that, wow, if we all said the same thing or we all added something on to the sale consistently, our sales go up.
@@ -465,36 +393,23 @@ And that's what they saw. that performance of that individual outlet once they h
 
 and could see the results. We started to make them business partners and we recognised that and that made a huge difference.
 
-Tim Samson (27:42)
-Thank you.
-
 John Pendergrast (27:46)
 That's really fascinating.
 
 That's really fascinating because I mean, ⁓ tours and attractions is a great example. And it happens in other industries as well, but of course, but it's pretty full on. Like you are working very, very long hours, very long days for sometimes very brief period of time during the seasonal aspect of it. And you were full on.
 
-Tim Samson (27:54)
-Thank ⁓
 
 John Pendergrast (28:06)
 And it is very easy to kind of devolve into negativity of, ⁓ why is management making these decisions? Why is this? What you just said is a really interesting way of getting people to own something themselves and to take personal pride in the fact that, hey, they figured out that they can upsell sauce. And I bet you that wasn't the only thing they figured out.
 
-Tim Samson (28:23)
-You miss it.
-
 John Pendergrast (28:26)
 I can't imagine that you come into every facility and it's like, we have a great culture. It's awesome. Very often you come in and people are like, who are you? So how do you address that? Where do you start?
 
-Tim Samson (28:37)
-Peace.
 
 Shaun McKeogh (28:38)
 There are so many
 
 organizations you go into and it's just like that. and look, it's not about, it can't be about me. And it's about the organization coming to the realization of what matters and what makes an impact. and sometimes it's as simple as the things that the managers are or
-
-Tim Samson (28:56)
-Thank
 
 Shaun McKeogh (29:01)
 are not doing.
@@ -568,8 +483,6 @@ actually this is not the culture that I'm gonna feel most productive in, and we 
 
 So an effective probation period is really about identifying if an employee, the employee that we've chosen through the recruitment process is right for our business and is right for our culture. And if leaders are not and supervisors are not using that probation period well,
 
-Tim Samson (34:47)
-Thank
 
 Shaun McKeogh (34:48)
 and giving feedback
@@ -590,9 +503,6 @@ Okay, look, was in their probation period, I would utilize that probation period
 
 where the culture fit is not right. We have to be really honest with that. We have to be honest with that employee, even if they've been a long-term employee, they're a great employee, but they're impacting negatively on our culture. We have to be upfront with them. We have to sit down and we have to be open and honest. And we have to talk about what impact they're making. And ultimately over time, if, you know, through that,
 
-Tim Samson (36:10)
-Thanks
-
 Shaun McKeogh (36:21)
 that two-way conversation, if they're not willing to come on board with our culture, I think that we should move them on. And they should be part of that process knowing that that's the decision where we're heading as well. Because ultimately, they're going to be impacting others around them. And that's not fair. That's not for them to actually impact others around them. Look, if they're only performing, if they're performing great,
 
@@ -602,10 +512,6 @@ Mm-hmm.
 John Pendergrast (36:38)
 Yeah.
 
-Tim Samson (36:44)
-Right,
-
-go. ⁓
 
 Shaun McKeogh (36:46)
 and they're doing a great job and they're not impacting others,
