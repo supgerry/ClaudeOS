@@ -165,6 +165,71 @@ The challenge? No gates. Guests can walk across the boardwalk to competitors any
 For operators thinking about loyalty, this is a practical playbook from a team that shipped it with limited resources.
 
 𝗟𝗶𝘀𝘁𝗲𝗻 𝗻𝗼𝘄: 
-Apple Podcasts: 
-Spotify: 
-YouTube: [https://youtu.be/Bt2aQKFF1uA](https://youtu.be/Bt2aQKFF1uA)
+Apple Podcasts: https://apple.co/4pekAMk
+Spotify: https://open.spotify.com/episode/3UMJ9Si4waPsy6mw1VwP0S?si=mdJindV4TW-gyDHkejH-ww
+YouTube: https://youtu.be/Bt2aQKFF1uA
+
+# Socials - Hosts
+
+
+## John
+
+- **Tag @Tyler Jacobs** on LinkedIn: [https://www.linkedin.com/in/tyler-jacobs-a19136147/](https://www.linkedin.com/in/tyler-jacobs-a19136147/)
+- **Tag @Tim Samson** on LinkedIn: [https://www.linkedin.com/in/timothysamson/](https://www.linkedin.com/in/timothysamson/)
+
+**Copy:**
+
+Tim and Tyler Jacobs talk almost every day.
+
+So when we sat down to record this episode of Signal, I already knew this wasn't going to be a normal interview. These two have a shorthand that comes from years of sitting side by side - literally keeping a whiteboard of "Tyler sayings" to track how often "can't be that hard" turned out to be very, very hard.
+
+🎙 **New episode** → [www.rocketrez.com/signal/episode-6-tyler-jacobs-loyalty-program-moreys-piers](http://www.rocketrez.com/signal/episode-6-tyler-jacobs-loyalty-program-moreys-piers)
+
+Here's what I took away from the conversation:
+
+Morey's FAM Club isn't a discount program. It's built around a simple question: how do we get guests to do one more thing with us?
+
+That might sound obvious until you understand the context. Morey's operates on a boardwalk with no gates. There's pizza stands and t-shirt shops literally feet away. Guests can walk across to a competitor anytime. So loyalty can't just be coupons - it has to create actual value.
+
+Tyler and his team launched this in four months with a core group of three. Real-time offers hitting guests' phones within five minutes of stepping off a ride. And the whole thing runs on years of foundational data infrastructure they'd been quietly building.
+
+What I found most interesting was the philosophy behind the offers themselves: they have to be valuable. Not just "buy one chips, get a second free" - that was apparently an old cautionary tale Tim still gets blamed for. Actually valuable offers.
+
+If you're an operator thinking about loyalty and wondering whether you need a massive budget or a giant tech team to pull it off - this conversation might change your perspective.
+
+🎧 Listen now: 
+Apple Podcasts: https://apple.co/4pekAMk
+Spotify: https://open.spotify.com/episode/3UMJ9Si4waPsy6mw1VwP0S?si=mdJindV4TW-gyDHkejH-ww
+YouTube: https://youtu.be/Bt2aQKFF1uA
+
+## Tim
+
+- **Tag @Tyler Jacobs** on LinkedIn: [https://www.linkedin.com/in/tyler-jacobs-a19136147/](https://www.linkedin.com/in/tyler-jacobs-a19136147/)
+- **Tag @John Pendergrast** on LinkedIn: [https://www.linkedin.com/in/john-pendergrast-082820/](https://www.linkedin.com/in/john-pendergrast-082820/)
+
+**Copy:**
+
+Tyler Jacobs and I talk almost every day.
+
+So when he joined John and me on Signal to break down how Morey's FAM Club came together, it wasn't a formal interview—it was the kind of conversation we'd have anyway, just with microphones on.
+
+🎙 **New episode** → [www.rocketrez.com/signal/episode-6-tyler-jacobs-loyalty-program-moreys-piers](http://www.rocketrez.com/signal/episode-6-tyler-jacobs-loyalty-program-moreys-piers)
+
+Here's what makes this story worth your time:
+
+Tyler and a core team of three launched FAM Club in four months—integrating systems, cleaning years of guest data, and delivering real-time offers within five minutes of a guest stepping off a ride.
+
+(Tyler will protest this framing—he's quick to point out that a ton of people across Morey's made this happen. But someone had to drive it, and that was him and his team.)
+
+And here's what I love about how Morey's approaches loyalty: it's not about discounts. It never has been. It's about getting guests to do **one more thing** with us instead of walking across the boardwalk to someone else.
+
+That's the reality of operating on a boardwalk with no gates. Guests can leave anytime. So loyalty has to create real value—not just coupons.
+
+Tyler shares the edge cases that almost broke everything, why certain offers fell flat internally, and how years of foundational data work made that four-month sprint possible.
+
+If you're thinking about loyalty for your operation, this is a practical playbook from someone who shipped it with real constraints.
+
+🎧 Listen now: 
+Apple Podcasts: https://apple.co/4pekAMk
+Spotify: https://open.spotify.com/episode/3UMJ9Si4waPsy6mw1VwP0S?si=mdJindV4TW-gyDHkejH-ww
+YouTube: https://youtu.be/Bt2aQKFF1uA
