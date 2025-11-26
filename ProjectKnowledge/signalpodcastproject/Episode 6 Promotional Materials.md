@@ -135,7 +135,7 @@ If you're thinking about loyalty for your operation, this episode will challenge
 - Learn more about [RocketRez](https://www.rocketrez.com/)
 - Follow [John](https://www.linkedin.com/in/john-pendergrast-082820/) and [Tim](https://www.linkedin.com/in/timothysamson/) on LinkedIn
 
-Listen now on [**Apple Podcasts* [**Spotify**](https://www.notion.so/rocketrezticketing/link), or [**Amazon Music**](https://www.notion.so/rocketrezticketing/link).
+Listen now on **Apple Podcasts**, **Spotify**, or **Amazon Music**.
 
 **Button:** Listen to Episode 6 →
 
